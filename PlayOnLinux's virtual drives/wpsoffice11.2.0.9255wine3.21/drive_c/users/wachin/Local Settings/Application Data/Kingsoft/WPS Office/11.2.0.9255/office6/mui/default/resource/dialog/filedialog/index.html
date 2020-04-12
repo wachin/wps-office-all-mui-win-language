@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=icon href=favicon.ico><title>WPS OFFICE</title><style>body{margin:0;box-sizing:border-box;font-family:Arial,Helvetica,sans-serif;-webkit-user-select:none;} .wps-confirm .wps-confirm-box .header .title-icon{position:relative;top:-4px;}</style><link href=css/app.6bbe30a3.css rel=preload as=style><link href=js/app.8256d93c.js rel=preload as=script><link href=js/chunk-vendors.603f0c80.js rel=preload as=script><link href=css/app.6bbe30a3.css rel=stylesheet></head><body><noscript><strong>We're sorry but wps_open_drive doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script>// 添加bind方法,兼容老Qt
+      if (!Function.prototype.bind) {
+        Function.prototype.bind = function (context) { 
+          var args = arguments,
+              obj = arguments[0],
+              func = this;
+          return function(){
+              var argc = Array.prototype.slice.call(args,1);
+              Array.prototype.push.apply(argc,arguments);
+              return func.apply(obj||null,argc);
+          }   
+        }
+      }</script><script src=js/chunk-vendors.603f0c80.js></script><script src=js/app.8256d93c.js></script></body></html>
