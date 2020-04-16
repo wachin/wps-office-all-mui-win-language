@@ -1,10 +1,12 @@
 # wps-office-all-mui-win-language
 Todos los lenguajes del MUI (Multilingual User Interface) de WPS Office de la versión de Windows para usar en Linux
 
-Estos son los MUI y Diccionarios para el tutorial 
+Estos son los MUI y Diccionarios para el tutorial
 
 **Cómo instalar WPS Office 2019 (32 y 64 bits) en español + Diccionarios de Corrección Ortográfica + otros idiomas, para Linux (Ubuntu, Debian, Fedora, OpenSuse, etc)**
-[https://facilitarelsoftwarelibre.blogspot.com/2019/10/como-instalar-wps-office-2019-32-y-64.html](https://facilitarelsoftwarelibre.blogspot.com/2019/10/como-instalar-wps-office-2019-32-y-64.html) 
+<br />
+[https://facilitarelsoftwarelibre.blogspot.com/2019/10/como-instalar-wps-office-2019-32-y-64.html](https://facilitarelsoftwarelibre.blogspot.com/2019/10/como-instalar-wps-office-2019-32-y-64.html)
+<br />
 
 
 Las siguientes son las Instrucciones de cómo instalé WPS Office la versión de Windows 11.2.0.9255  en PlayOnLinux con Wine 3.21
@@ -25,15 +27,15 @@ Las siguientes son las Instrucciones de cómo instalé WPS Office la versión de
 ***************************************
  INSTALAR COMPONENTES DE PLAYONLINUX
 ***************************************
-Aqui además hay que instalar los siguientes componentes, clic en:
+Aqui además hay que instalar los siguientes componentes, clic en:<br />
 
-"PlayOnLinux configuración/Instalar componentes"
+"PlayOnLinux configuración/Instalar componentes"<br />
 
-instale:
+instale:<br />
 
-msls31
-mfc42
-vbrun6
+msls31<br />
+mfc42<br />
+vbrun6<br />
 
 
 ![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-080845_instalandolo.png?raw=true  "Captura de pantalla hecha con Ksnip")
@@ -85,5 +87,3 @@ vbrun6
 ![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200415-091621_descargando_los_diccionarios_idiomas_faltantes.png?raw=true  "Captura de pantalla hecha con Ksnip")
 
 ![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200415-092230_comparaci%C3%B3n_con_el_idioma_descargado.png?raw=true  "Captura de pantalla hecha con Ksnip")
-
-
