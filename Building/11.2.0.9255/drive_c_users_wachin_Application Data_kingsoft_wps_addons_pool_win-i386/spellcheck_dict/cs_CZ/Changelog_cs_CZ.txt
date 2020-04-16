@@ -1,0 +1,6 @@
+Version 1.0
+-dictionary converted from Libre Office 4.1.1.2 to KingSoft Office format
+-renamed "cs_CZ.aff" to "main.aff"
+-renamed "cs_CZ.dic" "main.dic"
+-convertd encoding of cs_CZ.aff "iconv -f ISO8859-2 -t UTF-8 cs_CZ.aff > main.aff"
+-convertd encoding of cs_CZ.dic "iconv -f ISO8859-2 -t UTF-8 cs_CZ.dic > main.dic"

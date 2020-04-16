@@ -1,0 +1,1684 @@
+2013-01-19  Albertas Agejevas <alga@pov.lt>, Rimas Kudelis <rq@akl.lt>
+
+	Šiek tiek kosmetinių pakeitimų ir keletas kitų smulkmenų.
+	Pagaliau (po beveik penkerių metų) oficialiai leidžiam naują versiją.
+
+2011-03-16  Laimonas Vėbra  <laimonas.vebra@gmail.com>
+
+	* AUTHORS:
+	* MANIFEST:
+	* README:
+	* THANKS:
+	* COPYING:
+	* Makefile:
+	* etc/MANIFEST.in:
+	* etc/aspell:
+	* etc/hyph:
+	* etc/mozilla:
+	* etc/openoffice:
+	* etc/aspell/info:
+	* etc/myspell:
+	* etc/myspell/dictionary.lst:
+	* tools/utils:
+	* tools/README:
+	* tools/sort.py:
+	* tools/proc.pl:
+	* tools/utils/guess.sh:
+	* tools/utils/spell.py:
+	* tools/utils/try.sh:
+	* tools/utils/updated.sh:
+	* tools/utils/validator:
+
+	Pertvarkyta projekto katalogų struktūra (daugiau tvarkos, aiškumo; 
+	mažiau šakninių katalogų). Atitinkamai pertvarkytas Makefile ir susiję 
+	failai; suderinta veikti mswin aplinkoje (Cygwin, GnuWin32, 
+	MinGW/Msys). Pašalintas	MANIFEST (dabar jis generuojamas Makefile'e iš
+	etc/MANIFEST.in). Perrašytas README, pridėtas AUTHORS failas,
+	papildytas ChangeLog, kt. pataisymai.
+
+2011-02-02  Rimas Kudelis  <rq@akl.lt>
+
+	* openoffice:
+	* openoffice/description.xml.in:
+	* openoffice/dictionaries.xcu:
+	* openoffice/manifest.xml:
+	* Makefile:
+	* README.EN:
+
+	OpenOffice.org/LibreOffice priedo generavimas, „Mozillos“ xpi 
+	generavimo pataisymas. README.EN faile pataisytas projekto 
+	svetainės adresas iš http į https (vis tiek permeta).
+
+
+2011-02-01  Rimas Kudelis  <rq@sugar>
+
+	* mozilla/Makefile:
+	* mozilla/README:
+	* mozilla/install.js:
+	* mozilla/license:
+	* mozilla/license/README.txt:
+	* mozilla/license/license.txt:
+
+	Ištrinti seni failai iš „mozilla“ aplanko. Šiuolaikinio XPI 
+	generavimas dabar yra vienas iš galimų `make` taikinių.
+
+2011-01-31  Kęstutis Biliūnas  <kebil@kaunas.init.lt>
+
+	* aspell/doc:
+	* aspell/doc/README.txt:
+	* Makefile:
+	* aspell/Copyright:
+	* aspell/info:
+
+	Pataisytas aspell paketo formavimas
+
+2011-01-30  Kęstutis Biliūnas  <kebil@kaunas.init.lt>
+
+	* Makefile:
+	* README.EN:
+	* aspell/doc/README.txt:
+	* aspell/info:
+	* mozilla/license/license.txt:
+	* tools/proc:
+
+	Atnaujintas tools/proc failas;
+	Nuorodos į http://ftp.akl.lt/ispell-lt/ pakeistos nuorodomis į 
+	http://launchpad.net/ispell-lt .
+
+2011-01-26  Laimonas Vėbra  <laimonas.vebra@gmail.com>
+
+	* ChangeLog:
+
+	Laidai parengtas ChangeLog failas. Pakako `bzr log -v --gnu` 
+	ir paredaguoti, paformatuoti.
+
+2011-01-25  Rimas Kudelis  <rq@sugar>
+
+	* Makefile:
+	* mozilla/install.rdf.in:
+
+	Mozillos programų versijų atnaujinimas, code.launchpad.net 
+	pataisyta į launchpad.net Mozillos install.rdf faile. 
+
+2011-01-20  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* README,
+	* lietuviu.aff,
+	* lietuviu.ivairus,
+	* lietuviu.ivpk,
+	* lietuviu.jargon,
+	* lietuviu.veiksmazodziai,
+	* lietuviu.zodziai: [96] 
+
+	Pertvarkytos būdvardžio afiksų taisyklės:	
+	atsisakyta /A žymos ir visas būdvardis sukeltas į /B žymos taisykles;  
+	papildomos žymos /W ir /U skirtos vienam korektiškam  linksniui 
+	nurodyti. Taigi, paprastėja būdvardžių aprašymas, o kartu kiek 
+	sutaupoma vietos (/A ir /B afiksų taisyklės daug kur sutampa). 
+
+	Pataisyta keletas afiksų klaidelių: nekorektiški /Q būdvardžio 
+	aukštesniojo  l. mot. gim. Vt. linksniai (-ėlesnioje; tol-ėlesnioje; 
+	t.b. tol-ėlesnėje), keliolika žodyno klaidų. 
+
+	Pridėta 'Tinklaraštis', keliolika Tomo Straupio pasiūlytų žodžių ir
+	keliasdešimt (tarptautinių, deminutyvinių, priešdėlinių) iš manojo
+	žodynėlio.
+
+2010-12-04  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* README,
+	* lietuviu.aff,
+	* lietuviu.ivpk,
+	* lietuviu.jargon,
+	* lietuviu.veiksmazodziai: [95] 
+
+	Pertvarkytos afiksų taisyklės, kad sangrąžinių veiksmažodžių
+	formų žodyne nereikėtų įrašyti atskirai; dabar jos generuojamos prie
+	pagrindinės veiksmažodžio formos pridedant vieną ar kitą sangrąžinės
+	veiksmažodžio darybos afikso žymą (/R ar /O). Pakeitimai detaliai
+	aprašyti README. Dar keletas smulkmenų. Paprastėja veiksmažodžių
+	aprašymas, mažėja žodyno, hash failai.  
+	
+	Hash failas sumažėjo ~300 kB (~7%), žodynas ~60 kB (~5%).
+
+2010-11-05  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.ivpk,
+	* lietuviu.jargon,
+	* lietuviu.zodziai: [94] 
+	
+	Pataisyta ir/ar atitinkamomis trūkstamomis (būdvardžio ar 
+	daiktavardžio) afiksų žymomis papildyta ~100 būdvardžių/daiktavardžių.
+	Pvz.: 
+	baltagalvis/D -> baltagalvis/B, mėlynanosis/D -> mėlynanosis/BD, t.t.
+
+
+2010-10-28  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.ivairus,
+	* lietuviu.ivpk,
+	* lietuviu.zodziai: [93] 
+
+	Užkomentuota:
+
+	~100 '-okas/.*Q' būdvardžių; tai nekorektiška ir bereikalinga  forma,
+	nes vedinius -okas jau generuoja atitinkamas būdvardis su /Q žyma
+	(pvz.: geras/AQ -> gerokas, tačiau gerokas/AQ -> gerokokas ir t.t.).
+	Tokiu būdu iš žodyno generuojamos aibės iš viso pašalinta virš ~60
+	tūkst.  neteisingų žodžių variantų.
+
+	~1800 '-umas/D' bereikalingų daiktavardžių, nes jų formas generuoja
+	atitinkamas būdvardis su  /Q žyma.
+
+	~60 'ne.*/N', t.y. priešdėlinių dalelyčių žodžių; dažniausiai tai
+	nekorektiška  ir bereikalinga forma, nes žodyne jų variantus jau
+	generuoja atitinkamas žodis  su /N žyma, o dar sykį prilipdant
+	dalelytes gaunami neteisingi variantai  (pvz.: neveiklus/AQN ->
+	neneveiklus, nebeneveiklus ir t.t.).
+
+	Žodyno ir hash failai sumažėjo ~keliasdešimt kB, t.y. ~1-2 %.
+
+2010-10-10  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.ivpk,
+	* lietuviu.jargon,
+	* lietuviu.zodziai: [92] 
+
+	Pataisyta ~70 lietuviu.ivpk klaidų: 
+	- keliasdešimt neteisingų žodžių (senosios problemos likučiai; 
+	  buvo sujauktos balsės ir priebalsės, pvz.:  m->i, u->ė, kt., 
+	  pvz: kibirkštulė, kiaušinulis, šaltmena, ir t.t.);  
+	
+	- dalis '-umas' daiktavardžių užkomentuota, nes bereikalinga
+	  (juos generuoja  atitinkamų kokybinių būdvardžių afiksai), 
+	  keletas pridėta, dalis perkelta  į lietuviu.zodziai, nes DLKŽ 
+	  tokių	(dažniausiai tarminių, retesnių) nėra arba į .jargon, 
+	  jei tokių nėra nei DLKŽ, nei LKŽ.
+
+2010-09-25  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.jargon,
+	* lietuviu.temp,
+	* lietuviu.vardai,
+	* lietuviu.veiksmazodziai,
+	* lietuviu.zodziai: [91] 
+
+	Pridėta ~30 žodžių (dauguma daiktavardžiai, keletas būdvardžių, 
+	veiksmažodžių).
+
+	Iš lietuviu.temp anksčiau surankioti egzotiškesni žodžiai
+	(veiksmažodžių formos), kurių nėra tekstyne (ar reti), perkelti į
+	jargon.
+
+2010-09-21  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* tools/sutrauka.py: [90] Pataisyta sutrauka.py (neveikė su
+	ankstesnėmis už python v2.6 versijomis);
+	https://launchpad.net/bugs/595257 fixed
+
+	Dabar veikia su python v2.3+ (bandyta su win32 versijomis: v2.3.5,
+	v2.6.1)
+
+2010-09-19  Rimas Kudelis <rq@akl.lt>
+
+	* Makefile,
+	* mozilla/install.rdf.in: [87.1.1] Mozillos paketo atnaujinimai.
+
+2010-09-20  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.aff,
+	* lietuviu.ivairus,
+	* lietuviu.ivpk,
+	* lietuviu.jargon,
+	* lietuviu.veiksmazodziai,
+	* lietuviu.zodziai: [88] 
+
+	Pridėta virš 90 žodžių: ~40 daiktavardžių, ~20 būdvardžių, likę --
+	veiksmažodžiai ir jų (priešdėlinės) formos. Nemažai (gal net dauguma)
+	žodžių yra tarptautiniai. Tai, kas vartojama kalboje,  bet ne tekstyne 
+	ar vlkk neteiktina, perkelta/pridėta į lietuviu.jargon.
+
+2010-04-05  Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.ivpk,
+	* lietuviu.zodziai: [87] 
+
+	Papildyta: 35 daiktavardžiai (2 pataisyti), 4 būdvardžiai 
+	(1 pataisytas) ir pataisyto 3 veiksmažodžiai.
+
+	* lietuviu.aff,
+	* lietuviu.ivpk,
+	* lietuviu.jargon,
+	* lietuviu.veiksmazodziai,
+	* lietuviu.zodziai: [86] 
+	
+	Atlikti keli smulkūs pataisymai, paaiškėję bandant padaryti aspell 
+	žodyną.
+
+2010-03-22  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* tools/sort.py: Added.
+
+	* Makefile,
+	* lietuviu.ivairus,
+	* lietuviu.ivpk,
+	* tools/ispell2myspell.py,
+	* tools/sutrauka.py: Modified. [85] 
+	
+	Pataisytas Makefile'as ir kiti įrankiai atsižvelgiant į naudojimą
+	Cygwin'e.
+
+	Makefile'e atsisakyta bereikalingo žodynų rikiavimo ir komentarų
+	nukabinėjimo  (tai daro sutrauka.py), taip pat pridėtas naujas
+	rikiavimo įrankis (sort.py) -- tai universaliau (nes Cygwin'e gali
+	pasigauti system32/sort.exe, be to, kad /bin/sort rikiavimas Cygwin'e
+	nepaklūsta lokalės nuostatoms), o kartu įrankis turi ir kitų
+	naudingų/reikalingų savybių (moka išvalyti komentarus,
+	besikartojančias eilutes, rikiuoti užkomentuotus žodžius ignoruojant 
+	komentarą; tokiu būdu užkomentuoti žodžiai po rikiavimo nesušoka į 
+	pradžią ir nepakeičia savo vietos).
+	Taip pat pašalinta ~1000 anksčiau išskleistų žodžių (kairys, dešinys,
+	bergždžias) retų formų su priešdėliais (nebe, ne) iš lietuviu.ivairus.
+
+2010-03-04  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* tools/ispell2myspell.py,
+	* tools/sutrauka.py: [84] 
+
+	Pataisyta ispell2myspell.py tuščios eilutės ("") konversijos klaida.; 
+	https://launchpad.net/bugs/530825 fixed
+	https://launchpad.net/bugs/531816 fixed
+
+	sutrauka.py dar efektyviau (~70 kB) suglaudina žodyną, nes  pašalintas
+	bereikalingas (afiksų žymų sutapimo) tikrinimas ir  pridėti pamiršti
+	priešdėliai 'api, 'ati'.
+
+2010-02-28  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* tools/sutrauka.py: [83] 
+
+	Pataisyta ir patobulinta sutrauka.py:
+	(https://launchpad.net/bugs/526414 fixed)
+
+	- žodžiai skliaudžiami tik suderinamose grupėse (veiksmažodžiai,
+	būdvardžiai ir likę). Dėl to žodynas padidėja nežymiai, vos ~6kB;
+
+	- aiškesnis aprašymas, (daugiau) išsamesnių komentarų;
+
+	- suskliaustų žodžių ir sutaupytos vietos statistika;
+
+	- win lokalės problemos (winos setlocale(, getdefaultlocale())
+	  ne(su)veikia korektiškai), sets modulis pasenęs (įspėdavo).
+
+2010-02-25  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* README,
+	* lietuviu.aff,
+	* lietuviu.ivairus,
+	* lietuviu.ivpk,
+	* lietuviu.jargon,
+	* lietuviu.zodziai: [82] 
+	
+	Daugiskaitinių daiktavardžių afiksų klaida (antruonys > antruonų).
+
+	Apskritai daugiskaitiniams -ys daiktavardžiams reikia lipdyti /V|M[IK]
+	žymas, o ne /D, nes tai generuoja klaidas. Pataisyta ~20 tokių
+	daugiskaitinių daiktavardžių klaidų, pašalintos kelios neteisingos ar
+	nevartojamos vienaskaitos formos. Pakoreguotas README.
+
+2010-02-15  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.aff,
+	* lietuviu.ivairus: [81] 
+	
+	Įgyvendinta 
+	https://blueprints.launchpad.net/ispell-lt/+spec/verb2adjective
+
+	T.y. atsisakyta savaiminės būdvardžių (jų laipsnių) iš veiksmažodžių
+	darybos, nes ji netikslinga todėl, kad subūdvardėjusių yra tik labai 
+	maža dalis (~150 iš daugiau nei 20000) veiksmažodžių. Tokiu būdu iš 
+	žodyno eliminuota virš 1,9 mln. generuojamų neteisingų/nevartojamų 
+	formų.
+
+2010-02-05  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.ivpk,
+	* lietuviu.veiksmazodziai: [80] 
+
+	Pašalinta ~6900 neteisingų priešdėlinių veiksmažodžių sangrąžos afiksų;
+	https://launchpad.net/bugs/516531 fixed
+
+	(tai generuodavo virš 4 mln. neteisingų formų).
+
+2010-02-03  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.aff,
+	* lietuviu.ivpk,
+	* lietuviu.veiksmazodziai: [79] 
+
+	Pataisyta ~70 neteisingų veiksmažodžių afiksų žymų (vietoje /Y buvo
+	paskirta /P); tai generuodavo gana bjaurius/potencialius (klaidų
+	atžvilgiu)  variantus, pvz: taikimas, sakimas, braižimas (o ne
+	taikymas, sakymas, braižymas).  Visumoje vienas veiksmažodis, kurio
+	bendratis -yti su neteisingu afiksu /P  prigeneruoja bemaž 60
+	neteisingų formų, o sangrąžinis dar 10.
+
+	Pataisyta /Y afiksų klaida: 
+	    ĖSI > -SI,EISI  # mokėsi > mokėeisi (turi būti mokeisi)
+
+	/Y afiksų taisyklėse trūko sngr. dalyvių vyr. ir mot. gim., 
+	vnsk. ir dgsk. 
+	/P afiksų taisyklėse trūko sngr. dalyvių vyr gim. vnsk., mot.
+	gim. vnsk.  ir dgsk.
+
+	Pvz.: gėdijosi, braižėsi > gėdijęsis/gėdijęsi, braižęsis/braižęsi,
+	gėdijusis/braižiusis, gėdijusiosi/braižiusiosi. (nors mot. gim., ypač
+	dgsk. ir gana egzotiška ausiai, bet pridėjau)
+
+	Pataisyta dar keletas žodyno klaidų, užkomentuota keletas retų
+	nesangrąžinės  bendraties žodžių/formų, kurių nepažįsta dabartinės
+	lietuvių kalbos žodynas.
+
+2010-02-02  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.ivpk,
+	* lietuviu.veiksmazodziai,
+	* lietuviu.zodziai: [78] 
+
+	Pataisyta virš 200 klaidų; dauguma jų yra neteisingi/išdarkyti žodžiai.
+	Taip pat pataisyta keliolika /Q būdvardžių, kt. retų žodžių.
+
+2010-01-31  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.aff,
+	* lietuviu.ivairus,
+	* lietuviu.ivpk,
+	* lietuviu.zodziai: [77] 
+
+	Pertvarkytos, peržiūrėtos likusios skaitvardžio ir įvardžio afiksų 
+	taisyklės.
+
+	Keletas svarbesnių klaidų:
+
+	- Neteisingi įvardžių afiksai: 
+	    kas > kų, ...       
+	    mudvi > mudvios, ...       
+	    šiedvi > šųdviejų, ...
+
+	Įvardžių (ypač dviskaitinių) daryba apskritai yra problemiška, o jų
+	dar ir  labai nedaug (tik keletas), tad jie tiesiog iškaityti
+	lietuviu.ivairus  užkomentuojant afiksų taisykles. Taip pat iškaityti
+	-jis/-ji, -i įvardžiai.
+
+	Pataisyti keli netikslumai /A taisyklėse: 
+	- užkomentuotos bereikalingos -is,-dis darybos taisyklės, nes tokių
+	žodžių nėra; jie (jau) iškaityti 76 revizijoje (papildomai tik 
+	'didelis')    
+	- didis > didės, ... (nors tai *dabar* ir neaktualu, nes užkomentuota).
+
+	Pataisyta keletas būdvardžių, kt.
+
+	Po pertvarkos lietuviu.hash failas sumažėjo ~95 kB (~2%), lt_LT.aff
+	failas  sumažėjo ~4 kB (~3%)
+
+2010-01-25  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.aff,
+	* lietuviu.ivairus,
+	* lietuviu.ivpk,
+	* lietuviu.zodziai: [76] 
+
+	Analogiškai seniau (73) pertvarkytiems veiksmažodžiams, peržiūrėtos 
+	ir pertvarkytos būdvardžių (/A /B /Q) taisyklės.
+	Po pertvarkos hash failas sumažėjo ~580 kB (~10%), lt_Lt.aff failas 
+	sumažėjo  ~24 kB (15%).
+
+	Svarbesnės klaidos:     
+	- /A trūko šauksmininko linksnio [^DT] I S > -S,""  (dideli)
+
+	- /A neteisingi vnsk. mot. gim. (N., Įn., Vt.) linksniai:
+	  Y S > -YS,IAI   # (turi būti kairei/dešinei)
+	  Y S > -YS,IĄ    # (turi būti kairę, dešinę)         
+	  Y S > -YS,IA    # (turi būti kaire, dešine)         
+	  Y S > -YS,IOJE  # (turi būti kairėje, kairėj)
+	  Y S > -YS,IOJ
+
+	- /Q neteisingas aukščiausiojo l. galininkas:
+	  [^DJT] Y S > -YS,IAUSĮ # (turi būti kairiausią)
+
+	- keletas neteisingų (kokybinių) būdvardžių
+
+	Esantys (išimčių) žodžiai: 'didis', 'bergždžias', 'kairys', 'dešinys'
+	iškaityti ir visos jų formos pridėtos į žodyną; jis padidėja sąlyginai
+	nežymiai (prieaugis ~30 kB (~2%), kai/nes pats žodynas yra ~1,3 MB)
+
+
+2010-01-20  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.aff: [75] 
+
+	Analogiškai seniau (73) pertvarkytiems veiksmažodžiams, peržiūrėtos ir 
+	pertvarkytos daiktavardžių (/D /V /M /I /K) taisyklės.
+
+	Svarbesnės klaidos:   
+	- 'šuo' (trūko dgsk. naudininko linksnio);   
+
+	- 'mėnuo/V' neteisinga daryba. Dabar žodis iškaitytas afiksų faile, 
+	   kaip ir 'šuo' (visame žodyne tėra tik šios dvi išimtys);
+
+	- pavoj-us, muziej-us, aliej-us > pavoj-ūs, pavoj-ums, pavoj-umis
+	  (dabartiniame žodyne tai generuodavo ~170 neteisingų formų).
+
+	Po pertvarkos .hash failas sumažėjo dar ~20 kB, o lt_LT.aff ~1 kB.
+
+
+2010-01-12  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.aff: [73] 
+
+	Iš esmės, nuosekliai, sistemiškai peržiūrėtos ir pertvarkytos 
+	veiksmažodžių (/E /Y /P /T) taisyklės. 
+
+	Pertvarkos esmė:     
+	- vieninga struktūra su	komentarais;     
+
+	- vienodas formatavimas;     
+
+	- gausiau (aktualių ir teisingų) pavyzdžių;     
+
+	- ištaisytos klaidos;     
+
+	- sutraukti afiksai (pvz.: TI > -TI, TIEMS trumpiau ir taupiau yra
+	  TI > EMS; mažėja hash ir aff failai);     
+
+	- eliminuotos (užkomentuota) pasikartojančios formos (sutampantys
+	  linksniai ir kt.; mažėja hash ir aff failai)
+
+	- pašalintas bereikalingas U taisyklių blokas. Jis atkartoja /T ir
+	  skiriasi (skirtas) TIK dėl _vienos_ formos -- būsimojo laiko III
+	  asmens. Tai sprendžiant pakeista /U žymos reikšmė ir pridėta nauja 
+	  /W žyma; dabar visos bendratys bus /T, o -ūti, -yti papildomai 
+	  reikės pridėti /U ar /W pagal tai koks yra būsimojo laiko III 
+	  asmuo: trumpomis (i, u) /U ar ilgomis (y, ū) /W balsėmis, pvz.:
+	  eiti/T, imti/T, tačiau 
+	      lyti/TU > lis, gyti/TU > gis, 
+	      siūti/TW > siūs, sakyti/TW > sakys. 
+
+	Pertvarkos rezultatas: mažiau klaidų, daugiau tvarkos, struktūros,
+	aiškumo.  hash failas sumažėjo ~400 kB (~7 %), lt_LT.aff failas
+	sumažėjo ~12 kB (~7%).
+
+	Klaidos:
+
+	/E trūko kai kurių būdvardžių ir įvardžiuotinių formų;
+
+	/E neteisingi mot. gim. įvardž. formų linksniai: -miausoj, -miausos,
+	-miausoje (einamiausIoj, einamiausIos, ...);
+
+	/T TI > -TI, TUT  vargu ar reikalinga: gamin-tut, dary-tut, ...;
+
+	Retos ir/ar galbūt neteisingos /P daiktavardžių su priesaga -imas
+	sangrąžinių  formų dgsk. formos; vartotini tik (?) vardininko,
+	kilmininko ir šauksmininko  linksniai;
+
+	Neteisingi /Y padalyviai [DT]ĖSI > IUSIS, o turi būti:  
+	DĖSI > -ĖSI,ŽIUSIS; TĖSI > -ĖSI,ČIUSIS (tvardžiusis, skaičiusis);
+
+
+	/T trūko būsimojo laiko kaitybos -ZTI, -ZTIS (meg-zti > megsiu,
+	megsiuosi...);
+
+	Būsimojo laiko padalyvių dgsk. trūko vardininko linksnio 
+	[^SŠZŽ] TI > SIANTYS (verksiantys, ...) 
+	[SŠZŽ] TI > IANTYS (vesiantys, nešiantys, megsiantys, vešiantys).
+	Trūko kai kurių veiksmažodžių formų (veržiasi, gūžiasi, ...): 
+	[^D] Ž I A S I  > -ASI,ESI.
+
+2009-12-28  Rimas Kudelis <rq@akl.lt>
+
+	* Makefile,
+	* mozilla/install.rdf.in: [72] 
+
+	Dar pora smulkmenų. Pašalinti talkininkų el. pašto adresai iš XPI 
+	about dialogo. Taip pat pašalinti install.rdf aprašai anglų kalba.
+
+	* mozilla/install.rdf.in,
+	* tools/ispell2myspell.py,
+	* tools/proc,
+	* tools/sutrauka.py: [71] 
+	
+	Dar pora patvarkymų dėl mozillos, reikiamiems skriptams uždėta +x
+
+2009-12-28  Rimas Kudelis <rq@akl.lt>
+
+	* mozilla/install.js.in,
+	* mozilla/install.rdf.in: Added.
+
+	* Makefile: Modified. [70] 
+
+	XPI failo („Mozillos“ priedo) generavimas, vykdant `make dist`.
+
+
+2009-12-28  Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.ivpk,
+	* lietuviu.veiksmazodziai: [69] 
+
+	Papildyta veiksmažodžiais: nebeiti ir tebeiti.
+
+2009-12-27  Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.vardai,
+	* lietuviu.zodziai: [68] 
+	
+	Papildyta: 44 daiktavardžiai, 3 būdvardžiai ir 9 vardai.
+
+2009-12-27  Rimas Kudelis <rq@akl.lt>
+
+	* lietuviu.jargon: [67] 
+	
+	Word, Excel ir PowerPoint yra gan dažnai naudojami MS produktų 
+	pavadinimai.
+
+	* README.EN,
+	* aspell/doc/README.txt,
+	* mozilla/license/README.txt,
+	* mozilla/license/license.txt: [66] LP #500721: 
+
+	Reikia atnaujinti nuorodas README ir kituose failuose bei dar kai ką 
+	(atnaujintos nuorodos)
+
+2009-12-27  Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.ivpk,
+	* lietuviu.veiksmazodziai,
+	* lietuviu.zodziai: [65] 
+	
+	Pataisyti veiksmažodžiai „nesu“, „nebesu“ ir „tebesu“, bei 
+	išvestiniai žodžiai. Riktas: LP #500388
+
+2009-11-03  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.temp: Added.
+
+	* lietuviu.ivpk,
+	* lietuviu.jargon,
+	* lietuviu.veiksmazodziai,
+	* lietuviu.zodziai: Modified. [64] 
+
+	~200 neteisingų/nevartotinų ir/ar tikrai retų žodžių/formų iš
+	'lietuviu.veiksmazodziai' perkelta į 'lietuvių.temp'. 
+	Taip pat pataisytos 'juokti', 'mėgauti', pan. darybos klaidos 
+	(tokiais  atvejais, kai neįmanoma užrašyti teisingos pagrindinės 
+	veiksm. formos, reikėtų atskirai surašyti visas	trūkstamas/reikalingas 
+	formas, nekaitant neteisingos  formos (afiksais	*lipinant* jai 
+	priešdėlius, kad gautųsi teisingi žodžiai). Pvz.:
+	'juokti/Tqqr...' reikia perrašyti į: 'pasijuokti/T', 'nusijuokti/T',
+	'prisijuokti/T' ir t.t. 
+	Taip pat pataisytos kelios kitos klaidos.
+
+2009-10-31  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.jargon,
+	* lietuviu.zodziai: [63] 
+	
+	Ištaisyta ~40 klaidų, ~80 retesnių, ne žodyninių, retesnių žodžių 
+	perkelta į lietuviu.jargon.
+
+2009-10-29  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.aff: [62] 
+
+	Ištaisytos darybos klaidos (eliminuota virš 260	tūkst. neteisingų 
+	formų).
+
+	Iš esamojo laiko sngr. veiksmažodžių buvo neteisingai/bereikalingai
+	generuojamos dalyvių ir būdvardžių (laipsnių) formos; pvz.: mylisi ->
+	mylisimas, mylisimasis,  mylisimesnis, ir t.t. Taip pat
+	ištaisyta: keletas trūkstamų linksnių, keletas neteisingų
+	linksnių (galūnių), keletas (kitų) darybos klaidų, keletas gramatinių
+	klaidų.  Įvairiau, tiksliau pakomentuoti veiksmažodinės darybos
+	atvejai, struktūriškai  (komentarais atskiriant sngr,/nesngr.
+	formas, asmenis) pertvarkytos, perrikiuotos esamojo laiko
+	veiksmažodinės darybos eilutės.
+
+2009-10-24  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	* lietuviu.aff: [61] 
+	
+	Pataisyra /B afiksų klaida: 
+	apynau-jis, grynakrau-jis, ... -> apynau(-jo, jus, jame, ...), o 
+	*ne* (-jio, -jius, -jiame, ...).
+
+2009-10-23  Laimonas Vėbra <laimonas.vebra@gmail.com>
+
+	Surankioti ispell-lt CVS repozitorijos ir atsarginių kopijų likučiai
+	(sraige.mif.vu.lt sugedo ir nusinešė užmarštin CVS repozitoriją),
+	jie sulipdyti, perversti į Bazaar DVCS ir perkelti į Launchpad.
+
+
+2008-02-19  Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	Versija 1.2.1
+	* Makefile, aspell/info: fiksuojama versija 1.2.1.
+	* aspell/info, tools/proc: pakeista pagal aspell autoriaus Kevino
+	  Atkinsono reikalavimus.
+	* lietuviu.ivpk, lietuviu.zodziai: pataisytos kelios nedidelės klaidos,
+	  dėl kurių strigo aspell žodyno formavimas.
+
+2008-02-15   Laimonas Vėbra <wiela@centras.lt>
+
+	Versija 1.2
+	* lietuviu.ivpk (1.18): Visiems priešdėliniams-sangrąžiniams 
+	  veiksmažodžiams /S afiksas pakeistas /N afiksu (viso ~7000 žodžių);
+	  tokiu būdu iš žodyno generuojamos aibės eliminuota ~13 mln. 
+	  neteisingų formų (su dvejomis sangrąžinėmis dalelytėmis).
+
+2008-02-14  Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* Makefile, aspell/info: fiksuojama versija 1.2.
+	* lietuviu.veiksmazodziai: 3 veiksmažodžiai papildyti
+	  flagais.
+	* lietuviu.zodziai: pridėti 20 daiktavardžių, 8 būdvardžiai ir
+	  1 būdvardis pataisytas.
+
+2008-02-09   Laimonas Vėbra <wiela@centras.lt>
+
+	* lietuviu.ivpk (1.16): Ištaisyta 30 klaidų (neteisingų žodžių), 
+	  pašalinti 46 nereikalingi (ar pasikartojantys) žodžiai, pridėti 
+	  5 žodžiai, išvalyti, pašalinti komentarai ar komentuoti žodžiai. 
+	  Pakoreguoti 5 žodžių afiksai: būdvardžiai 'ožkinga', 'ėringa', 
+	  'kumelinga', 'džiūsna', išdvėsa' buvo nekaitomi; dabar bent 
+	  išlinksniuojami kaip daiktavardžiai. Žodynas perrikiuotas.
+
+	* ChangeLog (1.27): papildytas
+
+2008-01-26   Laimonas Vėbra <wiela@centras.lt>
+
+	* ChangeLog (1.26): cvs2cl.pl programa išgauta nuosekli keitimų 
+	  žurnalo istorija, ji sutvarkyta (dienos įrašai suskliausti), 
+	  ištaisytos klaidos (lietuviškų žodžių rašyba, taškai kur priklauso,
+	  kabutės ir pan.); autorių komentarų stengiausi nekeisti.
+	  Gavosi, sakyčiau, teisingesnis, tikslesnis, švaresnis ChangeLog. 
+	  Ateityje, retsykiais "prasukant" 'cvs2cl.pl --revisions' beliks 
+	  tik papildyti šį failą naujais įrašais.
+
+2008-01-26   Laimonas Vėbra <wiela@centras.lt>
+
+	* lietuviu.ivpk (1.15): Ištaisytos 228! klaidos (daugiausia neteisingi 
+	  žodžiai), pašalinta 113 žodžių.
+
+2008-01-22   Laimonas Vėbra <wiela@centras.lt>
+
+	* lietuviu.ivpk (1.13): Ištaisyta 91 klaida: pataisyti 75 neteisingi
+	  veiksmažodžiai ir jų afiksai, 16 veiksmažodžių pašalinta.
+
+	* lietuviu.ivpk (1.14): Ištaisytos 42 klaidos (38 neteisingi 
+	  veiksmažodžiai ir jų afiksai, 3 žodžiai pašalinti).
+
+2007-12-09   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.25), lietuviu.vardai (1.37), lietuviu.veiksmazodziai
+	  (1.40), lietuviu.zodziai (1.55): Pridėta 19 daiktavardžių, 4
+	  vardai, 2 vietovardžiai, 2 būdvardžiai ir 1 veiksmažodis.
+
+2007-12-05   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.24), lietuviu.vardai (1.36), lietuviu.zodziai
+	  (1.54): Pridėta 17 daiktavardžių, 4 vardai ir 2 vietovardžiai.
+
+2007-12-03   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.23), lietuviu.ivairus (1.21), lietuviu.vardai
+	  (1.35), lietuviu.veiksmazodziai (1.39), lietuviu.zodziai (1.53):
+	  Pridėti 28 daiktavardžiai, 4 būdvardžiai, 5 veiksmažodžiai, 16
+	  vietovardžių, 1 vardas ir dar 5 pataisymai.
+
+2007-11-02 14:59  Laimonas Vėbra <wiela@centras.lt>
+
+	* lietuviu.ivpk (1.12): Ištaisytos 84 klaidos (neteisingi žodžiai), 
+	  pridėtas 1 žodis.
+
+2007-07-06   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.22), lietuviu.veiksmazodziai (1.38),
+	  lietuviu.zodziai (1.52): Nauji žodžiai: 8 veiksmažodžiai (1
+	  papildytas flag'as), 11 daiktavardžių, 1 būdvardis.
+
+2007-05-10   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.zodziai (1.51): Išmečiau komentarus, kurie trukdė
+	  skriptams.
+
+	* lietuviu.vardai (1.34): Apvaliau gyvenviečių pavadinimus.
+
+	* tools/ispell2myspell.py (1.6): Pataisiau kvailą bugą (tarpai
+	  eilučių gale). Ačiū Modestui Rimkui ir OOo pakuotojams!
+	  http://www.openoffice.org/issues/show_bug.cgi?id=58516
+
+2006-12-19   Rimas Kudelis
+
+	* CHANGE (1.2), ChangeLog (1.20), HOWTO (1.2), INSTRUKCIJOS.txt
+	  (1.2), README (1.3), THANKS (1.6), mozilla/README (1.2),
+	  tools/README (1.3): pagalbiniai failai perkoduoti į UTF-8
+	  ChangeLog'e pataisiau porą smulkių klaidų.
+
+	* ChangeLog (1.21): klaidelė (?) changeloge.
+
+2006-11-29   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.19), lietuviu.vardai (1.33), lietuviu.zodziai
+	  (1.50), aspell/info (1.8): Įkėliau prie 3 mėn. padarytus ir
+	  užmirštus pakeitimus.
+
+2006-11-27   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.ivpk (1.11), lietuviu.jargon (1.23), lietuviu.vardai
+	  (1.32), lietuviu.veiksmazodziai (1.36), lietuviu.zodziai (1.49):
+	  Pridėjau 17000 vietovardžių iš gyvenviečių pavadinimų duombazės.
+	  Pridėjau apie 180 kompiuterinių naujadarų į lietuviu.jargon.
+	  Kažkodėl pasikeitė rikiavimo tvarka.
+
+	* lietuviu.veiksmazodziai (1.37): "Fragmentuoti".
+
+	* tools/ispell2myspell.py (1.5): Pataisiau skriptą, kad
+	  nepriklausytų nuo lokalės.  Be to, išvesties kodavimą perjungti
+	  bus paprasta, kai pereidinėsim prie utf-8.
+
+	* lietuviu.ivairus (1.20): Dažniausiai naudojamos santrumpos.
+	
+2006-11-26   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.veiksmazodziai (1.35): Pridėjau 'iškoduotas'.
+
+2006-06-04   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.18), lietuviu.ivpk (1.10), lietuviu.jargon (1.22),
+	  lietuviu.vardai (1.31), lietuviu.veiksmazodziai (1.34),
+	  lietuviu.zodziai (1.48), aspell/info (1.7): Papildymai ir
+	  pataisymai.
+
+2006-01-22   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* tools/: README (1.2), proc (1.1): Įkeltas skriptas 'proc' iš
+	  aspell-lang paketo.
+
+	* MANIFEST (1.6), Makefile (1.26), aspell/Makefile.pre (1.8),
+	  aspell/README (1.9), aspell/configure (1.2), aspell/info (1.6),
+	  aspell/lietuviu.alias (1.2), aspell/lithuanian.alias (1.2),
+	  aspell/lt.multi (1.4): aspell6-lt paketo formavimui pritaikytas
+	  skriptas 'proc'.
+
+	* ChangeLog (1.17): Pastarojo pusmečio istorija.
+
+2006-01-21   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* MANIFEST (1.5), Makefile (1.25): Įkelta, Alberto A. paruošta,
+	  skiemenavimo lentelė.
+
+	* hyph/: README_hyph_lt_LT.txt (1.1), hyph_lt_LT.dic (1.1): Įkelta,
+	  Alberto A. paruošta, skiemenavimo lentelė.
+
+
+2006-01-03   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* Makefile (1.24), lietuviu.zodziai (1.47), aspell/Makefile.pre
+	  (1.7), aspell/info (1.5): Pataisytas aspell6-lt paketo formavimas.
+
+2006-01-02   Laimonas Vėbra <wiela@centras.lt>
+
+	* lietuviu.ivpk (1.9), lietuviu.jargon (1.21), lietuviu.zodziai
+	  (1.46): Pridėta (~170) akivaizdžiai trūkstančių daiktavardžių
+	  (lietuviu.zodziai), ištaisyta keletas klaidų ir pan.
+
+	* lietuviu.aff (1.23): CVS:
+	  Pridėta trūkstama būdvardžio vienaskaitos šauksmininko
+	  linksniuotė.	I S > -IS,I # šauks. l. - baltakakli!,
+	  smulkiagrūdi!
+	  Ištaisyta *A būdvardžio afiksų klaida:  I A S > -IAS,IOUSE  --> 
+	  I A S > -IAS,IUOSE # 'plokščiuose', bet ne 'plokščiouse'.
+
+
+2005-12-19   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.aff (1.22): Taisyklės "keturis" ir "šešis".
+
+2005-12-16   Laimonas Vėbra <wiela@centras.lt>
+
+	* lietuviu.ivpk (1.8): Ištaisytos 33 klaidos (neteisingi žodžiai), 
+	  pridėtas 1 žodis.
+
+2005-12-16   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.zodziai (1.45), aspell/Makefile.pre (1.5), aspell/README
+	  (1.7), aspell/info (1.3): britaniškas -> britiškas.
+
+	* Makefile (1.22), aspell/Makefile.pre (1.6), aspell/README (1.8),
+	  aspell/info (1.4): Pataisytas dist-aspell targetas.
+
+	* Makefile (1.23): Pataisytas clean target'as.
+
+2005-12-14   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.aff (1.21): Penkerius metus, penkis metus formų
+	  atskyrimas.
+
+2005-12-13   Laimonas Vėbra <wiela@centras.lt>
+
+	* lietuviu.ivpk (1.7): Ištaisytos 46 klaidos (daugiausia neteisingi
+	  afiksai, keletas neteisingų žodžių), 6 žodžiai pašalinti.
+
+2005-12-10   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.ivpk (1.6): 'karikatnrinti' pataisyta į 'karikatūrinti'.
+
+	* lietuviu.zodziai (1.44): Pataisyti žodžių 'apskritis', 'pilnatis' 
+	  ir 'žūtis' flagai, ir pašalinti žodžiai - 'australietis' ir 
+	  'pakrovėjas'.
+
+2005-12-06   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.aff (1.19): Pagražinau Kęstučio pataisymą.
+
+	* lietuviu.aff (1.20): 'penkerius' pataisymas.
+
+2005-12-06   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.ivairus (1.19), aspell/Makefile.pre (1.3), aspell/README
+	  (1.5): Pridėtas flagas /H prie žodžio 'ketveri'.
+
+	* lietuviu.zodziai (1.43): Nauji žodžiai: 'nuosavybinis' ir 
+	  'pakrovėjas'.
+
+	* lietuviu.aff (1.18): Papildymas dėl skaitvardžių galininko.
+
+	* lietuviu.veiksmazodziai (1.33): Papildyta žodžiais 'kasti',
+	  'kasinėti', 'kasyti', 'lošti' ir 'lošinėti', nes ivpk faile nelabai
+	  gerai padaryta.
+
+	* MANIFEST (1.4), Makefile (1.21), aspell/Makefile.pre (1.4),
+	  aspell/README (1.6), aspell/info (1.2), aspell/doc/README.txt
+	  (1.1): Papildytas aspell-lt distributyvo gaminimas pagal Kevino
+	  Atkinsono rekomendacijas.
+
+2005-12-02   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.vardai (1.30): Papildyta 38-iais vardais.
+
+	* lietuviu.zodziai (1.42): Nauji daiktavardžiai ir būdvardžiai, kai
+	  kurie pataisymai. Viso ~50 pataisymų.
+
+2005-08-06   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.zodziai (1.41): Dar du Gintauto Miliausko pasiūlyti
+	  žodžiai.
+
+2005-08-04   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.vardai (1.29), lietuviu.zodziai (1.40): Keletas vardų ir
+	  pora daiktavardžių.
+
+2005-07-18   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.aff (1.17): Pataisiau Kęstučio surastą klaidą.
+
+2005-07-16   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.aff (1.16): Pridėtas moteriškos giminės aukštesniojo
+	  laipsnio būdvardių generavimas.
+
+	* lietuviu.zodziai (1.39): Papildyta 5-iais naujais žodžiais ir 16
+	  pataisyta.
+
+	* ChangeLog (1.16): Pastarojo 1,5 mėnesio istorija.
+
+2005-05-31   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.ivairus (1.18): Įkeltas žodis "mūsuose". Tekstyne
+	  kartojasi 381 kartą.
+
+	* lietuviu.veiksmazodziai (1.32): Nauji - debetuoti, sponsoriauti,
+	  tapatinti. Pataisyti - 'baigti', 'tikrinti'.
+
+	* lietuviu.zodziai (1.38): Papildyta: 11 daiktavardžių, 1 būdvardis
+	  ir 1 daiktavardis pataisytas.
+
+2005-05-24   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.aff (1.15): Bugas 'taręsi' taisyklėje.
+
+2005-05-23   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.aff (1.13): Penkeri -> penkerius problemos pataisymas.
+	  Mano klaida.
+
+	* lietuviu.aff (1.14): Pridėjau "taręsi" variantą.
+
+2005-05-08   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.14), lietuviu.ivairus (1.17), lietuviu.ivpk (1.5),
+	  lietuviu.vardai (1.28), lietuviu.veiksmazodziai (1.31),
+	  lietuviu.zodziai (1.37): Papildyta: 22 daiktavardžiai, 9
+	  būdvardžiai, 7 vardai, 2 įvardžiai, 1 veiksmažodis, ir 6-iems
+	  žodžiams pataisyti ar papildyti flagai.
+
+	* ChangeLog (1.15): Smulkus pataisymas.
+
+2005-02-03   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.13), Makefile (1.20), lietuviu.veiksmazodziai
+	  (1.30), lietuviu.zodziai (1.35), aspell/Makefile.pre (1.2),
+	  aspell/README (1.4): Papildyta keletu žodžių (raidelė, traktatas,
+	  daugiakalbystė, rinkinėti), du žodžiai pataisyti (byrėti,
+	  įkeltis).
+
+	* lietuviu.zodziai (1.36): Dar kartą - 'įkeltis'.
+
+2005-01-16   Marius Gedminas <mgedmin@delfi.lt>
+
+	* Makefile (1.19): Added extra Makefile rules for building a UTF-8
+	  version of the dictionary.  Do 'make utf-8', then specify
+	  liet-utf8 as the dictionary name for ispell.
+
+2005-01-03   Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.vardai (1.27): Smulkūs klaidų pataisymai.
+
+2005-01-03   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* tools/sutrauka.py (1.5): Pašalinta griežta priklausomybė nuo
+	  python 2.3 versijos.
+
+	* ChangeLog (1.12), Makefile (1.18): Pasiruošimas laidai 1.1
+
+2004-12-18   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.11), MANIFEST (1.3), Makefile (1.17),
+	  aspell/lt_affix.dat (1.2): Pašalintas aspell/lt_affix.dat failas,
+	  nes tai lt_LT.aff failas, tik kitu vardu.
+
+2004-12-11   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* aspell/: Copyright (1.1), Makefile (1.5), Makefile.pre (1.1),
+	  README (1.3), configure (1.1), info (1.1), iso8859-13.dat (1.2),
+	  lietuviu.alias (1.1), lithuanian.alias (1.1), lt.dat (1.2),
+	  lt.multi (1.3), lt_affix.dat (1.1): Į katalogą aspell/ įkeltas
+	  Alberto paketo aspell6 turinys.
+
+	* ChangeLog (1.10), MANIFEST (1.2), Makefile (1.16): Į katalogą
+	  aspell/ įkeltas Alberto paketo aspell6 turinys, ir todėl
+	  papildyti failai MANIFEST ir Makefile.
+
+2004-12-06   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.9), lietuviu.ivpk (1.4), lietuviu.vardai (1.26),
+	  lietuviu.veiksmazodziai (1.29), lietuviu.zodziai (1.34):
+	  Ištaisyta daug klaidų, išryškėjusių generuojant aspell žodyną.
+
+2004-12-04   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.8), lietuviu.veiksmazodziai (1.28): Dar keletas
+	  pataisymų.
+
+2004-12-03   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.ivpk (1.3): Užkomentuotas klaidingas daiktavardis
+	  durys/D.
+
+	* lietuviu.zodziai (1.33): Pašalinti: ansamblietis/V, baigtis/D ir
+	  durys/D, o įkelta ansamblietė/D.
+
+2004-12-02   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.7), lietuviu.ivairus (1.16), lietuviu.veiksmazodziai
+	  (1.27), lietuviu.zodziai (1.32): Pašalinti pasikartojantys
+	  žodžiai.
+
+2004-11-29   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* ChangeLog (1.6), MANIFEST (1.1), Makefile (1.15),
+	  tools/package.sh (1.2): Makefile papildytas target'ais: dist-src
+	  ir dist-myspell.
+
+2004-11-25   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.zodziai (1.31): Atstačiau netyčia išmestus Laimono Vėbros
+	  įkeltus žodžius - 'licenzija' ir 'stabdis'.
+
+2004-11-24   Kęstutis Biliūnas <kebil@kaunas.init.lt>
+
+	* lietuviu.vardai (1.25): Papildyta 7 žodžiais ir 3 pataisymais.
+
+	* lietuviu.veiksmazodziai (1.26): Papildyta 2 žodžiais ir 2
+	  pataisymais.
+
+	* lietuviu.zodziai (1.30): Papildyta 35 žodžiais.
+
+	* ChangeLog (1.5): Žodynas papildytas žodžiais.
+
+2004-07-29   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.aff (1.12): Pataisiau klaidą, apie kurią pranešė Yuri
+	  Yuriev.  Ji išlindo kompiliuojant apspell žodyną.
+
+2004-01-18   Laimonas Vėbra <wiela@centras.lt>
+
+	* lietuviu.zodziai (1.29): Pora naujų žodžių - 'licenzija', 'stabdis'.
+
+2003-12-30   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* tools/sutrauka.py (1.4): Klaidų pataisymai -- atmintis/IM neturi
+	  virsti mintis/IMb, kadangi nėra žodžio "neatmintis".
+
+	* README.EN (1.1): Pridėjau anglišką README.
+
+	* lietuviu.vardai (1.23): Kęstučio Snieškos suvesti vardai iš
+	  Gimtinės kalendoriaus.
+
+	* lietuviu.aff (1.11): Keletas formų, kurios nebuvo generuojamos
+	  (pastebėjo Gintautas Grigas).  Pataisytas klaidingas 'treti'
+	  generavimas.
+
+	* THANKS (1.5): Daugiau pagalbos.
+
+	* lietuviu.ivairus (1.15), lietuviu.veiksmazodziai (1.25),
+	  lietuviu.zodziai (1.28): Smulkūs patvarkymai, keletas naujų
+	  žodžių, rūšiavimo tvarkos pataisymas.
+
+	* tools/package.sh (1.1): Skriptas laidos pakavimui.
+	
+	* INSTRUKCIJOS.txt (1.1), temp (1.2): Pasiruošimas laidai.
+
+2003-12-25   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* tools/ispell2myspell.py (1.4): Pataisiau nesąmonę su UTF-8 vietoj
+	  Latin-7.
+
+	* THANKS (1.4): Įrašiau žmones, kurie prisidėjo, bet sąvęs čia
+	  neįrašė :-)
+
+	* Makefile (1.14), tools/sutrauka.py (1.3): Efektyvesnių žodynų
+	  generavimas: pasikartojimai sutraukiami ir ispell žodynų
+	  versijai.
+
+	* lietuviu.ivairus (1.14), lietuviu.veiksmazodziai (1.24): Keletas
+	  naujų žodžių.
+
+	* ChangeLog (1.4): Metų istorija penkiolika eilučių.
+
+2003-12-20   Laimonas Vėbra <wiela@centras.lt>
+
+	* lietuviu.zodziai (1.27): Išmesti veiksmažodiniai daiktavardžiai
+	  ir kiti pakeliui užkliuvę žargonai (~130 žodžių).
+
+2003-11-27   Tomas Kuliavas <tokul@users.sourceforge.net>
+
+	* lietuviu.jargon (1.20), lietuviu.veiksmazodziai (1.23),
+	  lietuviu.zodziai (1.26): Kęstučio Biliūno atsiųsti žodžiai.
+	  ispell-lt@akl.lt - Sun, 23 Nov 2003 17:56:53 +0200 Kol kas tik
+	  suverčiu i cvs. tools/updated užsiimsiu savaitgalį.
+
+	* Makefile (1.13):  -u = output only the first of an equal run.
+	  Išvalome 100% sutampančius žodžius.
+
+2003-11-25   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.aff (1.9): Afiksų papildymai: dalyvių laipsniai
+	  (mėgstamesnis, mylimiausias), aukštėlesnis laipsnis  '-okas' ir
+	  iš '-us'.
+
+	* lietuviu.aff (1.10): Pataisiau metus ir pridėjau $Id: ChangeLog,v 1.32 2008/02/20 10:53:07 kebil Exp $.
+
+	* tools/spell.py (1.3): Atitaisiau UTF-8 į Latin-7.
+
+	* lietuviu.ivairus (1.13), lietuviu.ivpk (1.2), lietuviu.jargon
+	  (1.19), lietuviu.zodziai (1.25): Pataisymai ir papildymai.
+
+	* tools/: make.py (1.2), spell.py (1.4): Įrankių paruošimas
+	  windams.
+
+2003-11-24   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* Makefile (1.11): Pamiršau pataisyti Makefile'ą.
+
+	* tools/: .cvsignore (1.1), idl.py (1.1), ispell2myspell.py (1.3),
+	  make.py (1.1), setup.py (1.1), spell.py (1.2), sutrauka.py (1.2):
+	  Visokie skriptai ir pataisymai.
+
+	* Makefile (1.12), lietuviu.jargon (1.18): Iškomentuotos nesąmonės
+	  iš jargon'o.
+
+2003-11-20   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.ivairus (1.12), lietuviu.vardai (1.22),
+	  lietuviu.veiksmazodziai (1.20), lietuviu.zodziai (1.23): Įvairūs
+	  klaidų pataisymai.
+
+	* lietuviu.veiksmazodziai (1.21): Klaidos pataisymas
+
+	* Makefile (1.9), tools/sutrauka.py (1.1): Pagerintas MySpell
+	  žodyno generavimas -- dabar vienodi žodžiai su pasikartojančiais
+	  afiksais sutraukiami, nes kitaip MySpell ignoruoja pasikartojančius
+	  žodžius.
+
+	* lietuviu.veiksmazodziai (1.22), lietuviu.zodziai (1.24): Nedideli
+	  pataisymai.
+
+	* Makefile (1.10), lietuviu.ivpk (1.1): Ir pagaliau...
+
+	  Tikras didelis žodynas ispell-lt projektui!  Jis parengtas DLKŽ
+	  pagrindu, išmesti tarminiai ir pasenę žodžiai.
+
+
+2003-11-13   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.aff (1.7): Klaidų pataisymai.
+
+	* tools/ispell2myspell.py (1.2): Pridėjau charset'o deklaraciją,
+	  suderinamumui su Python 2.3
+
+	* lietuviu.veiksmazodziai (1.18): Edo senai surasta klaida
+
+	* tools/spell.py (1.1): Dar vienas skirptas.  Šitas bus palaikomas
+	  ir maintaininamas.
+
+	* lietuviu.aff (1.8): Pabaltijys -> Pabaltijo problemos fixas.
+
+	* lietuviu.veiksmazodziai (1.19): lietuviu.zodziai (1.21): 500
+	  Vikio žodžių.
+
+	* lietuviu.zodziai: 1000 tarptautinių būdvardžių su -inis
+
+2003-06-24  Tomas Kuliavas <tokul@users.sourceforge.net>
+
+	* lietuviu.zodziai (1.20): 'legalas' tarp tekstyno yra. Moteriška
+	  giminė irgi turėtų egzistuoti, reikmuo/VK -> reikmuo/V, kabutės/D
+	  yra tarp kabutė/D.
+
+2003-06-23  Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* Makefile (1.8): Nukerpam komentarus nuo žodžių.
+
+2003-06-22   Tomas Kuliavas <tokul@users.sourceforge.net>
+
+	* lietuviu.zodziai (1.16): Pridėti "kebil" <biliunai at
+	  kaunas.init.lt> žodžiai.
+
+	* lietuviu.zodziai (1.17): Raminame tools/updated.
+
+	* lietuviu.zodziai (1.18): kandis.
+
+	* lietuviu.vardai (1.21): Išvalyti įmesti CR'ai.
+
+	* lietuviu.zodziai (1.19): Išvalytas tarpas po statinė/D.
+
+2003-06-21   Tomas Kuliavas <tokul@users.sourceforge.net>
+
+	* lietuviu.ivairus (1.10), lietuviu.zodziai (1.10): Pridėti likę
+	  Edo 2003 06 16 dieną atsiųsti žodžiai iš Big_dict.txt.
+
+	* lietuviu.ivairus (1.11): 'arti' - yra toks veiksmažodis 'išilgai' -
+	  išilgas/AQ skersai - skersas/AQ.
+
+	* lietuviu.zodziai (1.11): prievartaviamas/D - prievartavo/PNXd
+	  vangus/AN - vangus/AQN ovalus ir neovalus pažintis/D -
+	  pažintis/MI /D virsta (pažintis pažintyje pažinčiuose pažinti
+	  pažinčiai pažinčiai pažinčiui pažinčio pažinčiais pažinčiams
+	  pažinčius pažinčiu pažinty pažintį pažinčių) patikimas/BN -
+	  patikimas/AQN.
+
+	* lietuviu.jargon (1.17): validuoti - žargonas.
+
+	* lietuviu.veiksmazodziai (1.15): gal yra "suimituoti", bet nėra
+	  "priemigruoti".
+
+	* lietuviu.vardai (1.19), lietuviu.veiksmazodziai (1.16),
+	  lietuviu.zodziai (1.12): Dar šiek tiek valymo ir tvarkymo. Iš Edo
+	  2003 06 16 gautų pataisų liko tik veiksmažodžių priesagų
+	  sutvarkymas. Brr... :) Nusiųsiu tools/updated išvadas į
+	  ispell-lt@akl.lt
+
+	* lietuviu.vardai (1.20): Tikriniai vardai iš Edo 2003 06 20 dienos
+	  žodžių
+
+	* lietuviu.zodziai (1.13): Pridėti Edo 2003 06 20 d. atsiųsti
+	  daiktavardžiai ir būdvardžiai.
+
+	* lietuviu.zodziai (1.14): reikmuo/VI
+
+	* lietuviu.zodziai (1.15): Edo žodžiai be afiksų. Vis tik reikmuo
+	  jau yra įdėtas
+	
+2003-06-20   Laimonas Vėbra <wiela@centras.lt>
+
+	* tools/spell.pl (1.7): _Veikianti_ versija, pataisytos kelios
+	  loginės klaidos.
+
+	* lietuviu.aff (1.6): pataisyta būdvardžių afiksų klaida, 9
+	  paradigma (geresnė, medinė...); 'didelis' -> 'dideles', bet ne
+	  'didelias'.
+
+2003-06-20   Tomas Kuliavas <tokul@users.sourceforge.net>
+
+	* lietuviu.vardai (1.18): Pridėti tikriniai vardai iš Edo <edas at
+	  katalogai.net> atsiųsto sąrašo.
+
+	* lietuviu.zodziai (1.9): Pridėti daiktavardžiai ir būdvardžiai iš
+	  Edo <edas at katalogai.net> atsiųsto sąrašo.
+
+	* lietuviu.veiksmazodziai (1.14): Pridėti veiksmažodžiai atsiųsti
+	  Edo <edas at katalogai.net>. Dar reiks išvalyti sąrašus nuo
+	  dubliuotų įrašų.
+
+2003-06-17   Tomas Kuliavas <tokul@users.sourceforge.net>
+
+	* mozilla/Makefile (1.2): Pridėjau katalogo sukūrima.
+
+2003-06-17   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.veiksmazodziai (1.13): yra yra.
+
+2003-06-11   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.jargon (1.16), lietuviu.vardai (1.17),
+	  lietuviu.veiksmazodziai (1.12), lietuviu.zodziai (1.8): Iš senai
+	  užsilikę lapte žodžiai.
+
+	* validator/: donelaitis.py (1.1), ispell.py (1.1), runtests.sh
+	  (1.1), tests/test_donelaitis.py (1.1): Interfeisas į VDU KLC
+	  tekstyną.
+
+2003-05-13   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.zodziai (1.7): Išmečiau brondzą.
+
+2003-05-11   Tomas Kuliavas <tokul@users.sourceforge.net>
+
+	* lietuviu.vardai (1.16), lietuviu.veiksmazodziai (1.11),
+	  lietuviu.zodziai (1.6): Pridėti papildomi žodžiai.
+
+2003-05-08   Tomas Kuliavas <tokul@users.sourceforge.net>
+
+	* aspell/Makefile (1.3): Pataisiau cvs id žymę.
+
+	* aspell/Makefile (1.4): Nereaguoja.
+
+2003-04-22   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.jargon (1.15), lietuviu.vardai (1.15), lietuviu.zodziai
+	  (1.5), aspell/Makefile (1.2), aspell/README (1.2),
+	  aspell/lt.multi (1.2): Tomo Kuliavo pateikti nauji žodžiai ir
+	  pataisymai.
+
+2003-02-26   Ramūnas Lukaševičius
+
+	* lietuviu.ivairus (1.9), lietuviu.jargon (1.14), lietuviu.vardai
+	  (1.14): Žodžiai iš senų pakeitimų.
+
+2003-02-19   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* tools/spell.pl (1.5): Gelbėjau formatavimą su perltidy, po to
+	  kapojau stringus rankomis.
+
+	  *Vien* *tiktai* *formatavimo* *pakeitimai*.
+
+	  Mano nuomonės apie šį skriptą galit ir neklausti.
+
+	* Makefile (1.7), lietuviu.budvardziai (1.7),
+	  lietuviu.daiktavardziai (1.8), lietuviu.jargon (1.11),
+	  lietuviu.nekaitomi (1.6), lietuviu.tarpt.budvardziai (1.6),
+	  lietuviu.tarpt.daiktavardziai (1.7),
+	  lietuviu.tarpt.veiksmazodziai (1.4), lietuviu.veiksmazodziai
+	  (1.10), lietuviu.zodziai (1.1): Sudėjau žodžius atgal į
+	  lietuvių.zodziai.
+
+	  Atsisakyta tarptautinių-netarptautinių skirstymo, nes sunku ir
+	  beprasmiška.	spell.pl yra neteiktinas, nes kodas yra
+	  nepalaikomas (unmaintainable).  Dabar rekomenduojama naudotis
+	  senu Mėnesio skriptu tools/spellai.
+
+	  Tegyvuoja paprastumas.
+
+	* lietuviu.vardai (1.11), lietuviu.zodziai (1.2): 60 naujų žodžių
+	  iš mano kalbotyros rašinių.
+
+	* lietuviu.ivairus (1.8), lietuviu.jargon (1.12), lietuviu.vardai
+	  (1.12), lietuviu.zodziai (1.3): Žodžiai iš pašto ir rašinių.
+
+	* lietuviu.aff (1.5): Pridėjau trumpas šnekamasias formas kaip
+	  "kavinėj" ar "kursiokėm".  Jei tai reikalingas dalykas, reikia
+	  nuosekliai peržiūrėt ir visus dalyvius.
+
+	* lietuviu.jargon (1.13), lietuviu.vardai (1.13), lietuviu.zodziai
+	  (1.4): Nauji žodžiai iš magistrinio laikų.
+
+2003-01-23   Ramūnas Lukaševičius
+
+	* lietuviu.tarpt.veiksmazodziai (1.3), lietuviu.veiksmazodziai
+	  (1.9): Pridėta ir ištaisyta keletas veiksmažodžių.
+
+2003-01-21   Ramūnas Lukaševičius
+
+	* HOWTO (1.1): Sukurtas aprašymas, kaip įdiegti žodyną į Mozillą ir
+	  OpenOffice.
+
+2003-01-18   Ramūnas Lukaševičius
+
+	* lietuviu.daiktavardziai (1.7): Pridėta truputis daiktavardžių.
+
+	* lietuviu.vardai (1.10): Nauji vardai bei pavadinimai.
+
+	* lietuviu.tarpt.daiktavardziai (1.6): Nauji žodžiai.
+
+	* lietuviu.jargon (1.10): Keletas santraupų ir šiaip žargonų.
+
+	* lietuviu.budvardziai (1.6), lietuviu.tarpt.budvardziai (1.5):
+	  Pridėta naujų būdvardžių, išmesti lauk kai kurie nelietuviški
+	  būdvardžiai. Taip pat išmesti veiksmažodiniai būdvardžiai, kurie
+	  kilę iš veiksmažodžių. Ir pataisyti keli flagai.
+
+	* lietuviu.ivairus (1.7), lietuviu.nekaitomi (1.5): Pridėta naujų
+	  žodžių.
+	
+2003-01-17   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* mozilla/license/: README.txt (1.1), license.txt (1.1): Du
+	  praleisti failai.
+
+	* lietuviu.budvardziai (1.5), lietuviu.daiktavardziai (1.6),
+	  lietuviu.jargon (1.9), lietuviu.nekaitomi (1.4),
+	  lietuviu.tarpt.budvardziai (1.4), lietuviu.tarpt.daiktavardziai
+	  (1.5), lietuviu.tarpt.veiksmazodziai (1.2), lietuviu.vardai
+	  (1.9), lietuviu.veiksmazodziai (1.8): Nauji žodžiai.
+
+	* tools/spell.pl (1.4): Laimono Vėbros netyčinės šakos suliejimas su
+	  straubliu.
+
+2003-01-06   Laimonas Vėbra <wiela@centras.lt>
+
+	* tools/spell.pl (1.3.1.3):  - Ištaisyta paieškos žodynuose klaida 
+	  (programa "rasdavo" žodžius žodyne, nors jie tėra tik sudėtinės 
+	  tikrų žodžių dalys, arba kitaip tariant žodžiai žodžiuose), 
+	  išmesti bereikalingi tikslinimai, aiškinimai ("Tai reiškia, kad 
+	  žodis xxx yra paprastas lietuviškas daiktavardis" ir t.t.) radus 
+	  žodį viename iš žodynų.
+
+2003-01-05   Ramūnas Lukaševičius
+	
+	* lietuviu.veiksmazodziai (1.6): Pridėta keletas naujų žodžių.
+
+	* lietuviu.daiktavardziai (1.5), lietuviu.tarpt.daiktavardziai
+	  (1.4), lietuviu.vardai (1.8): Pridėta ir pataisyta šiek tiek
+	  daiktavardžių bei vardų.
+
+	* lietuviu.budvardziai (1.4), lietuviu.tarpt.budvardziai (1.3):
+	  Pridėta naujų būdvardžių ir ištaisyti kai kurie seni, išmestas
+	  vienas pasikartojantis žodis.
+
+	* lietuviu.veiksmazodziai (1.7): Pridėta keletas naujų ir pataisyti
+	  seni veiksmažodžiai.
+
+2003-01-04   Ramūnas Lukaševičius
+
+	* lietuviu.vardai (1.7): Pridėta keletas naujų vardų.
+
+	* lietuviu.nekaitomi (1.3): Pridėta dar šis tas.
+
+	* lietuviu.ivairus (1.6): Pridėtas žodis.
+
+	* lietuviu.jargon (1.8): Pridėta keletas naujų žargonų bei
+	  sutrumpinimų.
+
+	* lietuviu.budvardziai (1.3): Pridėta keletas būdvardžių
+
+	* lietuviu.daiktavardziai (1.4): Pridėta naujų žodžių ir ištaisyta
+	  klaida: 'Vyriausybė' - iš mažosios raidės turėjo būti.
+
+	* lietuviu.tarpt.daiktavardziai (1.3): Pridėtas žodis.
+
+2002-12-30   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.daiktavardziai (1.3), aspell/Makefile (1.1),
+	  aspell/README (1.1), aspell/iso8859-13.dat (1.1), aspell/lt.dat
+	  (1.1), aspell/lt.multi (1.1), mozilla/Makefile (1.1),
+	  mozilla/README (1.1), mozilla/install.js (1.1): Tomo Kuliavo
+	  <tomas@topolis.lt> pateiktas pritaikymas aspellui ir mozillai.
+	  Ir terpė!
+
+2002-12-18   Laimonas Vėbra <wiela@centras.lt>
+
+	* tools/spell.pl (1.3): Ištaisytos kelios rimtokos klaidos,
+	  tapo įmanomas nekaitomų žodžių įvedimas, patobulinta programos
+	  logika (siūlomos veiksmažodžių laikų formos). Klaidas pastebėjo
+	  Tomas Straupis.
+
+2002-12-05   Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* lietuviu.aff (1.4): Įrašiau praleistas antro asmens formas /Y
+	  flage. Klaidą surado Laimonas Vėbra.
+
+	
+2002-11-23   Gediminas Paulauskas <menesis@delfi.lt>
+
+	* .cvsignore (1.1): Ignoruojam ką make padaro.
+
+	* Makefile (1.6): Nerūšiuoti reikia .ivairus, o ne .jargon failo!
+
+	* lietuviu.budvardziai (1.2): 70 naujų žodžių iš Manto draugo
+	  medžiotojo. Išmečiau dalyvius ir nuėmiau /N kur tai neturi prasmės.
+
+	* lietuviu.daiktavardziai (1.2): 160 naujų žodžių iš manęs ir
+	  medžiotojo. Išmesti keli veiksmažodiniai daiktavardžiai.
+
+	* lietuviu.ivairus (1.5): Pridėjau kel*, treji, ketveri, užuot.
+
+	* lietuviu.jargon (1.7): Kas tas 'robastiškas'?
+
+	* lietuviu.nekaitomi (1.2): Keli nauji žodžiai. 'foto' yra netinkamas
+	  žodis.
+
+	* lietuviu.tarpt.budvardziai (1.2), lietuviu.tarpt.daiktavardziai
+	  (1.2): keliolika naujų žodžių, išmesti veiksmažodiniai daikt. ir
+	  dalyviai.
+
+	* tools/spell.pl (1.2): Išmečiau netyčia paliktą debug spausdinimą.
+	  Padariau, kad neklaustų ar noriu įrašyti žodį į žodyną kai jau
+	  viską apie jį suvedžiau.
+
+	* lietuviu.vardai (1.6): pora pražiopsotų vardų.
+
+
+2002-11-22   Gediminas Paulauskas <menesis@delfi.lt>
+
+	* CHANGE (1.1), ChangeLog (1.3), Makefile (1.5), THANKS (1.3),
+	  lietuviu.aff (1.3), lietuviu.base (1.4), lietuviu.budvardziai
+	  (1.1), lietuviu.daiktavardziai (1.1), lietuviu.jargon (1.6),
+	  lietuviu.nekaitomi (1.1), lietuviu.tarpt.budvardziai (1.1),
+	  lietuviu.tarpt.daiktavardziai (1.1),
+	  lietuviu.tarpt.veiksmazodziai (1.1), lietuviu.veiksmazodziai
+	  (1.5), lietuviu.verbs (1.5), lietuviu.words (1.9), tools/spell.pl
+	  (1.1): 
+
+	Pakeitimai iš Laimono Vėbros:
+
+	* lietuviu.words failas išskaidytas į: lietuviu.budvardziai, 
+	  lietuviu.daiktavardziai, lietuviu.nekaitomi, 
+	  lietuviu.tarpt.budvardziai, lietuviu.tarpt.daiktavardziai
+
+	* lietuviu.base pervadintas į lietuviu.ivairus ir peržiūrėtas.
+
+	* lietuviu.verbs: padalintas į lietuviu.veiksmazodziai, 
+	  lietuviu.tarpt.veiksmazodziai
+	
+	* Makefile: atnaujintas.
+
+	* lietuviu.aff: užkomentuotos taisyklės žodžiams, kurie atsako į
+	  klausimą "koks?" ir baigiasi "-tis" -- atrodo kad visi jie yra
+	  ne būdvardžiai, o dalyviai.
+
+	* tools/spell.pl: patobulintas skriptas, išskirsto žodžius į
+	  reikalingus failus.
+	
+2002-11-22   Gediminas Paulauskas <menesis@delfi.lt>
+
+	* Makefile (1.4): clean also myspell files
+
+2002-09-24 14:04  Albertas Agejevas <alga@akl.lt>
+
+	* lietuviu.vardai (1.5), lietuviu.words (1.7): Tomo Straupio
+	  kontribucija.
+
+	* lietuviu.words (1.8): nelaimė
+
+2002-09-13   Linas Spraunius <linas@operis.org>
+
+	* lietuviu.jargon (1.5), lietuviu.veiksmazodziai (1.4),
+	  lietuviu.verbs (1.4), lietuviu.words (1.6): skaneris -> skeneris;
+	  + keli nauji žodžiai.
+
+2002-09-06   Gediminas Paulauskas <menesis@delfi.lt>
+
+	* lietuviu.base (1.3), lietuviu.ivairus (1.3), lietuviu.jargon
+	  (1.4), lietuviu.vardai (1.4), lietuviu.veiksmazodziai (1.3),
+	  lietuviu.verbs (1.3), lietuviu.words (1.5): apie 500 naujų žodžių
+	  iš manęs, Lino ir Mariaus.
+
+	* README (1.2): Naudojimo skyrius perkeltas į priekį, smulkūs
+	  pataisymai.
+
+	* ChangeLog (1.2): Dokumentuojam kai kuriuos pakeitimus...
+
+	* THANKS (1.2): Atnaujinti mailai ir pavardės. Pridėjau Liną ir
+	  Ričardą.
+
+2002-09-03   Albertas Agejevas <alga@akl.lt>
+
+	* Makefile (1.3), tools/ispell2myspell.py (1.1): OpenOffice MySpell
+	  palaikymas.
+	
+2002-08-30   Albertas Agejevas <alga@akl.lt>
+
+	* Makefile (1.2), lietuviu.aff (1.2): Ričardo Čepo patchas.  UTF-8
+	  palaikymas
+
+	* lietuviu.base (1.2), lietuviu.ivairus (1.2), lietuviu.jargon (1.2), 
+	  lietuviu.vardai (1.2), lietuviu.words (1.2): Tomo Straupio žodžiai
+
+	* lietuviu.jargon (1.3), lietuviu.words (1.3): Lino Bukausko žodžiai
+
+	* lietuviu.words (1.4): Bugfixas :)
+
+	* lietuviu.vardai (1.3), lietuviu.veiksmazodziai (1.2), lietuviu.verbs 
+	  (1.2): Lino Bukausko žodžiai
+
+2002-08-30   Albertas Agejevas <alga@akl.lt>
+
+	* Makefile (1.1), lietuviu.aff (1.1), lietuviu.base (1.1),
+	  lietuviu.ivairus (1.1), README (1.1), THANKS (1.1),
+	  lietuviu.jargon (1.1), lietuviu.veiksmazodziai (1.1),
+	  lietuviu.verbs (1.1), COPYING (1.1), ChangeLog (1.1),
+	  lietuviu.vardai (1.1), lietuviu.words (1.1), tools/README (1.1),
+	  tools/guess (1.1), tools/spellai (1.1), tools/try (1.1),
+	  tools/updated (1.1): Initial revision
+
+	* Makefile (1.1.1.1), lietuviu.aff (1.1.1.1), lietuviu.base
+	  (1.1.1.1), lietuviu.ivairus (1.1.1.1), README (1.1.1.1), THANKS
+	  (1.1.1.1), lietuviu.jargon (1.1.1.1), lietuviu.veiksmazodziai
+	  (1.1.1.1), lietuviu.verbs (1.1.1.1), COPYING (1.1.1.1), ChangeLog
+	  (1.1.1.1), lietuviu.vardai (1.1.1.1), lietuviu.words (1.1.1.1),
+	  tools/README (1.1.1.1), tools/guess (1.1.1.1), tools/spellai
+	  (1.1.1.1), tools/try (1.1.1.1), tools/updated (1.1.1.1): Versijos
+	  0.5 importas į CVS
+
+2001-05-02  Gediminas Paulauskas <menesis@delfi.lt>
+
+	Versija 0.5: 8767 žodžiai.
+
+	* pervadinau žodyną į "lietuviu", kaip rekomenduoja autorius.
+
+	* lietuviu.aff: pataisiau porą klaidų su mot.g. aukštesniojo laipsnio
+	būdvardžiais. Albertas pridėjo trūkstamą "keitei, keiteisi" formą.
+
+	* pašalinau veiksmažodinius daiktavardžius iš žodyno -- juos pakeičiau
+	atitinkamais veiksmažodžiais.
+
+	* daug mano naujų žodžių, 300 Alberto, radau klaidų žodynuose.
+
+	* tools/spellai: šiek tiek gudriau atspėja būdvardžius: beveik visą
+	laiką reikia spausti enter :)
+
+2001-04-18  Gediminas Paulauskas <menesis@delfi.lt>
+
+	Versija 0.4.2: 8220 žodžių.
+
+	* tools/updated: naujas skriptukas
+
+	* 600 naujų mano žodžių, virš 200 iš Mariaus, pataisyti buvę.
+
+	* COPYING: pridėjau BSD tipo licenziją, nepakenks...
+
+2000-07-04  Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	Versija 0.4
+
+	* Iš Gedimino Paulausko <menesis@takas.lt> -- dar tūkstantis
+	naujų žodžių.  Žodyną sudaro jau virš 7400 žodžių.
+
+	* Pridėti veiksmažodiniai daiktavardžiai (darymas, kalimas),
+	daromi iš veiksmažodžių būtojo kartinio laiko.
+
+2000-04-14  Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	Versija 0.3
+
+	* Iš Gedimino Paulausko <menesis@takas.lt> -- keli tūkstančiai
+	naujų žodžių, o taip pat pilnai sutvarkyti veiksmažodžiai.  Tai
+	buvo milžiniškas darbas.  Žodyną sudaro jau virš 6000 žodžių.
+
+	* Jo paties skriptukas, pakeičiantis bei apjungiantis mano ir
+	Mariaus skriptukus, padedančius nustatyti žodžio flagus.
+
+	* Bug fix'ai ir papildymai afiksų faile.
+
+2000-04-04  Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	Versija 0.3pre1
+
+	* Žodžiai ir bug fix'ai iš Mariaus Gedmino ir Aurimo Mikalausko;
+
+	* Lietuvos miestų sąrašas iš Daliaus <dali@isag.lei.lt>;
+
+	* įdėtas veiksmažodžių priešdėlių palaikymas (kol kas nevisas
+	žodynas sukonvertuotas į naują pavidalą, žr failą liet.verbs);
+
+	* atsidaro tools direktorija, o joje keletas Mariaus Gedmino
+	utelyčių ir mano skriptukas veiksmažodių įrašams daryti.  Manau,
+	tik juo ir reikėtų naudotis -- padaro visą veiksmažodžių flagų
+	magiją pats, tereikia tik suvesti tris pagrindines formas ir
+	atsakyti į 25 klausimus, ar galimos tam tikros formos.
+
+2000-03-17  Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	Versija 0.2
+
+	* Pataisytas afiksų failas;
+
+	* keli nauji žodžiai;
+
+	* keletas liet.base pakeitimų;
+
+	* atsirado Makefile;
+
+	* Aurimo Mikalausko suteiktas vardų sąrašas ir keletas žodžių;
+
+	* žodynas suskaidytas į keletą failų;
+
+	* atsirado šitas ChangeLog.
+
+2000-03-15  Albertas Agejevas  <alga@uosis.mif.vu.lt>
+
+	* Išleista versija 0.1
+
+2000-02-15  Albertas Agejevas
+
+	* Pradėtas darbas (gavau gramatikos žinyną)
