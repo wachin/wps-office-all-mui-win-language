@@ -129,7 +129,7 @@ y aquí encuentro esas carpetas de los mui que faltaba descargar:
 
 
 
-**MUI Deutsch (Deutschland), Spanish, Francis(Canada), Polski (Polska)**
+**MUI Deutsch (Deutschland), Spanish, Francis(Canada), Polski (Polska)**<br />
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_de_1.1.2019.22<br />
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_es_1.1.2019.22<br />
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_fr_1.1.2019.22<br />
