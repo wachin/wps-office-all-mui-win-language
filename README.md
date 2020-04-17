@@ -35,7 +35,7 @@ Primero en PlayOnLinux es necesario instalar Wine 3.21 (bueno esa es la versión
 
 allí desde la izquierda paselo a la derecha:
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-074832_wine_3.21.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-074832_wine_3.21.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 ![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-075342_instalar%2C_siguiente.png?raw=true  "Captura de pantalla hecha con Ksnip")
 
@@ -70,7 +70,7 @@ instalarlo
 
 
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-080850_Instalandolo.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-080850_Instalandolo.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 
 
@@ -78,11 +78,11 @@ y aquí se instalando y va al 28%
 
 
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-081130_en_porcentaje.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-081130_en_porcentaje.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 luego el programa se me abre:
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-081341_splash.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-081341_splash.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 ![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-081437_lanzarlo.png?raw=true  "Captura de pantalla hecha con Ksnip")
 
@@ -90,27 +90,27 @@ luego el programa se me abre:
 
 cierro la ventana de iniciar sesión:
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-081554_cerrar_sync.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-081554_cerrar_sync.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 ahora voy a cambiar el idioma:
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-194328_configuracion_lenguajes.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-194328_configuracion_lenguajes.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 y voy a instalar los que no están descargados:
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-194529_elija_los_dem%C3%A1s_idiomas_que_no_est%C3%A1n_instalados.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-194529_elija_los_dem%C3%A1s_idiomas_que_no_est%C3%A1n_instalados.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 ![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-194810_el_ultimo.png?raw=true  "Captura de pantalla hecha con Ksnip")
 
 una vez que están descargados cierro al programa:
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-194931_cerrar_wps.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-194931_cerrar_wps.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 ![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-200342_cerrar.png?raw=true  "Captura de pantalla hecha con Ksnip")
 
 ahora voy a buscar el lugar donde se descargaron esos archivos que instalé:
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-200539_entrar_en_HOME_en_la_carpeta_de_POL.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-200539_entrar_en_HOME_en_la_carpeta_de_POL.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 ![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-200735_entrar_en_la_carpeta_unidad_virtual.png?raw=true  "Captura de pantalla hecha con Ksnip")
 
@@ -152,7 +152,7 @@ Los demás **mui** ya estaban por defecto en la siguiente ruta:
 
 ahora bien, como el programa lo cerré y no me dejó crear en su momento el acceso directo, pues lo voy a crear ahora:
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-201821_Si_desea_lanzar_WPS_Office.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-201821_Si_desea_lanzar_WPS_Office.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 ![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200411-202207_generar_el_acceso.png?raw=true  "Captura de pantalla hecha con Ksnip")
 
@@ -166,7 +166,7 @@ ahora bien, como el programa lo cerré y no me dejó crear en su momento el acce
 
 y ahora lo vuelvo a abrir a WPS Office y empiezo a descargar los idomas que faltan
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200415-091621_descargando_los_diccionarios_idiomas_faltantes.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200415-091621_descargando_los_diccionarios_idiomas_faltantes.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 esos idomas que descargué están en esta dirección:
 
@@ -206,7 +206,7 @@ son idiomas nuevos, los estoy editando para poderlos añadir luego (me demoraré
 
 
 
-![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200415-092230_comparaci%C3%B3n_con_el_idioma_descargado.png?raw=true"Captura de pantalla hecha con Ksnip")
+![WPS Office](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/imagenes/20200415-092230_comparaci%C3%B3n_con_el_idioma_descargado.png?raw=true "Captura de pantalla hecha con Ksnip")
 
 
 
