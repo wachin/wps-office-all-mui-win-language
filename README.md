@@ -21,7 +21,8 @@ Las siguientes son las Instrucciones de cómo instalé WPS Office la versión de
 
 **Nota:** Si no saben como instalar aplicaciones de Windows en PlayOnLinux, instalen algunos de los siguientes: https://facilitarelsoftwarelibre.blogspot.com/search/label/PlayOnLinux
 
-
+<br />
+<br />
 
 **TUTORIAL DE CÓMO INSTALÉ WPS OFFICE LA VERSIÓN DE WINDOWS EN PLAYONLINUX Y CÓMO EXTRAJE LOS DICTS Y LOS MUI**
 
@@ -129,24 +130,23 @@ y aquí encuentro esas carpetas de los mui que faltaba descargar:
 
 
 **MUI Deutsch (Deutschland), Spanish, Francis(Canada), Polski (Polska)**
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_de_1.1.2019.22
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_es_1.1.2019.22
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_fr_1.1.2019.22
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_pl_1.1.2019.22
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_de_1.1.2019.22<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_es_1.1.2019.22<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_fr_1.1.2019.22<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_pl_1.1.2019.22<br />
 
 
 
 Los demás **mui** ya estaban por defecto en la siguiente ruta:
 
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/en
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/en_GB
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/en_US
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/id_ID
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/lang_list
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/pt_BR
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/pt_PT
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/ru_RU
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/ug_CN
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/en<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/en_GB<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/en_US<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/id_ID<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/pt_BR<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/pt_PT<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/ru_RU<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/ug_CN<br />
 
 
 
@@ -172,33 +172,33 @@ esos idomas que descargué están en esta dirección:
 
 
 
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_be_BY_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_bg_BG_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_bs_BA_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_ca_ES_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_cs_CZ_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_da_DK_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_el_GR_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_gd_GB_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_gl_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_gu_IN_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_hi_IN_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_hu_HU_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_is_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_it_IT_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_lt_LT_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_ms_MY_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_nb_NO_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_ne_NP_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_ro_RO_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sk_SK_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sl_SI_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sq_AL_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sr_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sv_SE_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sw_TZ_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_tr_TR_1.0.19201904.1
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_uk_UA_1.0.19201904.1
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_be_BY_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_bg_BG_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_bs_BA_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_ca_ES_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_cs_CZ_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_da_DK_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_el_GR_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_gd_GB_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_gl_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_gu_IN_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_hi_IN_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_hu_HU_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_is_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_it_IT_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_lt_LT_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_ms_MY_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_nb_NO_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_ne_NP_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_ro_RO_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sk_SK_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sl_SI_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sq_AL_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sr_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sv_SE_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_sw_TZ_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_tr_TR_1.0.19201904.1<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_uk_UA_1.0.19201904.1<br />
 
 
 
@@ -214,22 +214,24 @@ Los Diccionarios de corrección ortográfica que les he compartido estában ya p
 
 
 
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/de_DE
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/en_AU
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/en_CH
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/en_GB
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/en_US
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_AR
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_BO
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_CL
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_CO
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_ES
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_MX
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/fr_FR
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/id_ID
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/nl_NL
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/pl_PL
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/pt_BR
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/pt_PT
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/ru_RU
-/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/vi_VN
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/de_DE<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/en_AU<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/en_CH<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/en_GB<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/en_US<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_AR<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_BO<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_CL<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_CO<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_ES<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/es_MX<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/fr_FR<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/id_ID<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/nl_NL<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/pl_PL<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/pt_BR<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/pt_PT<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/ru_RU<br />
+/home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/vi_VN<br />
+
+<br />
