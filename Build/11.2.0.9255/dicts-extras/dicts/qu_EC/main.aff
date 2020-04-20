@@ -1,0 +1,147 @@
+# ----------------------------------------------------------------------------------
+#
+#    Shukllachiska Kichwa del Ecuador, hunspell format dictionary affix file
+#    Copyright (C) 2009 Arno Teigseth, Henry David Lara
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU Affero General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU Affero General Public License for more details.
+#
+#    You should have received a copy of the GNU Affero General Public License
+#    along with this program. See LICENSE.txt. If not, see <http://www.gnu.org/licenses/>.
+#
+#    The author(s) can be contacted at arno at teigseth dot no
+#
+# ----------------------------------------------------------------------------------
+# 
+
+BREAK 1
+BREAK -
+# Allow checking of words on both sides of - : Mateo 10: 12-kama 16-tami will check 12 and kama separately
+
+SET UTF-8
+TRY akinuhstpmrclyoweñdbjgvzfqx
+
+NOSUGGEST !   # Bad words, don't suggest them.
+
+FORBIDDENWORD ¤  # Bad combinations.
+
+COMPOUNDMIN 1 # Minimum length of compound words
+
+COMPOUNDBEGIN /      # start comp, all words (except accented ones) in kichwa...
+COMPOUNDMIDDLE -     # middle comp
+COMPOUNDEND >        # end comp
+COMPOUNDPERMITFLAG + # allow (stem+affix)+compound
+COMPOUNDFORBIDFLAG 1 # words not allowed in compounds, e.g. espíritu ok but not espírituka
+                     # really redundant for the words with no / specified
+ONLYINCOMPOUND x     # words allowed only in compounds, e.g. espíritu/ ok while forcing espiritu|ka = espiritu//x
+
+REP 8
+REP ai ay
+REP gui ki
+REP hua wa
+REP j k
+REP ng nk
+REP qui ki
+REP taj tak
+REP iy y
+
+
+# VERBS
+SFX v Y 48        #Verbs: conjugations and the like
+SFX v na na//+ na          # Infinitive
+SFX v na ni//+ na          # Present 1st person singular
+SFX v na nki//+ na         # Present 2nd person singular | Future 2nd person singular/plural
+SFX v na n//+ na           # Present 3rd person singular
+SFX v na nchik//+ na       # Present 1st person plural
+SFX v na nkichik//+ na     # Present 2nd person plural
+SFX v na nkuna//+ na       # Present 3nd person plural
+SFX v na sha//+ na         # Future 1st person singular
+SFX v na nka//+ na         # Future 3rd person singular/plural
+SFX v na shun//+ na        # Future 1st person plural
+SFX v na shunchik//+ na    # Future 1st person plural ("all of us")
+SFX v na rkani//+ na       # Past 1st person singular
+SFX v na rkanki//+ na      # Past 2nd person singular
+SFX v na rka//+ na         # Past 3rd person singular
+SFX v na rkanchik//+ na    # Past 1st person plural
+SFX v na rkankichik//+ na  # Past 2nd person plural
+SFX v na rkakuna//+ na     # Past 3nd person plural
+SFX v na nkapak//+ na      # for/to
+SFX v na shpaka//+ na      # Contitional same person
+SFX v na kpika//+ na       # Contitional other person
+SFX v na rkakpi//+ na      # Conditional Past 3rd person singular
+SFX v na k//+ na           # Personification
+SFX v na y//+ [^i]na       # Imperative 1st person singular not ending in "I" / Nounification rura|na   => rura|y
+SFX v ina i//+ ina         # Imperative 1st person singular ending in "I"/ Nounification yuyari|na => yuyar|i (not yuyariy)
+SFX v na yuk//+ na         # The person having nounified ~ (juchay|uk = sin (nounified verb)|the person having = "the person having sin"/"the sinner"). Verbs ending in I, too: asirina=> asiri|yuk
+SFX v na nayay//+ na       # Cuausing ~ (manchana|yay = fear|causing)
+SFX v na yari// na         # More Imperative 1st person singular
+SFX v na chun//+ na        # Imperative 3rd person singular / Present subjunctive
+SFX v na ychik//+ na       # Imperative 2nd person plural
+SFX v na chunkuna//+ na    # Imperative 3rd person plural
+SFX v na shkani//+ na      # Perfect 1st person singular
+SFX v na shkanki//+ na     # Perfect 2nd person singular
+SFX v na shka//+ na        # Perfect 3rd person singular
+SFX v na shkanchik//+ na   # Perfect 1st person plural
+SFX v na shkankichik//+ na # Perfect 2nd person plural
+SFX v na shkakuna//+ na    # Perfect 3rd person plural
+SFX v na shkarka//+ na     # Plusperfect [persons?]
+SFX v na shpa//+ na        # Gerund same person.
+SFX v na shkanka//+ na     # Was going to ############ All verbs can also be POLITE, ending in -pa<conjugation>
+SFX v na panki//+ na       # POLITE Present 2nd person singular | Future 2nd person singular/plural
+SFX v na panchik//+ na     # POLITE Present 1st person plural
+SFX v na pankichik//+ na   # POLITE Present 2nd person plural
+SFX v na pashun//+ na      # POLITE Future 1st person plural
+SFX v na pay//+ na         # POLITE Imperative 1st person singular not ending in "I" / Nounification rura|na   => rura|y
+SFX v na payari// na       # POLITE More Imperative 1st person singular
+SFX v na pachun//+ na      # POLITE Imperative 3rd person singular / Present subjunctive
+SFX v na paychik//+ na     # POLITE Imperative 2nd person plural
+SFX v na pachunkuna//+ na  # POLITE Imperative 3rd person plural
+
+# NOTE 1
+# Infixes like -ri- -ku- -gri- etc are put in qi_EC.dic as separate infinitive forms.
+# The script generateQUdicfile.sh does that. See qi_EC.dic.MASTER for applicable flags.
+
+# NOTE 2
+# "Pluralized amongst" forms missing here.
+# Straight plural: tanta|chi|na means "collect/gather" (one person collecting things for himself) while
+# "Amongst"plural: tanta|na|chi|na means "gather/join" (persons gathering together/amongst themselves). Also
+# Straight plural: pinka|chi|na means "cause embarrasment" (to others) while
+# "Amongst"plural: pinka|na|chi|na means "becoming embarrased amongst/towards eachother/together"
+#
+# This infix is dependent on the ending, pinka|sha is ok,    while  pinka|na|sha isn't.
+#                                        pinka|rka is ok, and so is pinka|na|rka.
+#
+# These could be matched, but the generateQIdicfile.sh generates much more inflexed stems, and
+# the -na- must come /before/ the inflexes, and is only permitted in combination with certain conjugations.
+#  Examples:
+# pinka|ri|na,    pinka|chi|sha,    pinka|chiri|rkakuna
+# pinka|na|ri|na, pinka|na|chi|sha, pinka|na|chiri|rkakuna
+#  OK (-na)         NOT OK (-sha)        OK (-rka…)
+#
+# This at the moment too difficult to accomplish with "clean" hunspell. There is the CIRCUMFIX flag, but
+# it applies only to whole words, and not suffix-dependent inflexes. With hunspell it's possible to validate:
+#
+#  (incorrect word)                              (correct word)
+# na|pinka|chiri|rkakuna       but not       pinka|na|chiri|rkakuna
+#  \------  -------/                                \----  ---/
+#         \/                                             \/
+# Dependent PREfix+suffix                       Dependent INfix+suffix
+#
+# So for now, these variants are generated with sed in generateQIdicfile.sh
+# Algorithm (pseudo-regex):
+#           _______________
+#          |   whatever    |
+# (xyxyxy)(|combinations of|{rkakuna|nkuna…})  --> add also  <pattern 1>|na|<pattern 2>
+#          |  ri/mu/chi/…  |
+#          |   and other   |
+#          | valid inflexes|
+#          |_______________|
+#
+

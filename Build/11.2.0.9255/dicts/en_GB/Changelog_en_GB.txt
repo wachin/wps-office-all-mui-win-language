@@ -1,0 +1,4 @@
+Version 0.1
+-rename "en_GB.dic" to "main.dic"
+-rename "en_GB.aff" to "main.aff"
+-convert main.dic main.aff from 'iso8859-1' to 'utf-8'
