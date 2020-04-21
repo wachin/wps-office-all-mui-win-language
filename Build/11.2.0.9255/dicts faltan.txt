@@ -1,0 +1,25 @@
+
+
+
+SUPPORTED SPELLCHECK LANGUAGES
+
+    Croatian (HR)
+    Greek (GR)
+    Khmer (KH)
+    Lithuanian (LT)
+    Romanian (RO)
+    Slovak (SK)
+    Turkish (TR)
+    Ukrainian (UA)
+
+
+
+     Croata (HR)
+     Checo (CZ)
+     Jemer (KH)
+     Lituano (LT)
+     Rumano (RO)
+     Eslovaco (SK)
+     Español (ES, MX)
+     Ucraniano (UA)
+  

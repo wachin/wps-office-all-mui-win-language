@@ -1,0 +1,79 @@
+NOMBRES EN LOS IDOMAS ORIGINALES
+NAMES IN THE ORIGINAL LANGUAGES
+
+de_DE    Deutsch (Deutschland)
+en_AU    English (Australia)
+en_CH    Chinese & English(United States)
+en_GB    English (United Kingdom)
+en_US    English (United States)
+es_AR    Español (Argentina)
+es_BO    Español (Bolivia)
+es_CL    Español (Chile)
+es_CO    Español (Colombia)
+es_ES    Español (España)
+es_MX    Español (México)
+fr_FR    Français (France)
+id_ID    Indonesian
+nl_NL    Nederlands
+pl_PL    Polski
+pt_BR    Português do Brasil
+pt_PT    Portuguê
+ru_RU    Русский (Россия)
+vi_VN    Tiếng Việt (Việt Nam)
+
+
+DICT-EXTRAS
+SPELLCHECK
+
+de_DE    German (Germany)
+en_AU    English (Australia)
+en_CH    Chinese & English(United States)
+en_GB    English (United Kingdom)
+en_US    English (United States)
+es_AR    Spanish (Argentina)
+es_BO    Spanish (Bolivia)
+es_CL    Spanish (Chile)
+es_CO    Spanish (Colombia)
+es_ES    Spanish (Spain)
+es_MX    Spanish (Mexico)
+fr_FR    French (France)
+id_ID    Indonesian
+nl_NL    Dutch
+pl_PL    Polish
+pt_BR    Portuguese (Brazil)
+pt_PT    Portuguese
+ru_RU    Russian (Russia)
+vi_VN    Vietnamese (Vietnam)
+
+
+DICT-EXTRAS
+IDIOMAS DE CORRECCIÓN ORTOGRÁFICA
+
+de_DE    Alemán (Alemania)
+en_AU    Inglés (Australia)
+en_CH    Chino + Inglés (Estados Unidos)
+en_GB    Inglés (Reino Unido)
+en_US    Inglés (Estados Unidos)
+es_AR    Español (Argentina)
+es_BO    Español (Bolivia)
+es_CL    Español (Chile)
+es_CO    Español (Colombia)
+es_ES    Español (España)
+es_MX    Español (México)
+fr_FR    Francés (Francia)
+id_ID    Indonesio
+nl_NL    Holandés
+pl_PL    Polaco
+pt_BR    Portugués (Brasil)
+pt_PT    Portugués
+ru_RU    Ruso (Rusia)
+vi_VN    Vietnamita (Vietnam)
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+
+
+SUPPORTED INTERFACE LANGUAGES
+
+    Chinese (China)
+    English (USA)
+    English (United Kingdom)
+    French
+    French (Canada)
+    German (Germany)
+    Indonesian
+    Polish (Poland)
+    Portuguese (Brazil)
+    Portuguese (Portugal)
+    Russian (Russian Federation)
+    Spanish (Mexico)
+    Spanish (Spain)
+
+
+IDIOMAS DE INTERFAZ
+
+     Chino (China)
+     Inglés (Estados Unidos)
+     Inglés (Reino Unido)
+     Francés
+     Francés (Canadá)
+     Alemán (Alemania)
+     Indonesio
+     Polaco (Polonia)
+     Portugués (Brasil)
+     Portugués (Portugal)
+     Ruso (Federación Rusa)
+     Español (México)
+     Español (España)
+
+
+
