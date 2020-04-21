@@ -1,0 +1,124 @@
+
+
+Descargar diccionarios de corrección ortográfica desde:
+
+https://wiki.documentfoundation.org/Language_support_of_LibreOffice 
+
+https://extensions.libreoffice.org/extensions
+
+
+cuando tenga el diccionario terminado en .oxt descomprímalo con clic derecho extraer aquí, luego copie los archivos terminados en:
+
+xx_xx.aff
+xx_xx.dic
+
+además de los archivos que hizo el desarrollador con información importante como los autores, el copyright, los cambios u otros datos importantes, y luego cree una carpeta ejemplo
+
+
+Conversión de un archivo de OpenOffice (o LibreOffice) para usarlo en WPS Office
+
+https://extensions.libreoffice.org/extensions/kichwa-ecuador-spellchecker/1.0
+
+
+En este caso el archivo se llama:
+
+qu_ec-0.9b.oxt
+
+y al extraerlo entro en esa carpeta y el contenido es este (en este caso tiene bastantes archivos):
+
+/qu_ec-0.9b.oxt_FILES/META-INF
+/qu_ec-0.9b.oxt_FILES/buildOXT.sh
+/qu_ec-0.9b.oxt_FILES/CURRENTVERSION.txt
+/qu_ec-0.9b.oxt_FILES/description.xml
+/qu_ec-0.9b.oxt_FILES/dictionaries.xcu
+/qu_ec-0.9b.oxt_FILES/dictionaries.xcu.3.2-and-on
+/qu_ec-0.9b.oxt_FILES/dictionaries.xcu.pre-3.2
+/qu_ec-0.9b.oxt_FILES/generateQUdicfile.sh
+/qu_ec-0.9b.oxt_FILES/hyph_qu_EC.dic
+/qu_ec-0.9b.oxt_FILES/hyph_qu_EC.dic.HEADER
+/qu_ec-0.9b.oxt_FILES/LICENSE.txt
+/qu_ec-0.9b.oxt_FILES/qu_EC.aff
+/qu_ec-0.9b.oxt_FILES/qu_EC.dic
+/qu_ec-0.9b.oxt_FILES/qu_EC.dic.MASTER
+/qu_ec-0.9b.oxt_FILES/README.txt
+/qu_ec-0.9b.oxt_FILES/REVISION.txt
+
+
+de allí saco los siguientes:
+
+/qu_ec-0.9b.oxt_FILES/qu_EC.aff
+/qu_ec-0.9b.oxt_FILES/qu_EC.dic
+/qu_ec-0.9b.oxt_FILES/README.txt
+/qu_ec-0.9b.oxt_FILES/REVISION.txt
+/qu_ec-0.9b.oxt_FILES/LICENSE.txt
+
+y aparte creo una carpeta llamada:
+
+/qu_EC
+
+allí copio esos archivos:
+
+qu_EC.aff
+qu_EC.dic
+README.txt
+REVISION.txt
+LICENSE.txt
+
+
+pero debo cambiarle el nombre  a los archivos:
+
+qu_EC.aff   por   main.aff
+qu_EC.dic   por   main.dic
+
+es decir deben quedar así:
+
+main.aff
+main.dic
+README.txt
+REVISION.txt
+LICENSE.txt
+
+
+Ahora debo crear un archivo:
+
+dict.conf
+
+y tengo hecha la siguiente plantilla:
+
+[Dictionary]
+DisplayName=
+DisplayName[en_US]=
+DisplayName[es_ES]=
+
+y entonces en mi caso debo poner allí lo siguiente:
+
+[Dictionary]
+DisplayName=Shukyachiska Kichwa (Ecuador)
+DisplayName[en_US]=Kichwa (Ecuador)
+DisplayName[es_ES]=Kichwa (Ecuador)
+
+y ya está. Por todo debe quedar así:
+
+/qu_EC
+
+main.aff
+main.dic
+README.txt
+REVISION.txt
+LICENSE.txt
+
+Eso significa que esos cinco archivos van dentro de la carpeta: /qu_EC y esa es la carpeta que hay que poner en:
+
+.local/share/Kingsoft/office6/
+
+es decir quedará así:
+
+.local/share/Kingsoft/office6/qu_EC
+
+
+Dios les bendiga
+
+
+
+
+
