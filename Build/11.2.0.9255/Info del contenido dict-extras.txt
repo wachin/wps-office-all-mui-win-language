@@ -1,4 +1,4 @@
-La siguiente es la información que he estado reuniendo para crear los archivos "dict.conf" en algunos diccionarios que no tenían, y para poner en la publicación
+La siguiente es la información que he estado reuniendo para crear los archivos "dict.conf" para muchos diccionarios que no tenían, y para poner en la publicación
 
 NOMBRES EN LOS IDOMAS ORIGINALES
 NAMES IN THE ORIGINAL LANGUAGES
@@ -14,9 +14,11 @@ gd_GB    Gàidhlig (An Rìoghachd Aonaichte)
 gl       Galego
 gu_IN    Gujarati (India)
 hi_IN    Hindi (India)
+hr_HR    Hrvatski (Hrvatska)
 hu_HU    Magyar (Magyarország)
 is       íslenska
 it_IT    Italiano (Italia)
+km_KH    ខ្មែរ (កម្ពុជា)
 lt_LT    Lietuvių (Lietuva)
 ms_MY    Malay (Malaysia)
 nb_NO    Norsk (Norge)
@@ -46,9 +48,11 @@ gd_GB    Scots Gaelic (Great Britain)
 gl       Galician (strict Volga)
 gu_IN    Gujarati (India)
 hi_IN    Hindi (India)
+hr_HR    Croatian (Croatia)
 hu_HU    Hungarian (Hungary)
 is       Icelandic
 it_IT    Italian (Italy)
+km_KH    Khmer (Cambodia)
 lt_LT    Lithuanian (Lithuania)
 ms_MY    Malay (Malaysia)
 nb_NO    Norwegian (Norway)
@@ -78,9 +82,11 @@ gd_GB    Gaélico Escocés (Gran Bretaña)
 gl       Galego (Volga estrito)
 gu_IN    Gujarati (India)
 hi_IN    Hindi (India)
+hr_HR    Croata (Croacia)
 hu_HU    Húngaro (Hungría)
 is       Islandés
 it_IT    Italiano (Italia)
+km_KH    Jemer (Camboya)
 lt_LT    Lituano (Lituania)
 ms_MY    Malay (Malaysia)
 nb_NO    Noruego (Noruega)
@@ -94,8 +100,5 @@ sv_SE    Sueco (Suecia)
 sw_TZ    Swahili (Tanzania)
 tr_TR    Turco (Turquía)
 uk_UA    Ucraniano (Ucrania)
-
-
-
 
 
