@@ -10,31 +10,40 @@ Todos los lenguajes del MUI (Multilingual User Interface) de WPS Office de la ve
 
 Estos son los MUI y Diccionarios para el tutorial
 
-**Cómo instalar WPS Office 2019 (32 y 64 bits) en español + Diccionarios de Corrección Ortográfica + otros idiomas, para Linux (Ubuntu, Debian, Fedora, OpenSuse, etc)**
-<br />
+**Cómo instalar WPS Office 2019 (32 y 64 bits) en español + Diccionarios de Corrección Ortográfica + otros idiomas, para Linux (Ubuntu, Debian, Fedora, OpenSuse, etc)**<br />
 [https://facilitarelsoftwarelibre.blogspot.com/2019/10/como-instalar-wps-office-2019-32-y-64.html](https://facilitarelsoftwarelibre.blogspot.com/2019/10/como-instalar-wps-office-2019-32-y-64.html)
 <br />
 
-Las siguientes son las Instrucciones de cómo instalé WPS Office la versión de Windows 11.2.0.9255 en PlayOnLinux con Wine 3.21
 
 
-
-**Nota:** Si no saben como instalar aplicaciones de Windows en PlayOnLinux, instalen algunos de los siguientes: https://facilitarelsoftwarelibre.blogspot.com/search/label/PlayOnLinux
-<br />
-
+**CONTENIDO**
 
 ```bat
-
-CONTENIDO
-
 *****
 MUI
 *****
+ 
+MUI (Interfaz de Usuario Multilenguaje)
+NOMBRES EN ESPAÑOL 
+**Descargados desde WPS Office versión Windows 11.2.0.9255 para usar en Linux**
+          Chino (China)
+en_US     Inglés (Estados Unidos)
+en_GB     Inglés (Reino Unido)
+fr_FR     Francés
+fr_CA     Francés (Canadá)
+de_DE     Alemán (Alemania)
+id_ID     Indonesio
+pl_PL     Polaco (Polonia)
+pt_BR     Portugués (Brasil)
+pt_PT     Portugués (Portugal)
+ru_RU     Ruso (Federación Rusa)
+es_MX     Español (México)
+es_ES     Español (España)
+ 
 
-MUI (Multilingual User Interface, Interfaz de Usuario Multilenguaje)
-
-NOMBRES EN INGLÉS
-NAMES IN ENGLISH:
+MUI (Multilingual User Interface)
+NAMES IN ENGLISH
+**Downloaded from WPS Office Windows version 11.2.0.9255 for use on Linux**
          Chinese (China)
 en_US    English (USA)
 en_GB    English (United Kingdom)
@@ -49,28 +58,10 @@ ru_RU    Russian (Russian Federation)
 es_MX    Spanish (Mexico)
 es_ES    Spanish (Spain)
 
-NOMBRES EN ESPAÑOL
-NAMES IN SPANISH:
-          Chino (China)
-en_US     Inglés (Estados Unidos)
-en_GB     Inglés (Reino Unido)
-fr_FR     Francés
-fr_CA     Francés (Canadá)
-de_DE     Alemán (Alemania)
-id_ID     Indonesio
-pl_PL     Polaco (Polonia)
-pt_BR     Portugués (Brasil)
-pt_PT     Portugués (Portugal)
-ru_RU     Ruso (Federación Rusa)
-es_MX     Español (México)
-es_ES     Español (España)
-
-
 
 **********
 DICTS
 **********
-
 DICCIONARIOS DE CORRECCIÓN ORTOGRÁFICA, NOMBRES EN LOS IDOMAS ORIGINALES
 SPELLCHECK, NAMES IN THE ORIGINAL LANGUAGES
 **Preinstalados en WPS Office versión Windows 11.2.0.9255**
@@ -128,63 +119,6 @@ hr_HR    Hrvatski (Hrvatska)
 km_KH    Khmer (Cambodia)
 qu_EC    Shukyachiska Kichwa (Ecuador)
 
-
-DICCIONARIOS DE CORRECCIÓN ORTOGRÁFICA, NOMBRES EN INGLÉS
-SPELLCHECK, NAMES IN ENGLISH
-**Preinstalados en WPS Office versión Windows 11.2.0.9255**
-**Pre-installed in WPS Office Windows version 11.2.0.9255**
-de_DE    German (Germany)
-en_AU    English (Australia)
-en_GB    English (United Kingdom)
-en_US    English (United States)
-es_AR    Spanish (Argentina)
-es_BO    Spanish (Bolivia)
-es_CL    Spanish (Chile)
-es_CO    Spanish (Colombia)
-es_ES    Spanish (Spain)
-es_MX    Spanish (Mexico)
-fr_FR    French (France)
-id_ID    Indonesian
-nl_NL    Dutch
-pl_PL    Polish
-pt_BR    Portuguese (Brazil)
-pt_PT    Portuguese
-ru_RU    Russian (Russia)
-vi_VN    Vietnamese (Vietnam)
-**Descargados desde WPS Office versión Windows 11.2.0.9255**
-**Downloaded from WPS Office Windows version 11.2.0.9255**
-be_BY    Belarusian (Belarus)
-bg_BG    Bulgarian (Bulgaria)
-bs_BA    Bosnian (Bosnia and Herzegovina)
-ca_ES    Catalan (Catalonia)
-cs_CZ    Czech (Czech)
-da_DK    Danish (Denmark)
-el_GR    Greek (Greece)
-gd_GB    Scots Gaelic (Great Britain)
-gl       Galician (strict Volga)
-gu_IN    Gujarati (India)
-hi_IN    Hindi (India)
-hu_HU    Hungarian (Hungary)
-is       Icelandic
-it_IT    Italian (Italy)
-lt_LT    Lithuanian (Lithuania)
-ms_MY    Malay (Malaysia)
-nb_NO    Norwegian (Norway)
-ne_NP    Nepali (Nepal)
-ro_RO    Romanian (Romania)
-sk_SK    Slovak (Slovakia)
-sl_SI    Slovenian (Slovenia)
-sq_AL    Albanian (Albania)
-sr       Serbio
-sv_SE    Swedish (Sweden)
-sw_TZ    Swahili (Tanzania)
-tr_TR    Turkish (Turkey)
-uk_UA    Ukrainian (Ukraine)
-**De OpenOffice o LibreOffice**
-**From OpenOffice or LibreOffice**
-hr_HR    Croatian (Croatia)
-km_KH    Khmer (Cambodia)
-qu_EC    Kichwa (Ecuador)
 
 
 DICCIONARIOS DE CORRECCIÓN ORTOGRÁFICA, NOMBRES EN ESPAÑOL
@@ -244,13 +178,75 @@ hr_HR    Croata (Croacia)
 km_KH    Jemer (Camboya)
 qu_EC    Kichwa (Ecuador)
  
+
+DICCIONARIOS DE CORRECCIÓN ORTOGRÁFICA, NOMBRES EN INGLÉS
+SPELLCHECK, NAMES IN ENGLISH
+**Preinstalados en WPS Office versión Windows 11.2.0.9255**
+**Pre-installed in WPS Office Windows version 11.2.0.9255**
+de_DE    German (Germany)
+en_AU    English (Australia)
+en_GB    English (United Kingdom)
+en_US    English (United States)
+es_AR    Spanish (Argentina)
+es_BO    Spanish (Bolivia)
+es_CL    Spanish (Chile)
+es_CO    Spanish (Colombia)
+es_ES    Spanish (Spain)
+es_MX    Spanish (Mexico)
+fr_FR    French (France)
+id_ID    Indonesian
+nl_NL    Dutch
+pl_PL    Polish
+pt_BR    Portuguese (Brazil)
+pt_PT    Portuguese
+ru_RU    Russian (Russia)
+vi_VN    Vietnamese (Vietnam)
+**Descargados desde WPS Office versión Windows 11.2.0.9255**
+**Downloaded from WPS Office Windows version 11.2.0.9255**
+be_BY    Belarusian (Belarus)
+bg_BG    Bulgarian (Bulgaria)
+bs_BA    Bosnian (Bosnia and Herzegovina)
+ca_ES    Catalan (Catalonia)
+cs_CZ    Czech (Czech)
+da_DK    Danish (Denmark)
+el_GR    Greek (Greece)
+gd_GB    Scots Gaelic (Great Britain)
+gl       Galician (strict Volga)
+gu_IN    Gujarati (India)
+hi_IN    Hindi (India)
+hu_HU    Hungarian (Hungary)
+is       Icelandic
+it_IT    Italian (Italy)
+lt_LT    Lithuanian (Lithuania)
+ms_MY    Malay (Malaysia)
+nb_NO    Norwegian (Norway)
+ne_NP    Nepali (Nepal)
+ro_RO    Romanian (Romania)
+sk_SK    Slovak (Slovakia)
+sl_SI    Slovenian (Slovenia)
+sq_AL    Albanian (Albania)
+sr       Serbio
+sv_SE    Swedish (Sweden)
+sw_TZ    Swahili (Tanzania)
+tr_TR    Turkish (Turkey)
+uk_UA    Ukrainian (Ukraine)
+**De OpenOffice o LibreOffice**
+**From OpenOffice or LibreOffice**
+hr_HR    Croatian (Croatia)
+km_KH    Khmer (Cambodia)
+qu_EC    Kichwa (Ecuador)
+ 
 ```
 <br />
 
 
 **TUTORIAL DE CÓMO INSTALÉ WPS OFFICE LA VERSIÓN DE WINDOWS EN PLAYONLINUX Y CÓMO EXTRAJE LOS DICTS Y LOS MUI**
+Las siguientes son las Instrucciones de cómo instalé WPS Office la versión de Windows 11.2.0.9255 en PlayOnLinux con Wine 3.21
 
-Primero en PlayOnLinux es necesario instalar Wine 3.21 (bueno esa es la versión en que mejor me funcionó). De clic en 
+**Nota:** Si no saben como instalar aplicaciones de Windows en PlayOnLinux, instalen algunos de los siguientes: [https://facilitarelsoftwarelibre.blogspot.com/search/label/PlayOnLinux](https://facilitarelsoftwarelibre.blogspot.com/search/label/PlayOnLinux) 
+<br />
+
+**Primero.-** En PlayOnLinux es necesario instalar Wine 3.21 (esa es la versión en que mejor me funcionó). De clic en 
 
 
 
