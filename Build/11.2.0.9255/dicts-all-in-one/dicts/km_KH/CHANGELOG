@@ -1,0 +1,11 @@
+1.82 Added Hyphenation Dictionary for Khmer
+1.81 Removed some misspelled words, and added more correct words also added replacement for ា and ័.
+1.8 Removed some misspelled words, and added more correct words.
+1.7 Removed some misspelled words, and added more correct words.
+1.6 Removed some misspelled words, and added more correct words.
+1.5 Removed some misspelled words, and added more correct words.
+1.4 Added trial for ់ in order to catch words that were only missing the ់ also corrected and added some new words
+1.3 Decided to ignore the character ៗ so that it will no longer cause words to be misspelled, also added more dates and proper Khmer names
+1.2 Corrected the spelling of the dictionary
+1.1 Added support for Khmer numbers as well as the allowance for adding ទី as an allowed prefix before all numbers
+1.0 No changes - 1.0 is the first version

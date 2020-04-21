@@ -1,0 +1,11 @@
+Version 1.0: - Switched to twofold suffix stripping. Added more polite forms, added many names, added -na- infix with their conjugations, added conjugation -rkakpi, set COMPOUNDONLY on -ta -rak and so on. Version 1.0 also contains a basic hyphenator.
+Version 0.9: - Added polite forms -panki- and -pankichik- for 3rd person singular, 1st person plural respectively. Added some words and names.
+Version 0.8: - Fixed -yari suffix on verbs ending with -y, fixed bad adjectives generator, fixed some irregular adjectives
+Version 0.7: - Added -yari suffix, added identifier icon, added -rikri-, -chikri- and -chiri- conjugations, and -shkarka conjugation (plusperfect).
+Version 0.6: - Added -kuchi- infix, changed names generation method, added -ku- as diminutive infix for nouns, added quite a few verbs
+Version 0.5: - As 4.0 but from now on ONLY for ooo.org v3.2+
+------------------------------------------------------------
+Version 0.4: - added -shkanka inflection, added -riku- inflection
+Version 0.3: 01 may 2009 - added more words, fixed -y inflections ending on i in imperative: yuyana->yuyay but yuyarina->yuyari
+Version 0.2: 25 feb 2009 - added a few infixes, added words
+Version 0.1: 24 feb 2009 - an uncomplete but working version, with about 2000 words

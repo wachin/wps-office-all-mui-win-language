@@ -1,0 +1,6 @@
+Version 0.1
+-Initial version taken from http://softcatala.org/diccionaris/actualitzacions/OOo/catalan.update.xml
+-rename "catalan.dic" to "main.dic"
+-rename "catalan.aff" to "main.aff"
+-convert main.dic main.aff from 'iso8859-1' to 'utf-8'
+

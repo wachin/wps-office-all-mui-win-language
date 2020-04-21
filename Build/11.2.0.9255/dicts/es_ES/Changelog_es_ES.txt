@@ -1,8 +1,0 @@
-Version 0.1.1
--rename "es_ES.dic" to "main.dic"
--rename "es_ES.aff" to "main.aff"
--convert main.dic main.aff from 'iso8859-1' to 'utf-8'
-
-Versión 0.1:
-- Versión inicial.
-- Incluye los localismos para esta región.

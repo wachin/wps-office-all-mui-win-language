@@ -1,0 +1,5 @@
+﻿Version 0.1
+- rename "pl_PL.dic" to "main.dic"
+- rename "pl_PL.aff" to "main.aff"
+- convert "main.dic" and "main.aff" from "ISO8859-2" to "UTF-8 without BOM"
+by Andrzej Kamiński (endriusk@interia.pl, endriusk@gmail.com) on 31.01.2016.

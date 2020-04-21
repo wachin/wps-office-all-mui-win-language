@@ -1,7 +1,8 @@
 
+MUI (Multilingual User Interface, Interfaz de Usuario Multilenguaje)
 
-SUPPORTED INTERFACE LANGUAGES
-
+NOMBRES EN INGLÉS
+NAMES IN ENGLISH:
     Chinese (China)
     English (USA)
     English (United Kingdom)
@@ -16,9 +17,8 @@ SUPPORTED INTERFACE LANGUAGES
     Spanish (Mexico)
     Spanish (Spain)
 
-
-IDIOMAS DE INTERFAZ
-
+NOMBRES EN ESPAÑOL
+NAMES IN SPANISH:
      Chino (China)
      Inglés (Estados Unidos)
      Inglés (Reino Unido)
