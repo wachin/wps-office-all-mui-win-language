@@ -1,3 +1,0 @@
-Version 0.1
--rename "pt_PT.dic" to "main.dic"
--rename "pt_PT.aff" to "main.aff"

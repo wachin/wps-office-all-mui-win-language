@@ -1,5 +1,0 @@
-﻿Wersja 0.1
-- zmiana nazwy "pl_PL.dic" to "main.dic"
-- zmiana nazwy "pl_PL.aff" to "main.aff"
-- konwersja "main.dic" i "main.aff" z "ISO8859-2" na "UTF-8 bez BOM"
-przez Andrzej Kamiński (endriusk@interia.pl, endriusk@gmail.com) w dniu 31.01.2016.
