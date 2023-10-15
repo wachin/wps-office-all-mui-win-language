@@ -1,4 +1,9 @@
 
+This fix is only for WPF Office Chinesse version from:
+
+https://www.wps.cn/product/wpslinux
+
+to correct that not appear the language list:
 
 
 Copy this "lang_list_community.json" file to:
