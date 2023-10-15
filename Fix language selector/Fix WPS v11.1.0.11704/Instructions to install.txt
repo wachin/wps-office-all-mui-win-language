@@ -1,5 +1,5 @@
 
-This fix is only for WPF Office Chinesse version from:
+This fix is only for WPF Office 11.1.0.11704 Chinesse version from:
 
 https://www.wps.cn/product/wpslinux
 
