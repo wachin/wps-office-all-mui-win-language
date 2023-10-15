@@ -1,0 +1,13 @@
+
+
+
+Copy this "lang_list_community.json" file to:
+
+/opt/kingsoft/wps-office/office6/mui/lang_list
+
+replace the original with this one
+
+
+Investigated by Washington Indacochea
+wachin.id@gmail.com
+2023-10-14 Ecaudor
