@@ -422,7 +422,6 @@
 	{
         "locale" : "ja_JP",
         "online" : false,
-		"visibleControlByOem" : true,
         "type" : "",
 		"plugin_name" : "lang_ja",
         "text" : {
