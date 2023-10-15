@@ -1,0 +1,19 @@
+
+
+When you download something from the WPS Office program this go to:
+
+C:\Users\Tu\AppData\Roaming\kingsoft\wps\addons\pool\win-i386
+
+
+
+Every time you update WPS Office, new folders are created in the following path with the names of the new versions:
+
+C:\Users\Tu\AppData\Local\Kingsoft\WPS Office\12.2.0.13215\office6\mui
+
+
+
+Investigated by Washington Indacochea
+wachin.id@gmail.com
+2023-10-14 Ecaudor
+
+
