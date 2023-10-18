@@ -2,6 +2,7 @@ This files are from WPS Office 2019 Windows version 11.2.0.9255 to use with 11.1
 
 DICCIONARIOS DE CORRECCIÓN ORTOGRÁFICA
 
+```bat
 af_ZA    Africano (Sudáfrica)
 be_BY    Bielorruso (Bielorrusia)
 bg_BG    Búlgaro (Bulgaria)
@@ -53,7 +54,7 @@ sw_TZ    Swahili (Tanzania)
 tr_TR    Turco (Turquía)
 uk_UA    Ucraniano (Ucrania)
 vi_VN    Vietnamita (Vietnam)
-
+```
  
 
  

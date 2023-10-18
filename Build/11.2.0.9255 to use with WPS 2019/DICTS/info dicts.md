@@ -2,6 +2,7 @@ This files are from WPS Office 2019 Windows version 11.2.0.9255 to use with 11.1
 
 SPELLCHECK
 
+```bat
 af_ZA    Afrikaans
 be_BY    Беларуская (Беларусь)
 bg_BG    български (България)
@@ -53,4 +54,5 @@ sw_TZ    Kiswahili (Tanzania)
 tr_TR    Türkçe (Türkiye)
 uk_UA    Українська (Україна)
 vi_VN    Tiếng Việt (Việt Nam)
+```
 

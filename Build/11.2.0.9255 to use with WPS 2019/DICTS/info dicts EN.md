@@ -2,6 +2,7 @@ This files are from WPS Office 2019 Windows version 11.2.0.9255 to use with 11.1
 
 SPELLCHECK
 
+```bat
 af_ZA    African (South Africa)
 be_BY    Belarusian (Belarus)
 bg_BG    Bulgarian (Bulgaria)
@@ -53,8 +54,4 @@ sw_TZ    Swahili (Tanzania)
 tr_TR    Turkish (Turkey)
 uk_UA    Ukrainian (Ukraine)
 vi_VN    Vietnamese (Vietnam)
-
-
-
-
-
+```
