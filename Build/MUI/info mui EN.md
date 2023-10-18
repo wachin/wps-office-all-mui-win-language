@@ -2,8 +2,6 @@ This files are from WPS Office 2019 Windows version 11.2.0.9255 to use with 11.1
 
 MUI (Multilingual User Interface, Interfaz de Usuario Multilenguaje)
 
-NOMBRES EN INGLÉS
-NAMES IN ENGLISH:
     Chinese (China)
     English (USA)
     English (United Kingdom)
@@ -11,28 +9,12 @@ NAMES IN ENGLISH:
     French (Canada)
     German (Germany)
     Indonesian
+    Japanese (Japan)
     Polish (Poland)
     Portuguese (Brazil)
     Portuguese (Portugal)
     Russian (Russian Federation)
     Spanish (Mexico)
     Spanish (Spain)
-
-NOMBRES EN ESPAÑOL
-NAMES IN SPANISH:
-     Chino (China)
-     Inglés (Estados Unidos)
-     Inglés (Reino Unido)
-     Francés
-     Francés (Canadá)
-     Alemán (Alemania)
-     Indonesio
-     Polaco (Polonia)
-     Portugués (Brasil)
-     Portugués (Portugal)
-     Ruso (Federación Rusa)
-     Español (México)
-     Español (España)
-
 
 
