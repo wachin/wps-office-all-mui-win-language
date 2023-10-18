@@ -1,0 +1,16 @@
+
+This fix is only for WPF Office 11.1.0.11704 Chinesse version from:
+
+https://www.wps.cn/product/wpslinux
+
+To correct that not appear the language list.
+Copy this "lang_list_community.json" file to:
+
+/opt/kingsoft/wps-office/office6/mui/lang_list
+
+replace the original with this one
+
+
+Investigated by Washington Indacochea
+wachin.id@gmail.com
+2023-10-14 Ecaudor

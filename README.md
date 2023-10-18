@@ -1,83 +1,5 @@
 # wps-office-all-mui-win-language
 
-MUI (Multilingual User Interface) for WPS Office Linux version 2019
-
-```bat
-
-    Chinese (China)
-    English (USA)
-    English (United Kingdom)
-    French
-    French (Canada)
-    German (Germany)
-    Indonesian
-    Japanese (Japan)
-    Polish (Poland)
-    Portuguese (Brazil)
-    Portuguese (Portugal)
-    Russian (Russian Federation)
-    Spanish (Mexico)
-    Spanish (Spain)
-
-```
-<br />
-
-
-SPELLCHECK
-
-```bat
-af_ZA    African (South Africa)
-be_BY    Belarusian (Belarus)
-bg_BG    Bulgarian (Bulgaria)
-bn_BD    Bengali (Bangladesh)
-bs_BA    Bosnian (Bosnia and Herzegovina)
-ca_ES    Catalan (Catalonia)
-cs_CZ    Czech (Czech)
-da_DK    Danish (Denmark)
-de_DE    German (Germany)
-el_GR    Greek (Greece)
-en_AU    English (Australia)
-en_GB    English (United Kingdom)
-en_US    English (United States)
-es_AR    Spanish (Argentina)
-es_BO    Spanish (Bolivia)
-es_CL    Spanish (Chile)
-es_CO    Spanish (Colombia)
-es_ES    Spanish (Spain)
-es_MX    Spanish (Mexico)
-es_PR    Spanish (Puerto Rico)
-fr_FR    French (France)
-gd_GB    Scots Gaelic (Great Britain)
-gl       Galician (strict Volga)
-gu_IN    Gujarati (India)
-hi_IN    Hindi (India)
-hr_HR    Croatian (Croatia)
-hu_HU    Hungarian (Hungary)
-id_ID    Indonesian
-is       Icelandic
-it_IT    Italian (Italy)
-km_KH    Khmer (Cambodia)
-lt_LT    Lithuanian (Lithuania)
-ms_MY    Malay (Malaysia)
-nb_NO    Norwegian (Norway)
-ne_NP    Nepali (Nepal)
-nl_NL    Dutch
-pl_PL    Polish
-pt_BR    Portuguese (Brazil)
-pt_PT    Portuguese
-qu_EC    Kichwa (Ecuador)
-ro_RO    Romanian (Romania)
-ru_RU    Russian (Russia)
-sk_SK    Slovak (Slovakia)
-sl_SI    Slovenian (Slovenia)
-sq_AL    Albanian (Albania)
-sr       Serbio
-sv_SE    Swedish (Sweden)
-sw_TZ    Swahili (Tanzania)
-tr_TR    Turkish (Turkey)
-uk_UA    Ukrainian (Ukraine)
-vi_VN    Vietnamese (Vietnam)
-```
 
 
 # This working in WPS Office 2019 Linux version 11.1.0.11704 Update 2023
@@ -138,9 +60,9 @@ https://t.me/c/1343202595/14
 
 
 
-**Install ibus**
+# Install ibus (optional)
 
-This is necessary for special characters like accent marks on spanish language can be written in this version 11.1.0.11704, install with:
+This is necessary for special characters like accent marks on Spanish language to can be written in this version 11.1.0.11704, If you need install with:
 
 	sudo apt install ibus ibus-gtk ibus-gtk3 ibus-gtk4 
 
@@ -151,24 +73,132 @@ after installed:
 **Note**: If you don't start it it doesn't work.
 
 
-Instalar los idiomas
+
+# Install MUI
+MUI (Multilingual User Interface) for WPS Office Linux version 2019
+
+Download from:
+
+https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z
+
+and paste to:
+
+.local/share/Kingsoft/office6
+
+This folder is hidden (with "Ctrl + H" to see) appear from the first time when you open WPS Office Linux, If you have just installed it and have not opened it, open and close it
+
+then extract there with right clic
+
+This MUI contains:
+
+```bat
+    Chinese (China)
+    English (USA)
+    English (United Kingdom)
+    French
+    French (Canada)
+    German (Germany)
+    Indonesian
+    Japanese (Japan)
+    Polish (Poland)
+    Portuguese (Brazil)
+    Portuguese (Portugal)
+    Russian (Russian Federation)
+    Spanish (Mexico)
+    Spanish (Spain)
+```
+<br />
+
+
+# Install spell checking dictionaries
+
+Download from:
+
+https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z
+
+and paste to:
+
+.local/share/Kingsoft/office6
+
+This folder is hidden (with "Ctrl + H" to see) appear from the first time when you open WPS Office Linux, If you have just installed it and have not opened it, open and close it
+
+then extract there with right clic
+
+This dicts contains:
+
+```bat
+af_ZA    African (South Africa)
+be_BY    Belarusian (Belarus)
+bg_BG    Bulgarian (Bulgaria)
+bn_BD    Bengali (Bangladesh)
+bs_BA    Bosnian (Bosnia and Herzegovina)
+ca_ES    Catalan (Catalonia)
+cs_CZ    Czech (Czech)
+da_DK    Danish (Denmark)
+de_DE    German (Germany)
+el_GR    Greek (Greece)
+en_AU    English (Australia)
+en_GB    English (United Kingdom)
+en_US    English (United States)
+es_AR    Spanish (Argentina)
+es_BO    Spanish (Bolivia)
+es_CL    Spanish (Chile)
+es_CO    Spanish (Colombia)
+es_ES    Spanish (Spain)
+es_MX    Spanish (Mexico)
+es_PR    Spanish (Puerto Rico)
+fr_FR    French (France)
+gd_GB    Scots Gaelic (Great Britain)
+gl       Galician (strict Volga)
+gu_IN    Gujarati (India)
+hi_IN    Hindi (India)
+hr_HR    Croatian (Croatia)
+hu_HU    Hungarian (Hungary)
+id_ID    Indonesian
+is       Icelandic
+it_IT    Italian (Italy)
+km_KH    Khmer (Cambodia)
+lt_LT    Lithuanian (Lithuania)
+ms_MY    Malay (Malaysia)
+nb_NO    Norwegian (Norway)
+ne_NP    Nepali (Nepal)
+nl_NL    Dutch
+pl_PL    Polish
+pt_BR    Portuguese (Brazil)
+pt_PT    Portuguese
+qu_EC    Kichwa (Ecuador)
+ro_RO    Romanian (Romania)
+ru_RU    Russian (Russia)
+sk_SK    Slovak (Slovakia)
+sl_SI    Slovenian (Slovenia)
+sq_AL    Albanian (Albania)
+sr       Serbio
+sv_SE    Swedish (Sweden)
+sw_TZ    Swahili (Tanzania)
+tr_TR    Turkish (Turkey)
+uk_UA    Ukrainian (Ukraine)
+vi_VN    Vietnamese (Vietnam)
+```
+
+<br />
 
 
 
-El programa tiene un archivo con codigo incompleto:
+
+# To install the Fix language selector
+
+The program has a file with incomplete code:
 
 /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json
 
-hay que usar uno completo:
+to fix install with:
+
+```
+wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
+```
+
+restart WPS Office
 
 
 
-allí tengo uno del 2019
-
-
-
-
-
-
-
-# For WPS Office 2019 Linux version
+# Working in WPS Office 2019 Linux version 11.1.0.8392
