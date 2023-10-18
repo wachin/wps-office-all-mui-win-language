@@ -80,7 +80,7 @@ vi_VN    Vietnamese (Vietnam)
 ```
 
 
-# For WPS Office 2019 Linux version 11.1.0.11704 Update 2023
+# This working in WPS Office 2019 Linux version 11.1.0.11704 Update 2023
 
 Tested in:
 
@@ -88,17 +88,17 @@ Tested in:
 
 You must download the Chinese version because it has the language change button enabled:
 
-
 **DOWNLOAD FROM**   
 
 https://www.wps.cn/product/wpslinux  
 
+![](vx_images/20231018-102236-WPS-Office-2019-Linux-version-11.1.0.11704-Update-2023.png)
 
-**Format Deb de 64 bits**  
+**Deb de 64 bits**  
 
 Version 11.1.0.11704 China 2023.08.18 (413 MB)  
 
-For X64 (Eg. Ubuntu, Linux Mint, MX Linux, etc, etc)  
+For X64 (e.g. Ubuntu, Linux Mint, MX Linux, etc, etc)  
 https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office_11.1.0.11704_amd64.deb
 
 For MIPS  
@@ -110,12 +110,11 @@ https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office_
 For LoongArch  
 https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office_11.1.0.11704_loongarch64.deb
 
-
-**Format Rpm de 64 bits**  
+**Rpm de 64 bits**  
 
 Version 11.1.0.11704 China 2023.08.18 (413 MB)  
 
-For X64 (Eg. ArchLinux, Suse, Red Hat, etc, etc)  
+For X64 (e.g. ArchLinux, Suse, Red Hat, etc, etc)  
 https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office-11.1.0.11704-1.x86_64.rpm
 
 For MIPS  
@@ -126,7 +125,7 @@ https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office-
 
  
 
-**MEGA (413 MB)**  
+**MEGA**  
 The following link is a mirror that I have uploaded in case the other downloads fail:
 
 https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w
@@ -141,15 +140,15 @@ https://t.me/c/1343202595/14
 
 **Install ibus**
 
-This is necessary so that accent marks can be written in this version, install like this:
+This is necessary for special characters like accent marks on spanish language can be written in this version 11.1.0.11704, install with:
 
 	sudo apt install ibus ibus-gtk ibus-gtk3 ibus-gtk4 
 
 after installed:
 
-RESTART YOUR COMPUTER
+**RESTART YOUR COMPUTER**
 
-Note: If you don't start it it doesn't work.
+**Note**: If you don't start it it doesn't work.
 
 
 Instalar los idiomas
