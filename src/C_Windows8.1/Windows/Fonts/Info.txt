@@ -1,0 +1,25 @@
+
+The fonts:
+
+batang.ttc
+gulim.ttc
+simfang.ttf
+simhei.ttf
+simkai.ttf
+simsun.ttc
+simsunb.ttf
+
+are from WPS Office the chinese version 15319 downloaded from:
+
+https://official-package.wpscdn.cn/wps/download/WPS_Setup_15319.exe
+
+installed on Windows 7 x386
+
+copied from:
+
+C:\Windows\Fonts
+
+
+
+
+
