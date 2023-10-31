@@ -239,7 +239,7 @@ wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/downl
 
 restart WPS Office, repeat the steps, then working:
 
-![](vx_images/20231030-231301-now-all-the-mui-are-present-to switch-it.png)
+![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
 
 
 
