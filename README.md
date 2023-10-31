@@ -6,9 +6,13 @@
 
 Tested in:
 
-- Linux Mint 21 Vanessa (base Ubuntu 22.04 Jammy) 
+- Linux Mint 21 Vanessa ([base Ubuntu 22.04 Jammy](https://www.linuxmint.com/mirrors.php)) 
 
 You must download the Chinese version because it has the language change button enabled:
+
+![](vx_images/20231030-223216-WPS-Office-button-in-11.1.0.11704.png)
+
+
 
 **DOWNLOAD FROM**   
 
@@ -202,3 +206,10 @@ restart WPS Office
 
 
 # Working in WPS Office 2019 Linux version 11.1.0.8392
+
+
+
+
+
+
+
