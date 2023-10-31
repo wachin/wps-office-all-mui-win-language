@@ -51,6 +51,16 @@ https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office-
 
  
 
+Or from next mirrors:
+
+
+
+**Ubuntukylin Archive**  
+
+https://archive.ubuntukylin.com/ubuntukylin/pool/partner/wps-office_11.1.0.11704_amd64.deb
+
+
+
 **MEGA**  
 The following link is a mirror that I have uploaded in case the other downloads fail:
 
