@@ -78,17 +78,53 @@ https://t.me/c/1343202595/14
 
 These are the symbol fonts required by wps-office. They are used to display math formulas. 
 
-Download from:
+Download
 
-**MEGA:**
+**For debian based Linux:**
 
-https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ/file/Kx9GjSoZ
-
-
+https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb
 
 
 
-# Install ibus (optional)
+**For rpm**
+
+https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm
+
+
+
+**For others Linux**
+
+https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz
+
+download the tar.gz file and extract it with right clic "Extract here", then copy the folder to:  
+
+.fonts  
+
+If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
+
+# Chinese fonts
+
+To work fine this WPS Office Chinese version neet the following fonts:  
+
+batang.ttc
+gulim.ttc
+simfang.ttf
+simhei.ttf
+simkai.ttf
+simsun.ttc
+simsunb.ttf
+
+Download it from:  
+
+https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z  
+
+download the .7z file and extract it with right clic "Extract here", then copy the folder to:  
+
+.fonts  
+
+If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
+
+# Install ibus  
 
 This is necessary for special characters like accent marks on Spanish language to can be written in this version 11.1.0.11704, If you need, install with:
 
