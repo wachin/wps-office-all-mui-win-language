@@ -106,13 +106,14 @@ If this folder does not exist create it. To see hit Ctrl + H to show hidden dire
 
 To work fine this WPS Office Chinese version neet the following fonts:  
 
-batang.ttc
-gulim.ttc
-simfang.ttf
-simhei.ttf
-simkai.ttf
-simsun.ttc
-simsunb.ttf
+batang.ttc  
+gulim.ttc  
+simfang.ttf  
+simhei.ttf  
+simkai.ttf  
+simsun.ttc  
+simsunb.ttf    
+
 
 Download it from:  
 
@@ -128,7 +129,13 @@ If this folder does not exist create it. To see hit Ctrl + H to show hidden dire
 
 This is necessary for special characters like accent marks on Spanish language to can be written in this version 11.1.0.11704, If you need, install with:
 
-	sudo apt install ibus ibus-gtk ibus-gtk3 ibus-gtk4 
+	sudo apt install ibus ibus-gtk ibus-gtk3
+
+In some more modern Linux the following package goes 
+
+```
+ ibus-gtk4
+```
 
 after installed:
 
@@ -304,13 +311,13 @@ https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ
 **Download from Telegram:**
 
 64 bits
-**https://t.me/PFSLE/10**
+**https://t.me/PFSLEE/10**
 
 32 bits
-**https://t.me/PFSLE/11**
+**https://t.me/PFSLEE/11**
 
 ttf-wps-fonts
-**https://t.me/PFSLE/13**
+**https://t.me/PFSLEE/13**
 
 **Note:** You need extract the content with right clic extract here
 
