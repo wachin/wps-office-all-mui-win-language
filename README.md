@@ -294,6 +294,8 @@ restart WPS Office, repeat the steps, then working:
 
 ![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
 
+**Note:** When there is any update and you have installed it, you must reapply the fix
+
 
 
 # Working in WPS Office 2019 Linux version 11.1.0.8392
