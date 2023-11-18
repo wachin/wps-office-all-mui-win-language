@@ -8,6 +8,12 @@ Tested in:
 
 - Linux Mint 21 Vanessa ([base Ubuntu 22.04 Jammy](https://www.linuxmint.com/mirrors.php)) 
 
+![](vx_images/20231116_WPS_Office_Linux_11.1.0.11704_Portada.png)
+
+**Note:** This version 11.1.0.11704 has the programs: Presentation, Spreadsheets, PDF, Writer in separate windows, but the version that recently came out in November 2023 the: 11.1.0.11708 has all 4 programs in a single window and I don't know how do to change that.
+
+
+
 You must download the Chinese version because it has the language switcher button enabled:
 
 ![](vx_images/20231030-223216-WPS-Office-button-in-11.1.0.11704.png)
