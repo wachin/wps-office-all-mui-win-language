@@ -1,8 +1,15 @@
 # wps-office-all-mui-win-language
 
+In 2023, the Chinese software company Kingsoft Office, which developed WPS Office, released an update with many improvements for Linux available for 64-bit computers; These are the steps so you can install it. You can ask me any questions by email: wachin.id@gmail.com
 
+# Tutorial en español
 
-# This working in WPS Office 2019 Linux version 11.1.0.11704 Update 2023
+Este tutorial está disponible en español aquí:
+
+**WPS Office 2019 versión 11.1.0.11704 actualización 2023 para Linux**   
+https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html
+
+# This tutorial working in WPS Office 2019 Linux version 11.1.0.11704 Update 2023
 
 Tested in:
 
@@ -10,7 +17,7 @@ Tested in:
 
 ![](vx_images/20231116_WPS_Office_Linux_11.1.0.11704_Portada.png)
 
-**Note:** This version 11.1.0.11704 has the programs: Presentation, Spreadsheets, PDF, Writer in separate windows, but the version that recently came out in November 2023 the: 11.1.0.11708 has all 4 programs in a single window and I don't know how do to change that.
+**Note:** This version 11.1.0.11704 has the programs: Presentation, Spreadsheets, PDF, Writer in separate windows, but the version that recently came out in November 2023 the: 11.1.0.11704 has all 4 programs in a single window and I don't know how do to change that.
 
 
 
@@ -28,33 +35,6 @@ https://www.wps.cn/product/wpslinux
 
 **Deb de 64 bits**  
 
-Version 11.1.0.11704 China 2023.08.18 (413 MB)  
-
-For X64 (e.g. Ubuntu, Linux Mint, MX Linux, etc, etc)  
-https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office_11.1.0.11704_amd64.deb
-
-For MIPS  
-https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office_11.1.0.11704_mips64el.deb
-
-For ARM  
-https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office_11.1.0.11704_arm64.deb
-
-For LoongArch  
-https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office_11.1.0.11704_loongarch64.deb
-
-**Rpm de 64 bits**  
-
-Version 11.1.0.11704 China 2023.08.18 (413 MB)  
-
-For X64 (e.g. ArchLinux, Suse, Red Hat, etc, etc)  
-https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office-11.1.0.11704-1.x86_64.rpm
-
-For MIPS  
-https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office-11.1.0.11704-1.mips64el.rpm
-
-For ARM  
-https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11704/wps-office-11.1.0.11704-1.aarch64.rpm
-
  
 
 Or from next mirrors:
@@ -63,7 +43,9 @@ Or from next mirrors:
 
 **Ubuntukylin Archive**  
 
-https://archive.ubuntukylin.com/ubuntukylin/pool/partner/wps-office_11.1.0.11704_amd64.deb
+https://archive.ubuntukylin.com/ubuntukylin/pool/partner/  
+
+![](vx_images/20240211-224433-Varias-versiones-de-WPS-Office-en-ubuntukylin.com.png)
 
 
 
@@ -74,7 +56,7 @@ https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w
 
  
 
-**Telegram (413 MB)**  
+**Telegram** 
 
 https://t.me/c/1343202595/14
 
@@ -347,3 +329,9 @@ And working:
 
 God Bless You
 
+
+
+### References
+
+**I18n ibus**  
+https://wiki.debian.org/I18n/ibus
