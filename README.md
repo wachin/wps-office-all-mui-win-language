@@ -135,7 +135,7 @@ If this folder does not exist create it. To see hit Ctrl + H to show hidden dire
 
 This is necessary for special characters like accent marks on Spanish language to can be written in this version 11.1.0.11704, If you need, install with:
 
-	sudo apt install ibus ibus-gtk ibus-gtk3
+	sudo apt install im-config ibus ibus-gtk ibus-gtk3
 
 In some more modern Linux the following package goes 
 
