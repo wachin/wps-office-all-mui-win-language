@@ -6,20 +6,29 @@ In 2023, the Chinese software company Kingsoft Office, which developed WPS Offic
 
 Este tutorial está disponible en español aquí:
 
-**WPS Office 2019 versión 11.1.0.11704 actualización 2023 para Linux**   
+**WPS Office 2019 versión 11.1.0.11711 actualización 2023 para Linux**   
 https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html
 
-# This tutorial working in WPS Office 2019 Linux version 11.1.0.11704 Update 2023
+# This tutorial working in WPS Office 2019 Linux version 11.1.0.11711 Update 2023
+
+This tutorial works on WPS Office 2019 Linux version 11.1.0.11711 update 2023 that brings the four programs:
+
+Writer
+Presentation
+Spreadsheet
+PDF
+
+in the same window:
+
+![](vx_images/20240212-080056-WPS-Office-11.1.0.11711-amd64.png)
 
 Tested in:
 
-- Linux Mint 21 Vanessa ([base Ubuntu 22.04 Jammy](https://www.linuxmint.com/mirrors.php)) 
+- [Linux Mint 21 Vanessa](https://linuxmint.com/edition.php?id=299) ([base Ubuntu 22.04 Jammy](https://www.linuxmint.com/mirrors.php))
+- [Q4OS 4 Gemini](https://www.q4os.org/downloads3.html), Trinity (64 bit, base [Debian 11 Buslleye](https://packages.debian.org/bullseye/))
+- [MX Linux 21](https://mxlinux.org/) (64 bit, base [Debian 11 Buslleye](https://packages.debian.org/bullseye/)) 
 
-![](vx_images/20231116_WPS_Office_Linux_11.1.0.11704_Portada.png)
-
-**Note:** This version 11.1.0.11704 has the programs: Presentation, Spreadsheets, PDF, Writer in separate windows, but the version that recently came out in November 2023 the: 11.1.0.11704 has all 4 programs in a single window and I don't know how do to change that.
-
-
+# DOWNLOAD
 
 You must download the Chinese version because it has the language switcher button enabled:
 
@@ -27,19 +36,17 @@ You must download the Chinese version because it has the language switcher butto
 
 
 
-**DOWNLOAD FROM**   
+**Go to:**   
 
 https://www.wps.cn/product/wpslinux  
 
 ![](vx_images/20231018-102236-WPS-Office-2019-Linux-version-11.1.0.11704-Update-2023.png)
 
-**Deb de 64 bits**  
+there clic in the deb:
 
- 
+![](vx_images/20240212-230118-clic-in-deb-64-bit.png)
 
-Or from next mirrors:
-
-
+# Mirror for Download
 
 **Ubuntukylin Archive**  
 
@@ -47,14 +54,22 @@ https://archive.ubuntukylin.com/ubuntukylin/pool/partner/
 
 ![](vx_images/20240211-224433-Varias-versiones-de-WPS-Office-en-ubuntukylin.com.png)
 
+Additionally, if you wish to use the WPS Office 2019 Linux version 11.1.0.11704, which has each program separately, as shown in the following screenshot:
 
+![](vx_images/20231116_WPS_Office_Linux_11.1.0.11704_Portada.png)
+
+In that list of Ubuntu Kylin above you can download it:
+
+![](vx_images/20240211-224433-WPS-Office-2019-Linux-version-11.1.0.11704-ubuntukylin.com.png)
+
+
+
+and I have also uploaded the deb to my accounts at:
 
 **MEGA**  
 The following link is a mirror that I have uploaded in case the other downloads fail:
 
 https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w
-
- 
 
 **Telegram** 
 
@@ -182,7 +197,32 @@ the first time when you open the language switcher there is only two available:
 
 ![](vx_images/20231030-230201-the-first-time-when-you-open-the-language-switcher-there-is-only-two-available.png)
 
+# Install the Fix language selector
 
+The program has a file with incomplete code in:  
+
+/opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json  
+
+To fix it, firt create a backup of that file with:
+
+
+```
+sudo cp /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json.backup
+```
+
+then replace the file with the one with the complete code:
+
+```
+wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
+```
+
+What that line does is download the file that I have prepared to your HOME and from there it will ask you to be a super user to copy it to the corresponding place in WPS Office in the system, if you want to review its content there it will be downloaded to your HOME, you can open with a text editor.
+
+when you restart WPS Office, repeat the steps to open the language switcher, then working:
+
+![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
+
+**Note:** When there is an update to the program and you have installed it, you must reapply the fix, the instruction in the 2nd step. (Well, in the future, at some point of the program code development it may change and this tutorial will no longer be useful, but up to version 11.1.0.11711 works)
 
 
 # Install spell checking dictionaries
@@ -199,7 +239,7 @@ This folder is hidden (hit "Ctrl + H" to see) and appear from the first time whe
 
 then extract there with right clic
 
-This dicts contains:
+This dicts contains the follow:
 
 ```bat
 af_ZA    African (South Africa)
@@ -257,38 +297,9 @@ vi_VN    Vietnamese (Vietnam)
 
 <br />
 
-
-
-
-# To install the Fix language selector
-
-The program has a file with incomplete code:  
-
-/opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json  
-
-To fix it, firt create a backup of that file with:
-
-
-```
-sudo cp /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json.backup
-```
-then replace the file with the one with the complete code:
-
-```
-wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
-```
-
-restart WPS Office, repeat the steps, then working:
-
-![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
-
-**Note:** When there is any update and you have installed it, you must reapply the fix
-
-
-
 # Working in WPS Office 2019 Linux version 11.1.0.8392
 
-all this files working in WPS Office 2019 Linux version 11.1.0.8392, you can download it from:
+All this files in this tutorial working in WPS Office 2019 Linux version 11.1.0.8392 that you can download it from:
 
 **Descarga MEGA:**
 
@@ -309,9 +320,9 @@ https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ
 ttf-wps-fonts
 **https://t.me/PFSLEE/13**
 
-**Note:** You need extract the content with right clic extract here
+**Note:** You need extract the content with right clic and then extract here.
 
- 
+Also: 
 
 **Download from packages.deepin.com**
 
@@ -319,11 +330,9 @@ http://packages.deepin.com/deepin/pool/non-free/w/wps-office-2019/
 
 ![](vx_images/20231030-231929-download-wps-office-2019-11.1.0.8392-from-packages-deepin.com.png)
 
+# The WPS Office working (screenshot)
 
-
-
-
-And working:
+Working:
 
 ![](vx_images/20231030-233430-wps-office-11.1.0.11704-Update-2023-working-in-mint-21.png)
 
