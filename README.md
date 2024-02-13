@@ -2,7 +2,7 @@
 
 In 2023, the Chinese software company Kingsoft Office, which developed WPS Office, released an update with many improvements for Linux available for 64-bit computers; These are the steps so you can install it. You can ask me any questions by email: wachin.id@gmail.com
 
-# Tutorial en español
+## Tutorial en español
 
 Este tutorial está disponible en español aquí:
 
@@ -83,20 +83,13 @@ These are the symbol fonts required by wps-office. They are used to display math
 
 Download
 
-**For debian based Linux:**
-
+**For debian based Linux:**  
 https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb
 
-
-
-**For rpm**
-
+**For rpm**  
 https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm
 
-
-
-**For others Linux**
-
+**For others Linux**  
 https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz
 
 download the tar.gz file and extract it with right clic "Extract here", then copy the folder to:  
@@ -218,11 +211,13 @@ wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/downl
 
 What that line does is download the file that I have prepared to your HOME and from there it will ask you to be a super user to copy it to the corresponding place in WPS Office in the system, if you want to review its content there it will be downloaded to your HOME, you can open with a text editor.
 
-when you restart WPS Office, repeat the steps to open the language switcher, then working:
+when you restart WPS Office (don't do it yet until you install the spell checking dictionaries), repeat the steps to open the language switcher, then working:
 
 ![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
 
 **Note:** When there is an update to the program and you have installed it, you must reapply the fix, the instruction in the 2nd step. (Well, in the future, at some point of the program code development it may change and this tutorial will no longer be useful, but up to version 11.1.0.11711 works)
+
+
 
 
 # Install spell checking dictionaries
