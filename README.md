@@ -234,7 +234,7 @@ This folder is hidden (hit "Ctrl + H" to see) and appear from the first time whe
 
 then extract there with right clic
 
-This dicts contains the follow:
+This dicts contains the follow languages:
 
 ```bat
 af_ZA    African (South Africa)
@@ -291,6 +291,11 @@ vi_VN    Vietnamese (Vietnam)
 ```
 
 <br />
+
+## Origin of Dictionaries files
+If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it is in Spanish has many images and I think you should be able to understand it, I got them from the installation of WPS Office itself carried out in PlayOnLinux:
+
+https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/D%C3%B3nde%20est%C3%A1n%20los%20archivos% 20in%20of%20PlayOnLinux.md
 
 # Working in WPS Office 2019 Linux version 11.1.0.8392
 
