@@ -1,6 +1,8 @@
 # Where is the files on Windows 8.1
 
-When you download some MUI or Dicts from the WPS Office program, the files files are downloaded in:
+I installed WPS Office 11.2.0.9984 the Windows version on Windows 8.1 and from that installation I took the following:
+
+When you download any MUI Graphical User Interface language or any Dicts Dictionary from the WPS Office program, the files are downloaded to:
 
 C:\Users\Tu\AppData\Roaming\kingsoft\wps\addons\pool\win-i386
 
