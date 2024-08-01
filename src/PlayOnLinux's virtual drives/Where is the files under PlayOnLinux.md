@@ -1,12 +1,11 @@
-# wps-office-all-mui-win-language
+# Where did I get these files for the MUI Graphical User Interface languages ​​and Dictionaries?
 
-**CONTENT**
+**CONTENT**  
 
-# MUI (Multilanguage User Interface)
-
-```bat
+# MUI (Multilanguage User Interface)  
 The content was downloaded from WPS Office 11.2.0.9255 Windows version, for use in WPS Office Linux 2019
 
+```
 zh_CN    Chinese (China)
 en_US    English (USA)
 en_GB    English (United Kingdom)
@@ -23,11 +22,10 @@ es_ES    Spanish (Spain)
 ```
 
 
-# DICTS, SPELLCHECK
+# DICTS, SPELLCHECK  
+Pre-installed in WPS Office Windows version 11.2.0.9255  
 
-```bat
-Pre-installed in WPS Office Windows version 11.2.0.9255
-
+```
 de_DE    German (Germany)
 en_AU    English (Australia)
 en_GB    English (United Kingdom)
@@ -85,9 +83,7 @@ km_KH    Khmer (Cambodia)
 qu_EC    Kichwa (Ecuador)
 
 ```
-
 <br />
-
 
 **TUTORIAL ON HOW I INSTALLED WPS OFFICE THE WINDOWS VERSION IN PLAYONLINUX AND HOW I EXTRACTED THE DICTS AND MUIS**  
 The following are the Instructions on how I installed WPS Office Windows version 11.2.0.9255 on PlayOnLinux with Wine 3.21
