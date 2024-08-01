@@ -3,7 +3,7 @@
 **CONTENT**  
 
 # MUI (Multilanguage User Interface)  
-The content was downloaded from WPS Office 11.2.0.9255 Windows version, for use in WPS Office Linux 2019
+The content was downloaded from WPS Office 11.2.0.9255 Windows version from the PlayOnLinux installation, for use in WPS Office Linux 2019
 
 ```
 zh_CN    Chinese (China)
@@ -23,7 +23,7 @@ es_ES    Spanish (Spain)
 
 
 # DICTS, SPELLCHECK  
-Pre-installed in WPS Office Windows version 11.2.0.9255  
+The files are Pre-installed in WPS Office Windows version 11.2.0.9255 taken from PlayOnLinux installation for use in WPS Office Linux 2019
 
 ```
 de_DE    German (Germany)
