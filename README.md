@@ -76,12 +76,19 @@ https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w
 https://t.me/c/1343202595/14
 
 
-
 # ttf-wps-fonts
 
 These are the symbol fonts required by wps-office. They are used to display math formulas. 
 
-Download
+**Download**
+
+**From Deepin Linux Packages:**
+
+https://packages.deepin.com/deepin/pool/non-free/t/ttf-wps-fonts/
+
+download the deb file ans install it.
+
+Or from a backup that I made:
 
 **For debian based Linux:**  
 https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb
@@ -310,6 +317,9 @@ You can download it for older machines from:
 http://packages.deepin.com/deepin/pool/non-free/w/wps-office-2019/
 
 ![](vx_images/20231030-231929-download-wps-office-2019-11.1.0.8392-from-packages-deepin.com.png)
+
+
+https://packages.deepin.com/deepin/pool/non-free/w/wps-office-2019/
 
 Also mirrors I upload: 
 
