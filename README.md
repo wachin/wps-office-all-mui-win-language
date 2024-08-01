@@ -292,10 +292,10 @@ vi_VN    Vietnamese (Vietnam)
 
 <br />
 
-## Origin of Dictionaries files
-If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it is in Spanish has many images and I think you should be able to understand it, I got them from the installation of WPS Office itself carried out in PlayOnLinux:
+## Origin of Dictionaries and MUI files
+If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
 
-https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/D%C3%B3nde%20est%C3%A1n%20los%20archivos% 20in%20of%20PlayOnLinux.md
+https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md
 
 # Working in WPS Office 2019 Linux version 11.1.0.8392
 
