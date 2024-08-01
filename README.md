@@ -105,6 +105,14 @@ download the tar.gz file and extract it with right clic "Extract here", then cop
 
 If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
 
+# About the warning "This type of file can damage your computer. Do you want to download ... deb anyway?"
+That message is a general warning that appears when downloading executable files, such as `.deb` files on Linux systems. `.deb` files contain installable packages, and if they come from untrusted sources, they could potentially contain malicious software that could damage your system or compromise its security.
+
+The warning does not necessarily mean that the file you are downloading is dangerous, but rather that you should be careful and make sure it comes from a trusted source. It is important to verify the authenticity and provenance of the file before installing it, especially if you are not downloading it from the official repositories of your Linux distribution.
+
+You can also upload it to: virustotal.com to check its Reliability
+
+
 # Chinese fonts
 
 To work fine this WPS Office Chinese version neet the following fonts:  
