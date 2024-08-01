@@ -110,7 +110,7 @@ That message is a general warning that appears when downloading executable files
 
 The warning does not necessarily mean that the file you are downloading is dangerous, but rather that you should be careful and make sure it comes from a trusted source. It is important to verify the authenticity and provenance of the file before installing it, especially if you are not downloading it from the official repositories of your Linux distribution.
 
-You can also upload it to: virustotal.com to check its Reliability
+You can also upload it to: https://virustotal.com to check its Reliability
 
 
 # Chinese fonts
