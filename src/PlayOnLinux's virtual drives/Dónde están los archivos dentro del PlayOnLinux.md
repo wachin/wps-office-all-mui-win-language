@@ -1,22 +1,11 @@
-
-
-
-
-
-
-# Dónde están los archivos dentro del PlayOnLinux
-
-Descargué WPS Office 11.2.0.9255 la versión de Windows y la instalé en PlayOnLinux, estas son las instrucciones de cómo extraje los MUI y Dicts
-
-
+# De dónde obtuve estos archivos de los lenguajes de la Interfaz Gráfica de usuario MUI y los Diccionarios?
 
 **CONTENIDO**
 
 # MUI (Interfaz de Usuario Multilenguaje)
-
-```bat
 Descargados desde WPS Office para Windows, versión 11.2.0.9255, para extraer los MUI y usarlos en Linux:
 
+```
 zh_CN     Chino (China)
 en_US     Inglés (Estados Unidos)
 en_GB     Inglés (Reino Unido)
@@ -33,13 +22,10 @@ es_ES     Español (España)
  
 ```
 
-
-
-# DICCIONARIOS DE CORRECCIÓN ORTOGRÁFICA (Dicts)
-
-```bat
+# DICCIONARIOS DE CORRECCIÓN ORTOGRÁFICA (Dicts)  
 Preinstalados en WPS Office versión Windows 11.2.0.9255**
 
+```
 de_DE    Alemán (Alemania)
 en_AU    Inglés (Australia)
 en_GB    Inglés (Reino Unido)
@@ -91,18 +77,14 @@ qu_EC    Kichwa (Ecuador)
 
 ```
 
-
-
 **Construidos desde LibreOffice** 
+Los siguientes Diccionarios los hice con los archivos de Diccionarios de LibreOffice:
 
-
-```bat
+```
 hr_HR    Croata (Croacia)
 km_KH    Jemer (Camboya)
 qu_EC    Kichwa (Ecuador)
 ```
-
-
 
 <br />
 
@@ -234,8 +216,6 @@ Los demás **mui** ya estaban por defecto en la siguiente ruta:
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/ru_RU<br />
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/ug_CN<br />
 
-
-
 ahora bien, como el programa lo cerré y no me dejó crear en su momento el acceso directo, pues lo voy a crear ahora:
 
 ![WPS Office](vx_images/20200411-201821_Si_desea_lanzar_WPS_Office.png?raw=true "Captura de pantalla hecha con Ksnip")
@@ -286,18 +266,11 @@ esos idomas que descargué están en esta dirección:
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_tr_TR_1.0.19201904.1<br />
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/spellcheck_dict_uk_UA_1.0.19201904.1<br />
 
-
-
 son idiomas nuevos, los estoy editando para poderlos añadir luego (me demoraré porque hay que crear el archivo "dict.conf")
-
-
 
 ![WPS Office](vx_images/20200415-092230_comparaci%C3%B3n_con_el_idioma_descargado.png?raw=true "Captura de pantalla hecha con Ksnip")
 
-
-
 Los Diccionarios de corrección ortográfica que les he compartido estában ya por defecto instalados en:
-
 
 
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/dicts/spellcheck/de_DE<br />
