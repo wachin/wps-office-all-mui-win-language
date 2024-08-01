@@ -297,17 +297,22 @@ If any of you are wondering where I got the dictionaries from, it is in the foll
 
 https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md
 
-# Working in WPS Office 2019 Linux version 11.1.0.8392
+# WPS Office 2019 Linux version 11.1.0.8392 (32 y 64 bit)
 
-All this files in this tutorial working in WPS Office 2019 Linux version 11.1.0.8392 that you can download it from:
+You can download it from:
 
-**Descarga MEGA:**
+**packages.deepin.com**
 
+http://packages.deepin.com/deepin/pool/non-free/w/wps-office-2019/
+
+![](vx_images/20231030-231929-download-wps-office-2019-11.1.0.8392-from-packages-deepin.com.png)
+
+Also mirrors I upload: 
+
+**MEGA:**
 
 **WPS Office 64** y **32** bit + **ttf-wps-fonts**
 https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ
-
- 
 
 **Download from Telegram:**
 
@@ -322,14 +327,6 @@ ttf-wps-fonts
 
 **Note:** You need extract the content with right clic and then extract here.
 
-Also: 
-
-**Download from packages.deepin.com**
-
-http://packages.deepin.com/deepin/pool/non-free/w/wps-office-2019/
-
-![](vx_images/20231030-231929-download-wps-office-2019-11.1.0.8392-from-packages-deepin.com.png)
-
 # The WPS Office working (screenshot)
 
 Working:
@@ -337,7 +334,6 @@ Working:
 ![](vx_images/20231030-233430-wps-office-11.1.0.11704-Update-2023-working-in-mint-21.png)
 
 God Bless You
-
 
 
 ### References
