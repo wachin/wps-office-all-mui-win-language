@@ -181,13 +181,22 @@ Now I'm going to look for the place where the files I installed are downloaded:
 
 and here I find those mui folders that needed to be downloaded:
 
-**MUI Deutsch (Deutschland), Spanish, Francis(Canada), Polski (Polska)**<br />
+**MUI files**
+The next languages:  
+
+Deutsch (Deutschland),<br /> 
+Spanish, Francis(Canada),<br /> 
+French, <br /> 
+Polski (Polska)**<br />
+
+The location of the language folders is in:
+
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_de_1.1.2019.22<br />
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_es_1.1.2019.22<br />
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_fr_1.1.2019.22<br />
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Application Data/kingsoft/wps/addons/pool/win-i386/lang_pl_1.1.2019.22<br />
 
-The other **mui** were already on the following route by default:
+The other **MUI** were already on the following route by default:
 
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/en<br />
 /home/wachin/PlayOnLinux's virtual drives/wpsoffice11.2.0.9255wine3.21/drive_c/users/wachin/Local Settings/Application Data/Kingsoft/WPS Office/11.2.0.9255/office6/mui/en_GB<br />
