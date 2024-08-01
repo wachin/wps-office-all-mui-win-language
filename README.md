@@ -218,8 +218,6 @@ when you restart WPS Office (don't do it yet until you install the spell checkin
 **Note:** When there is an update to the program and you have installed it, you must reapply the fix, the instruction in the 2nd step. (Well, in the future, at some point of the program code development it may change and this tutorial will no longer be useful, but up to version 11.1.0.11711 works)
 
 
-
-
 # Install spell checking dictionaries
 
 Download from:
@@ -295,11 +293,17 @@ vi_VN    Vietnamese (Vietnam)
 ## Origin of Dictionaries and MUI files
 If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
 
+**Where is the files under PlayOnLinux**
 https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md
+
+and read:
+
+**Where is the files on Windows 8.1**
+https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md
 
 # WPS Office 2019 Linux version 11.1.0.8392 (32 y 64 bit)
 
-You can download it from:
+You can download it for older machines from:
 
 **packages.deepin.com**
 
