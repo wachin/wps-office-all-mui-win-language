@@ -2,7 +2,7 @@
 
 **CONTENT**
 
-# MUI (Interfaz de Usuario Multilenguaje)
+# MUI (Multilanguage User Interface)
 
 ```bat
 The content was downloaded from WPS Office 11.2.0.9255 Windows version, for use in WPS Office Linux 2019
@@ -76,7 +76,7 @@ uk_UA    Ukrainian (Ukraine)
  
 ```
 
-**Build from OpenOffice or LibreOffice**
+**Build from OpenOffice or LibreOffice** <br />
 The next dicctionaries are from LibreOffice:
 
 ```bat
@@ -89,7 +89,7 @@ qu_EC    Kichwa (Ecuador)
 <br />
 
 
-**TUTORIAL ON HOW I INSTALLED WPS OFFICE THE WINDOWS VERSION IN PLAYONLINUX AND HOW I EXTRACTED THE DICTS AND MUIS**
+**TUTORIAL ON HOW I INSTALLED WPS OFFICE THE WINDOWS VERSION IN PLAYONLINUX AND HOW I EXTRACTED THE DICTS AND MUIS**  
 The following are the Instructions on how I installed WPS Office Windows version 11.2.0.9255 on PlayOnLinux with Wine 3.21
 
 **Note:** If you don't know how to install Windows applications on PlayOnLinux, install some of the following:[https://facilitarelsoftwarelibre.blogspot.com/search/label/PlayOnLinux](https://facilitarelsoftwarelibre.blogspot.com/search/label/PlayOnLinux) 
