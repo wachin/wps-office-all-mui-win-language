@@ -3,7 +3,7 @@
 **CONTENIDO**
 
 # MUI (Interfaz de Usuario Multilenguaje)
-Descargados desde WPS Office para Windows, versión 11.2.0.9255, para extraer los MUI y usarlos en Linux:
+Descargados desde WPS Office para Windows la versión 11.2.0.9255 desde la instalación en PlayOnLinux, para extraer los MUI y usarlos en Linux:
 
 ```
 zh_CN     Chino (China)
@@ -23,7 +23,7 @@ es_ES     Español (España)
 ```
 
 # DICCIONARIOS DE CORRECCIÓN ORTOGRÁFICA (Dicts)  
-Preinstalados en WPS Office versión Windows 11.2.0.9255**
+Los archivos están preinstalados en WPS Office Windows versión 11.2.0.9255 tomados de la instalación en PlayOnLinux para su uso en WPS Office Linux 2019:
 
 ```
 de_DE    Alemán (Alemania)
