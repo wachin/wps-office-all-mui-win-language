@@ -48,9 +48,9 @@ there clic in the deb:
 
 # Mirror for Download
 
-**Ubuntukylin Archive**  
+**Ubuntukylin Archive mirror**  
 
-https://archive.ubuntukylin.com/ubuntukylin/pool/partner/  
+[https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/) 
 
 ![](vx_images/20240211-224433-Varias-versiones-de-WPS-Office-en-ubuntukylin.com.png)
 
