@@ -36,17 +36,15 @@ You must download the Chinese version because it has the language switcher butto
 
 
 
-**Go to:**   
+**WPS Linux 12.1 problems with language switcher button missing:**   
 
-https://www.wps.cn/product/wpslinux  
+[https://www.wps.cn/product/wpslinux](https://www.wps.cn/product/wpslinux)
 
-![](vx_images/20231018-102236-WPS-Office-2019-Linux-version-11.1.0.11704-Update-2023.png)
+At this time 2024-12-19 not working the language switcher button  in 12.1 WPS Linux version, but the previous version does work
 
-there clic in the deb:
 
-![](vx_images/20240212-230118-clic-in-deb-64-bit.png)
 
-# Mirror for Download
+# Mirror for Download WPS Office Linux 11 versions
 
 **Ubuntukylin Archive mirror**  
 
