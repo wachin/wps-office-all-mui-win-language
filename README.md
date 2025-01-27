@@ -27,24 +27,28 @@ Tested in:
 - [Linux Mint 21 Vanessa](https://linuxmint.com/edition.php?id=299) ([base Ubuntu 22.04 Jammy](https://www.linuxmint.com/mirrors.php))
 - [Q4OS 4 Gemini](https://www.q4os.org/downloads3.html), Trinity (64 bit, base [Debian 11 Buslleye](https://packages.debian.org/bullseye/))
 - [MX Linux 21](https://mxlinux.org/) (64 bit, base [Debian 11 Buslleye](https://packages.debian.org/bullseye/)) 
+- [MX Linux 23 KDE](https://sourceforge.net/projects/mx-linux/files/)
+
 
 # DOWNLOAD
 
-You must download the Chinese version because it has the language switcher button enabled:
+You must download the Chinese version 11.1.0.xxxxx because it has the language switcher button enabled:
 
 ![](vx_images/20231030-223216-WPS-Office-button-in-11.1.0.11704.png)
 
 
 
-**WPS Linux 12.1 problems with language switcher button missing:**   
+**WPS Office Linux 12.1.0.xxxxx problems with language switcher button missing:**   
 
 [https://www.wps.cn/product/wpslinux](https://www.wps.cn/product/wpslinux)
 
-At this time 2024-12-19 not working the language switcher button  in 12.1 WPS Linux version, but the previous version does work
+At this time 2025-01 not working the language switcher button, testes in 12.1:
+
+wps-office_12.1.0.17881_amd64.deb 
+wps-office_12.1.0.17900_amd64.deb
 
 
-
-# Mirror for Download WPS Office Linux 11 versions
+# Mirror for Download WPS Office Linux 11.1.0.xxxxx versions
 
 **Ubuntukylin Archive mirror**  
 
@@ -74,7 +78,7 @@ https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w
 https://t.me/c/1343202595/14
 
 
-# ttf-wps-fonts
+# Install ttf-wps-fonts
 
 These are the symbol fonts required by wps-office. They are used to display math formulas. 
 
@@ -111,7 +115,7 @@ The warning does not necessarily mean that the file you are downloading is dange
 You can also upload it to: https://virustotal.com to check its Reliability
 
 
-# Chinese fonts
+# Install Chinese fonts
 
 To work fine this WPS Office Chinese version neet the following fonts:  
 
@@ -303,7 +307,15 @@ vi_VN    Vietnamese (Vietnam)
 
 <br />
 
-## Origin of Dictionaries and MUI files
+# Fix WPS Office faile to save as PDF
+In MX Linux 23 (Debian 12 based), and is possible in Ubuntu 24.04 to save to PDF is necesary install this libtiff versión:
+
+```
+sudo ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.6 /usr/lib/x86_64-linux-gnu/libtiff.so.5 
+```
+restart and try again
+
+# Origin of Dictionaries and MUI files
 If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
 
 **Where is the files under PlayOnLinux**
@@ -359,4 +371,7 @@ God Bless You
 ### References
 
 **I18n ibus**  
-https://wiki.debian.org/I18n/ibus
+[https://wiki.debian.org/I18n/ibus](https://wiki.debian.org/I18n/ibus)
+
+**WPS Converting to PDF error**
+[https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
