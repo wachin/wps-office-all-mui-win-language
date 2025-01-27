@@ -12,14 +12,21 @@ https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11
 # This tutorial working in WPS Office version 11.1.0.xxxxx
 Tested in:
 
-| WPS Office version | Release | MX Linux 23(Debian 12) |     |     |
-| ------------------ | ------- | ---------------------- | --- | --- |
-| 11.1.0.11704       | ©2023   |                        |     |     |
-| 11.1.0.11723       | ©2024   |                        |     |     |
-|                    |         |                        |     |     |
-|                    |         |                        |     |     |
-|                    |         |                        |     |     |
-|                    |         |                        |     |     |
+Abbreviations
+MX = MX Linux
+Deb = Debian
+
+
+| WPS Office version | Release | MX 23(Deb 12) | MX 21(Deb 11) | Ubuntu |
+| ------------------ | ------- | ------------- | ------------- | ------ |
+| 11.1.0.10702       | ?       | ❌            |               |        |
+| 11.1.0.11704       | ©2023   | ✔             |               |        |
+| 11.1.0.11711       | ©2023   | ✔             | ✔             |        |
+| 11.1.0.11723       | ©2024   | ✔             |               |        |
+|                    |         |               |               |        |
+|                    |         |               |               |        |
+|                    |         |               |               |        |
+|                    |         |               |               |        |
 
 WPS Office brings the four programs:
 
