@@ -37,20 +37,22 @@ You must download the Chinese version 11.1.0.xxxxx because it has the language s
 ![](vx_images/20231030-223216-WPS-Office-button-in-11.1.0.11704.png)
 
 
+## Doesn`t use WPS Office 12.1.0.xxxx versión
 
-**WPS Office Linux 12.1.0.xxxxx problems with language switcher button missing:**   
+WPS Office Linux 12.1.0.xxxxx have problems with language switcher button because is missing, not download from there:  
 
 [https://www.wps.cn/product/wpslinux](https://www.wps.cn/product/wpslinux)
 
-At this time 2025-01 not working the language switcher button, testes in 12.1:
+At this time 2025-01 not working the language switcher button, tested in 12.1:
 
 wps-office_12.1.0.17881_amd64.deb 
 wps-office_12.1.0.17900_amd64.deb
 
+perhaps later working.
 
-# Mirror for Download WPS Office Linux 11.1.0.xxxxx versions
+## Mirror 163
 
-**Ubuntukylin Archive mirror**  
+At 2025 is working this link from Ubuntukylin Archive mirror:
 
 [https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/) 
 
@@ -68,38 +70,31 @@ In that list of Ubuntu Kylin above you can download it:
 
 and I have also uploaded the deb to my accounts at:
 
-**MEGA**  
+## Mirror in MEGA
 The following link is a mirror that I have uploaded in case the other downloads fail:
 
-https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w
+[https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w](https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w)
 
-**Telegram** 
+## Mirror in Telegram
+In Telegram I have some versions:
 
-https://t.me/c/1343202595/14
+[https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)
 
 
 # Install ttf-wps-fonts
 
 These are the symbol fonts required by wps-office. They are used to display math formulas. 
 
-**Download**
-
-**From Deepin Linux Packages:**
-
-https://packages.deepin.com/deepin/pool/non-free/t/ttf-wps-fonts/
-
-download the deb file ans install it.
-
-Or from a backup that I made:
+## Mirrors from github
 
 **For debian based Linux:**  
-https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb
+[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)
 
 **For rpm**  
-https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm
+[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm)
 
 **For others Linux**  
-https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz
+[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz)
 
 download the tar.gz file and extract it with right clic "Extract here", then copy the folder to:  
 
@@ -108,12 +103,12 @@ download the tar.gz file and extract it with right clic "Extract here", then cop
 If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
 
 # About the warning "This type of file can damage your computer. Do you want to download ... deb anyway?"
+
 That message is a general warning that appears when downloading executable files, such as `.deb` files on Linux systems. `.deb` files contain installable packages, and if they come from untrusted sources, they could potentially contain malicious software that could damage your system or compromise its security.
 
 The warning does not necessarily mean that the file you are downloading is dangerous, but rather that you should be careful and make sure it comes from a trusted source. It is important to verify the authenticity and provenance of the file before installing it, especially if you are not downloading it from the official repositories of your Linux distribution.
 
-You can also upload it to: https://virustotal.com to check its Reliability
-
+You can also upload it to: [https://virustotal.com](https://virustotal.com) to check its Reliability
 
 # Install Chinese fonts
 
@@ -130,7 +125,7 @@ simsunb.ttf
 
 Download it from:  
 
-https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z  
+[https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z)  
 
 download the .7z file and extract it with right clic "Extract here", then copy the folder to:  
 
@@ -158,7 +153,7 @@ after installed:
 
 
 
-# Install MUI
+# Install MUI (Multilingual User Interface)
 MUI (Multilingual User Interface) for WPS Office Linux version 2019
 
 Download from:
