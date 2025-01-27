@@ -46,7 +46,7 @@ You must download the Chinese version 11.1.0.xxxxx because it has the language s
 ![](vx_images/20231030-223216-WPS-Office-button-in-11.1.0.11704.png)
 
 
-## Doesn`t use WPS Office 12.1.0.xxxx versión
+## Doesn`t use WPS Office 12.1.0.xxxxx versión
 
 WPS Office Linux 12.1.0.xxxxx have problems with language switcher button because is missing, not download from there:  
 
