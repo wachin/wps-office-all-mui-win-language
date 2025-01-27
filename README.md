@@ -9,25 +9,28 @@ Este tutorial está disponible en español aquí:
 **WPS Office 2019 versión 11.1.0.11711 actualización 2023 para Linux**   
 https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html
 
-# This tutorial working in WPS Office 2019 Linux version 11.1.0.11711 Update 2023
+# This tutorial working in WPS Office version 11.1.0.xxxxx
+Tested in:
 
-This tutorial works on WPS Office 2019 Linux version 11.1.0.11711 update 2023 that brings the four programs:
+| WPS Office version | Release | MX Linux 23(Debian 12) |     |     |
+| ------------------ | ------- | ---------------------- | --- | --- |
+| 11.1.0.11704       | ©2023   |                        |     |     |
+| 11.1.0.11723       | ©2024   |                        |     |     |
+|                    |         |                        |     |     |
+|                    |         |                        |     |     |
+|                    |         |                        |     |     |
+|                    |         |                        |     |     |
+
+WPS Office brings the four programs:
 
 Writer
 Presentation
 Spreadsheet
 PDF
 
-in the same window:
+In 11.1.0.11711  version WPS Office have the programs in same window:
 
 ![](vx_images/20240212-080056-WPS-Office-11.1.0.11711-amd64.png)
-
-Tested in:
-
-- [Linux Mint 21 Vanessa](https://linuxmint.com/edition.php?id=299) ([base Ubuntu 22.04 Jammy](https://www.linuxmint.com/mirrors.php))
-- [Q4OS 4 Gemini](https://www.q4os.org/downloads3.html), Trinity (64 bit, base [Debian 11 Buslleye](https://packages.debian.org/bullseye/))
-- [MX Linux 21](https://mxlinux.org/) (64 bit, base [Debian 11 Buslleye](https://packages.debian.org/bullseye/)) 
-- [MX Linux 23 KDE](https://sourceforge.net/projects/mx-linux/files/)
 
 
 # DOWNLOAD
