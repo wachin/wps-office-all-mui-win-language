@@ -65,7 +65,7 @@ At 2025 is working this link from Ubuntukylin Archive mirror:
 
 [https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/) 
 
-![](vx_images/20240211-224433-Varias-versiones-de-WPS-Office-en-ubuntukylin.com.png)
+![](vx_images/20250129-083708-mirror.163.com-WPS-Office-11.1.0.11704.png)
 
 Additionally, if you wish to use the WPS Office 2019 Linux version 11.1.0.11704, which has each program separately, as shown in the following screenshot:
 
