@@ -9,7 +9,10 @@ Este tutorial está disponible en español aquí:
 **WPS Office 2019 versión 11.1.0.11711 actualización 2023 para Linux**   
 [https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html](https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html)
 
-# I tested WPS Office version 11.1.0.xxxxx in the following Linux
+# How to Install WPS Office version 11.1.0.xxxxx on Linux Linux (64 bit)
+This is an tutorial to install the 11.1.0.xxxxx on Linux only 64 bit
+
+## Tested WPS Office 11.1.0.xxxxx in the following Linux
 Tested in:
 
 **Abbreviations:**
@@ -39,7 +42,7 @@ In 11.1.0.11711 version WPS Office have the programs in same window:
 ![](vx_images/20240212-080056-WPS-Office-11.1.0.11711-amd64.png)
 
 
-# WPS Office Chinese version has language selector button 
+## WPS Office Chinese version has language selector button 
 
 You must download the Chinese version 11.1.0.xxxxx because it has the language switcher button enabled:
 
@@ -72,6 +75,11 @@ At 2025 is working this link from Ubuntukylin Archive mirror in mirrors.163.com:
 Additionally, if you wish to use the WPS Office Linux version 11.1.0.11704, which has each program separately, as shown in the following screenshot:
 
 ![](vx_images/20231116_WPS_Office_Linux_11.1.0.11704_Portada.png)
+
+This is other snapshot:
+
+![](vx_images/20231030-233430-wps-office-11.1.0.11704-Update-2023-working-in-mint-21.png)
+
 
 you can download it:
 
@@ -329,7 +337,18 @@ and read:
 **Where is the files on Windows 8.1**
 [https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md)
 
-# WPS Office 2019 Linux version 11.1.0.8392 (32 y 64 bit)
+# How to install WPS Office 2019 Linux 11.1.0.8392 (32 y 64 bit)
+This version is possible not working on Linux from 2024, I tested fine in:
+
+MX Linux 17 (Debian 9 Stretch)
+MX Linux 19 (Debian 10 Buster) 
+MX Linux 21 (Debian 11 Bullseye)
+
+**Note**: Mx Linux is based on Debian.
+
+you can see the debian releases time in:
+
+[https://www.debian.org/releases/](https://www.debian.org/releases/)
 
 This version I upload in: 
 
@@ -351,12 +370,7 @@ ttf-wps-fonts
 
 **Note:** You need extract the content with right clic and then extract here.  
 
-Working:
-
-![](vx_images/20231030-233430-wps-office-11.1.0.11704-Update-2023-working-in-mint-21.png)
-
 God Bless You
-
 
 # References
 
