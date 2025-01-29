@@ -344,11 +344,13 @@ MX Linux 17 (Debian 9 Stretch)
 MX Linux 19 (Debian 10 Buster) 
 MX Linux 21 (Debian 11 Bullseye)
 
-**Note**: Mx Linux is based on Debian.
+**Note**: Mx Linux is based on Debian. 
 
 you can see the debian releases time in:
 
 [https://www.debian.org/releases/](https://www.debian.org/releases/)
+
+**Nota:** WPS Office 2019 Linux 11.1.0.8392 (64 bit) debe funcionar bien en Ubuntu 18.04, 20.04
 
 This version I upload in: 
 
