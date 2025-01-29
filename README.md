@@ -310,7 +310,7 @@ vi_VN    Vietnamese (Vietnam)
 
 <br />
 
-# Fix WPS Office faile to save as PDF
+# Fix WPS Office fails to save as PDF
 In MX Linux 23 (Debian 12 based), and is possible in Ubuntu 24.04 to save to PDF is necesary install this libtiff versión:
 
 ```
