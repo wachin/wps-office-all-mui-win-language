@@ -13,11 +13,11 @@ https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11
 Tested in:
 
 **Abbreviations:**
-MX = MX Linux
-Deb = Debian
-Mint 21 = Linux Mint 21 Vanessa 
-✔ = Working Fine
-❌ = Not Working
+MX = MX Linux  
+Deb = Debian  
+Mint 21 = Linux Mint 21 Vanessa  
+✔ = Working Fine  
+❌ = Not Working  
 
 | WPS version  | Release | MX 23(Deb 12) | MX 21(Deb 11) | Mint 21 | Ubuntu |
 | ------------ | ------- | ------------- | ------------- | ------- | ------ |
