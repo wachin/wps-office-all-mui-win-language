@@ -7,9 +7,9 @@ In 2023, the Chinese software company Kingsoft Office, which developed WPS Offic
 Este tutorial está disponible en español aquí:
 
 **WPS Office 2019 versión 11.1.0.11711 actualización 2023 para Linux**   
-https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html
+[https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html](https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html)
 
-# This tutorial working in WPS Office version 11.1.0.xxxxx
+# I tested WPS Office version 11.1.0.xxxxx in the following Linux
 Tested in:
 
 **Abbreviations:**
@@ -27,19 +27,19 @@ Mint 21 = Linux Mint 21 Vanessa
 | 11.1.0.11723 | ©2024   | ✔             |               |         |        |
 
 
-WPS Office brings the four programs:
+WPS Office 11.1.0.xxxxx brings the four programs:
 
 Writer
 Presentation
 Spreadsheet
 PDF
 
-In 11.1.0.11711  version WPS Office have the programs in same window:
+In 11.1.0.11711 version WPS Office have the programs in same window:
 
 ![](vx_images/20240212-080056-WPS-Office-11.1.0.11711-amd64.png)
 
 
-# DOWNLOAD
+# WPS Office Chinese version has language selector button 
 
 You must download the Chinese version 11.1.0.xxxxx because it has the language switcher button enabled:
 
@@ -57,29 +57,31 @@ At this time 2025-01 not working the language switcher button, tested in 12.1:
 wps-office_12.1.0.17881_amd64.deb 
 wps-office_12.1.0.17900_amd64.deb
 
-perhaps later working.
+perhaps later working. 
+
+**Note:** The program was previously available there at [www.wps.cn](www.wps.cn) but is no longer available.
 
 ## Mirror 163
 
-At 2025 is working this link from Ubuntukylin Archive mirror:
+At 2025 is working this link from Ubuntukylin Archive mirror in mirrors.163.com:
 
 [https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/) 
 
 ![](vx_images/20240211-224433-Varias-versiones-de-WPS-Office-en-ubuntukylin.com.png)
 
-Additionally, if you wish to use the WPS Office 2019 Linux version 11.1.0.11704, which has each program separately, as shown in the following screenshot:
+Additionally, if you wish to use the WPS Office Linux version 11.1.0.11704, which has each program separately, as shown in the following screenshot:
 
 ![](vx_images/20231116_WPS_Office_Linux_11.1.0.11704_Portada.png)
 
-In that list of Ubuntu Kylin above you can download it:
+you can download it:
 
 ![](vx_images/20250129-083708-mirror.163.com-WPS-Office-11.1.0.11704.png)
 
 
-and I have also uploaded the deb to my accounts at:
+and I have also uploaded some deb to my accounts at:
 
 ## Mirror in MEGA
-The following link is a mirror that I have uploaded in case the other downloads fail:
+The following link is a mirror that I have uploaded in case the other downloads fail, has some versions:
 
 [https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w](https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w)
 
@@ -130,7 +132,6 @@ simkai.ttf
 simsun.ttc  
 simsunb.ttf    
 
-
 Download it from:  
 
 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z)  
@@ -143,7 +144,7 @@ If this folder does not exist create it. To see hit Ctrl + H to show hidden dire
 
 # Install ibus  
 
-This is necessary for special characters like accent marks on Spanish language to can be written in this version 11.1.0.11704, If you need, install with:
+This is necessary for special characters like accent marks on Spanish language to can be written, If you need, install with:
 
 	sudo apt install im-config ibus ibus-gtk ibus-gtk3
 
@@ -160,13 +161,12 @@ after installed:
 **Note**: If you don't start it it doesn't work.
 
 
-
 # Install MUI (Multilingual User Interface)
 MUI (Multilingual User Interface) for WPS Office Linux version 2019
 
 Download from:
 
-https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z
+[https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z)
 
 and paste to:
 
@@ -242,7 +242,7 @@ when you restart WPS Office (don't do it yet until you install the spell checkin
 
 Download from:
 
-https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z
+[https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z)
 
 and paste to:
 
@@ -322,12 +322,12 @@ restart and try again
 If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
 
 **Where is the files under PlayOnLinux**
-https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md
+[https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md)
 
 and read:
 
 **Where is the files on Windows 8.1**
-https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md
+[https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md)
 
 # WPS Office 2019 Linux version 11.1.0.8392 (32 y 64 bit)
 
@@ -339,8 +339,6 @@ http://packages.deepin.com/deepin/pool/non-free/w/wps-office-2019/
 
 ![](vx_images/20231030-231929-download-wps-office-2019-11.1.0.8392-from-packages-deepin.com.png)
 
-
-https://packages.deepin.com/deepin/pool/non-free/w/wps-office-2019/
 
 Also mirrors I upload: 
 
