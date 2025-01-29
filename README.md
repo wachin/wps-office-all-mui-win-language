@@ -91,11 +91,11 @@ In Telegram I have some versions:
 [https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)
 
 
-# Install ttf-wps-fonts
+## Install ttf-wps-fonts
 
 These are the symbol fonts required by wps-office. They are used to display math formulas. 
 
-## Mirrors from github
+### Mirrors from github
 
 **For debian based Linux:**  
 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)
@@ -112,7 +112,7 @@ download the tar.gz file and extract it with right clic "Extract here", then cop
 
 If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
 
-# About the warning "This type of file can damage your computer. Do you want to download ... deb anyway?"
+## About the warning "This type of file can damage your computer. Do you want to download ... deb anyway?"
 
 That message is a general warning that appears when downloading executable files, such as `.deb` files on Linux systems. `.deb` files contain installable packages, and if they come from untrusted sources, they could potentially contain malicious software that could damage your system or compromise its security.
 
@@ -120,7 +120,7 @@ The warning does not necessarily mean that the file you are downloading is dange
 
 You can also upload it to: [https://virustotal.com](https://virustotal.com) to check its Reliability
 
-# Install Chinese fonts
+## Install Chinese fonts
 
 To work fine this WPS Office Chinese version neet the following fonts:  
 
@@ -142,7 +142,7 @@ download the .7z file and extract it with right clic "Extract here", then copy t
 
 If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
 
-# Install ibus  
+## Install ibus  
 
 This is necessary for special characters like accent marks on Spanish language to can be written, If you need, install with:
 
@@ -161,7 +161,7 @@ after installed:
 **Note**: If you don't start it it doesn't work.
 
 
-# Install MUI (Multilingual User Interface)
+## Install MUI (Multilingual User Interface)
 MUI (Multilingual User Interface) for WPS Office Linux version 2019
 
 Download from:
@@ -210,7 +210,7 @@ the first time when you open the language switcher there is only two available:
 
 ![](vx_images/20231030-230201-the-first-time-when-you-open-the-language-switcher-there-is-only-two-available.png)
 
-# Install the Fix language selector
+## Install the Fix language selector
 
 The program has a file with incomplete code in:  
 
@@ -238,7 +238,7 @@ when you restart WPS Office (don't do it yet until you install the spell checkin
 **Note:** When there is an update to the program and you have installed it, you must reapply the fix, the instruction in the 2nd step. (Well, in the future, at some point of the program code development it may change and this tutorial will no longer be useful, but up to version 11.1.0.11711 works)
 
 
-# Install spell checking dictionaries
+## Install spell checking dictionaries
 
 Download from:
 
@@ -310,7 +310,7 @@ vi_VN    Vietnamese (Vietnam)
 
 <br />
 
-# Fix WPS Office fails to save as PDF
+## Fix WPS Office fails to save as PDF
 In MX Linux 23 (Debian 12 based), and is possible in Ubuntu 24.04 to save to PDF is necesary install this libtiff versión:
 
 ```
@@ -318,7 +318,7 @@ sudo ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.6 /usr/lib/x86_64-linux-gnu/libt
 ```
 restart and try again
 
-# Origin of Dictionaries and MUI files
+## Origin of Dictionaries and MUI files
 If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
 
 **Where is the files under PlayOnLinux**
@@ -331,23 +331,14 @@ and read:
 
 # WPS Office 2019 Linux version 11.1.0.8392 (32 y 64 bit)
 
-You can download it for older machines from:
+This version I upload in: 
 
-**packages.deepin.com**
-
-http://packages.deepin.com/deepin/pool/non-free/w/wps-office-2019/
-
-![](vx_images/20231030-231929-download-wps-office-2019-11.1.0.8392-from-packages-deepin.com.png)
-
-
-Also mirrors I upload: 
-
-**MEGA:**
+## Mirror MEGA:
 
 **WPS Office 64** y **32** bit + **ttf-wps-fonts**
-https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ
+[https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ](https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ)
 
-**Download from Telegram:**
+## Mirror Telegram:
 
 64 bits
 **https://t.me/PFSLEE/10**
@@ -358,9 +349,7 @@ https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ
 ttf-wps-fonts
 **https://t.me/PFSLEE/13**
 
-**Note:** You need extract the content with right clic and then extract here.
-
-# The WPS Office working (screenshot)
+**Note:** You need extract the content with right clic and then extract here.  
 
 Working:
 
@@ -369,7 +358,7 @@ Working:
 God Bless You
 
 
-### References
+# References
 
 **I18n ibus**  
 [https://wiki.debian.org/I18n/ibus](https://wiki.debian.org/I18n/ibus)
