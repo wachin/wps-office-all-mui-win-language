@@ -64,9 +64,12 @@ perhaps later working.
 
 **Note:** The program was previously available there at [www.wps.cn](www.wps.cn) but is no longer available.
 
-## Mirror 163
+## 1.) Download and Install WPS 12.1.0.xxxxx 
+Unfortunately this version is no longer on the official website, but you can download from here:
 
-At 2025 is working this link from Ubuntukylin Archive mirror in mirrors.163.com:
+### Download from Mirror 163
+
+At 2025 the followint link is available from mirrors.163.com:
 
 [https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/) 
 
@@ -86,20 +89,30 @@ you can download it:
 ![](vx_images/20250129-083708-mirror.163.com-WPS-Office-11.1.0.11704.png)
 
 
-and I have also uploaded some deb to my accounts at:
+and also I have uploaded some debs to my accounts at:
 
-## Mirror in MEGA
+### Download from MEGA
 The following link is a mirror that I have uploaded in case the other downloads fail, has some versions:
 
 [https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w](https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w)
 
-## Mirror in Telegram
+### Download from Telegram
 In Telegram I have some versions:
 
 [https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)
 
+### About the warning "This type of file can damage your computer. Do you want to download ... deb anyway?"
 
-## Install ttf-wps-fonts
+That message is a general warning that appears when downloading executable files, such as `.deb` files on Linux systems. `.deb` files contain installable packages, and if they come from untrusted sources, they could potentially contain malicious software that could damage your system or compromise its security.
+
+The warning does not necessarily mean that the file you are downloading is dangerous, but rather that you should be careful and make sure it comes from a trusted source. It is important to verify the authenticity and provenance of the file before installing it, especially if you are not downloading it from the official repositories of your Linux distribution.
+
+You can also upload it to: [https://virustotal.com](https://virustotal.com) to check its Reliability.
+
+### Install deb with right clic
+When you right click on the deb you should see an option in your file manager to install deb
+
+## 2.) Install ttf-wps-fonts
 
 These are the symbol fonts required by wps-office. They are used to display math formulas. 
 
@@ -120,15 +133,9 @@ download the tar.gz file and extract it with right clic "Extract here", then cop
 
 If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
 
-## About the warning "This type of file can damage your computer. Do you want to download ... deb anyway?"
 
-That message is a general warning that appears when downloading executable files, such as `.deb` files on Linux systems. `.deb` files contain installable packages, and if they come from untrusted sources, they could potentially contain malicious software that could damage your system or compromise its security.
 
-The warning does not necessarily mean that the file you are downloading is dangerous, but rather that you should be careful and make sure it comes from a trusted source. It is important to verify the authenticity and provenance of the file before installing it, especially if you are not downloading it from the official repositories of your Linux distribution.
-
-You can also upload it to: [https://virustotal.com](https://virustotal.com) to check its Reliability
-
-## Install Chinese fonts
+## 3.) Install Chinese fonts
 
 To work fine this WPS Office Chinese version neet the following fonts:  
 
@@ -150,7 +157,7 @@ download the .7z file and extract it with right clic "Extract here", then copy t
 
 If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
 
-## Install ibus  
+## 4.) Install ibus  
 
 This is necessary for special characters like accent marks on Spanish language to can be written, If you need, install with:
 
@@ -169,7 +176,7 @@ after installed:
 **Note**: If you don't start it it doesn't work.
 
 
-## Install MUI (Multilingual User Interface)
+## 5.) Install MUI (Multilingual User Interface)
 MUI (Multilingual User Interface) for WPS Office Linux version 2019
 
 Download from:
@@ -218,7 +225,7 @@ the first time when you open the language switcher there is only two available:
 
 ![](vx_images/20231030-230201-the-first-time-when-you-open-the-language-switcher-there-is-only-two-available.png)
 
-## Install the Fix language selector
+## 6.) Install the Fix language selector
 
 The program has a file with incomplete code in:  
 
@@ -246,7 +253,7 @@ when you restart WPS Office (don't do it yet until you install the spell checkin
 **Note:** When there is an update to the program and you have installed it, you must reapply the fix, the instruction in the 2nd step. (Well, in the future, at some point of the program code development it may change and this tutorial will no longer be useful, but up to version 11.1.0.11711 works)
 
 
-## Install spell checking dictionaries
+## 7.) Install spell checking dictionaries
 
 Download from:
 
@@ -318,13 +325,22 @@ vi_VN    Vietnamese (Vietnam)
 
 <br />
 
-## Fix WPS Office fails to save as PDF
-In MX Linux 23 (Debian 12 based), and is possible in Ubuntu 24.04 to save to PDF is necesary install this libtiff versión:
+## 8.) Fix WPS Office fails to save as PDF
+In:  
+
+- MX Linux 23 (Debian 12 based)  
+- Ubuntu 24.04  
+
+to save to PDF if you has installed:
+```
+sudo apt install libtiff6
+```
+is necesary create a symbolic link to simulate that this versión is libtiff5, to do that:
 
 ```
 sudo ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.6 /usr/lib/x86_64-linux-gnu/libtiff.so.5 
 ```
-restart and try again
+restart WPS Office and try again.  
 
 ## Origin of Dictionaries and MUI files
 If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
@@ -350,16 +366,16 @@ you can see the debian releases time in:
 
 [https://www.debian.org/releases/](https://www.debian.org/releases/)
 
-**Nota:** WPS Office 2019 Linux 11.1.0.8392 (64 bit) debe funcionar bien en Ubuntu 18.04, 20.04
+**Note:** WPS Office 2019 Linux 11.1.0.8392 (64 bit) would be working fine in Ubuntu 18.04, 20.04
 
 This version I upload in: 
 
-## Mirror MEGA:
+## Download from MEGA:
 
 **WPS Office 64** y **32** bit + **ttf-wps-fonts**
 [https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ](https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ)
 
-## Mirror Telegram:
+## Download from Telegram:
 
 64 bits
 **https://t.me/PFSLEE/10**
@@ -372,6 +388,18 @@ ttf-wps-fonts
 
 **Note:** You need extract the content with right clic and then extract here.  
 
+## Follow the next steps
+To install WPS Office 11.1.0.8392 (32 or 64 bit) you need to follow some of the steps mentioned above:
+
+```plaintext
+## 2.) Install ttf-wps-fonts
+## 3.) Install Chinese fonts
+## 5.) Install MUI (Multilingual User Interface)
+## 6.) Install the Fix language selector
+## 7.) Install spell checking dictionaries
+```
+
+
 God Bless You
 
 # References
@@ -380,4 +408,7 @@ God Bless You
 [https://wiki.debian.org/I18n/ibus](https://wiki.debian.org/I18n/ibus)
 
 **WPS Converting to PDF error**
+[https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
+
+**Wps Converting to pdf error**   
 [https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
