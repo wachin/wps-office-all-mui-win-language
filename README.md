@@ -331,16 +331,16 @@ In:
 - MX Linux 23 (Debian 12 based)  
 - Ubuntu 24.04  
 
-to save to PDF if you has installed:
+to save to PDF check if you has the package `libtiff6`, and if this is not true, install this with:
 ```
 sudo apt install libtiff6
 ```
-is necesary create a symbolic link to simulate that this versión is libtiff5, to do that:
+and is necesary create a symbolic link to simulate that this versión is libtiff5, to do that copy and paste in a terminal:
 
 ```
 sudo ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.6 /usr/lib/x86_64-linux-gnu/libtiff.so.5 
 ```
-restart WPS Office and try again.  
+give Enter and Restart WPS Office, and try again.  
 
 ## Origin of Dictionaries and MUI files
 If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
