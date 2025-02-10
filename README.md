@@ -64,7 +64,7 @@ perhaps later working.
 
 **Note:** The program was previously available there at [www.wps.cn](www.wps.cn) but is no longer available.
 
-## Download from Mirror 163
+## Download from Mirror web
 There is some WPS version in the web in the following mirror, but I don't know when the link will go down:
 
 [https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/) 
