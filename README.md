@@ -64,12 +64,8 @@ perhaps later working.
 
 **Note:** The program was previously available there at [www.wps.cn](www.wps.cn) but is no longer available.
 
-## 1.) Download and Install WPS 12.1.0.xxxxx 
-Unfortunately this version is no longer on the official website, but you can download from here:
-
-### Download from Mirror 163
-
-At 2025 the followint link is available from mirrors.163.com:
+## Download from Mirror 163
+There is some WPS version in the web in the following mirror, but I don't know when the link will go down:
 
 [https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/) 
 
@@ -91,17 +87,17 @@ you can download it:
 
 and also I have uploaded some debs to my accounts at:
 
-### Download from MEGA
-The following link is a mirror that I have uploaded in case the other downloads fail, has some versions:
+## Download from MEGA
+The following link is a mirror that I have uploaded in my own MEGA account in case the other downloads fail, this has some versions:
 
 [https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w](https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w)
 
-### Download from Telegram
+## Download from Telegram
 In Telegram I have some versions:
 
 [https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)
 
-### About the warning "This type of file can damage your computer. Do you want to download ... deb anyway?"
+## About the warning "This type of file can damage your computer. Do you want to download ... deb anyway?"
 
 That message is a general warning that appears when downloading executable files, such as `.deb` files on Linux systems. `.deb` files contain installable packages, and if they come from untrusted sources, they could potentially contain malicious software that could damage your system or compromise its security.
 
@@ -109,14 +105,12 @@ The warning does not necessarily mean that the file you are downloading is dange
 
 You can also upload it to: [https://virustotal.com](https://virustotal.com) to check its Reliability.
 
-### Install deb with right clic
-When you right click on the deb you should see an option in your file manager to install deb
+## 1.) Install deb with right clic
+When you right click on the deb you should see an option in your file manager to install deb, this on MX Linux, Debian, Ubuntu, but if not in your distro, search on the web how to install deb files.
 
 ## 2.) Install ttf-wps-fonts
 
-These are the symbol fonts required by wps-office. They are used to display math formulas. 
-
-### Mirrors from github
+These are the symbol fonts required by wps-office. They are used to display math formulas. Since the official download is no longer available I uploaded the file to GitHub:
 
 **For debian based Linux:**  
 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)
@@ -132,7 +126,6 @@ download the tar.gz file and extract it with right clic "Extract here", then cop
 .fonts  
 
 If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
-
 
 
 ## 3.) Install Chinese fonts
@@ -388,8 +381,16 @@ ttf-wps-fonts
 
 **Note:** You need extract the content with right clic and then extract here.  
 
-## Follow the next steps
-To install WPS Office 11.1.0.8392 (32 or 64 bit) you need to follow some of the steps mentioned above:
+## Follow only the next steps
+To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
+
+MX Linux 19, 21
+Debian 10, 11
+Ubuntu 20.04
+
+But in the New versions of Linux is possible not working
+
+To install it you need to follow some of the steps mentioned above:
 
 ```plaintext
 ## 2.) Install ttf-wps-fonts
