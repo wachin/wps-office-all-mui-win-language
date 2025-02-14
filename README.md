@@ -250,19 +250,17 @@ For this fix to be visible you need to restart WPS Office, but don't restart it 
 
 ## 7.) Install spell checking dictionaries
 
-Download from:
+🔗 **Download from GitHub**:
 
 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z)
 
-and paste to:
+After downloading the **.7z** file, unzip it and copy it to the following location:
 
-.local/share/Kingsoft/office6
+📂 **~/.local/share/Kingsoft/office6**  
 
-This folder is hidden (hit "Ctrl + H" to see) and appear from the first time when you open WPS Office Linux, If you have just installed it and have not opened it, open and close it, then the hidden folder appear
+⚠️ **Remember** This folder is hidden (hit **"Ctrl + H"** to see) and appear from the first time when you open **WPS Office Linux**, If you have just installed it and have not opened it, open and close it, then the hidden folder appear
 
-then extract there with right clic
-
-This dicts contains the follow languages:
+📌 **This dicts contains the follow languages:**
 
 ```bat
 af_ZA    African (South Africa)
