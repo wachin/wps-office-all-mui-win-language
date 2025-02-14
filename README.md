@@ -237,13 +237,15 @@ then replace the file with the one with the complete code:
 wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
 ```
 
-What that line does is download the file that I have prepared to your HOME and from there it will ask you to be a super user to copy it to the corresponding place in WPS Office in the system, if you want to review its content there it will be downloaded to your HOME, you can open with a text editor.
+What that line does is download the file that I have prepared to your HOME and from there it will ask you to be a super user to copy it to the corresponding place in WPS Office in the system.
 
-when you restart WPS Office (don't do it yet until you install the spell checking dictionaries), repeat the steps to open the language switcher, then working:
+If you want to review its contents before installing it, copy the line before && and paste it into a terminal and the file will be downloaded and you can open it with a text editor to review it, then use the full line.
+
+For this fix to be visible you need to restart WPS Office, but don't restart it yet, instead continue with the installation of the spell checking dictionaries and then restart it
 
 ![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
 
-**Note:** When there is an update to the program and you have installed it, you must reapply the fix, the instruction in the 2nd step. (Well, in the future, at some point of the program code development it may change and this tutorial will no longer be useful, but up to version 11.1.0.11711 works)
+**Note:** When there is an update to the program and you have installed it, you must reapply the fix.
 
 
 ## 7.) Install spell checking dictionaries
@@ -334,6 +336,9 @@ and is necesary create a symbolic link to simulate that this versión is libtiff
 sudo ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.6 /usr/lib/x86_64-linux-gnu/libtiff.so.5 
 ```
 give Enter and Restart WPS Office, and try again.  
+
+📌 **Why is this step necessary?**
+WPS Office looks for version **libtiff5**, but on newer versions of Linux, only **libtiff6** is available. This command creates a **symlink** that makes the system "trick" WPS Office into using the available version.
 
 ## Origin of Dictionaries and MUI files
 If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:

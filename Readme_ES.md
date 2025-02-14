@@ -1,6 +1,6 @@
 # wps-office-all-mui-win-language
 
-En 2023, la empresa china de software Kingsoft Office, desarrolladora de WPS Office, lanzó una actualización con muchas mejoras para Linux disponible para computadoras de 64 bits. Estos son los pasos para que puedas instalarlo. Puedes hacerme cualquier pregunta por correo electrónico: wachin.id@gmail.com.
+En 2023, la empresa china de software Kingsoft Office, desarrolladora de WPS Office, lanzó una actualización con muchas mejoras para Linux disponible para computadoras de 64 bits. Estos son los pasos para que puedas instalarlo (*Además al final estań los pasos para la ultima versión 11.1.0.8392 de 32 y 64 bit*). Puedes hacerme cualquier pregunta por correo electrónico: wachin.id@gmail.com.
 
 ## Tutorial en español
 
@@ -43,7 +43,7 @@ WPS Office 11.1.0.xxxxx incluye cuatro programas:
 - **Spreadsheet** (Hojas de cálculo)  
 - **PDF**  
 
-En la versión 11.1.0.11711, WPS Office tiene todos los programas en la misma ventana:
+**Nota**: En la versión 11.1.0.11711, WPS Office tiene todos los programas en la misma ventana:
 
 ![](vx_images/20240212-080056-WPS-Office-11.1.0.11711-amd64.png)
 
@@ -129,8 +129,6 @@ También puedes analizarlo en **VirusTotal** para comprobar su seguridad:
 Cuando haces clic derecho sobre el archivo **.deb**, debería aparecer una opción en el explorador de archivos para instalarlo. Esto sucede en **MX Linux, Debian y Ubuntu**. Si en tu distribución no aparece esta opción, busca en internet cómo instalar archivos **.deb** manualmente.
 
 ---
-
-
 
 ## 3.) Instalar fuentes chinas  
 
@@ -249,9 +247,6 @@ Si esta carpeta no existe, créala manualmente. Para verla, presiona **Ctrl + H*
 
 ---
 
-
----
-
 ## 6.) Instalar la corrección del selector de idioma  
 
 El programa contiene un archivo con código incompleto ubicado en:  
@@ -264,7 +259,7 @@ Para corregirlo, primero haz una copia de seguridad del archivo original con el 
 sudo cp /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json.backup
 ```
 
-Luego, reemplázalo por la versión corregida con este comando:  
+Luego, reemplázalo por la versión que he corregido, con este comando:  
 
 ```bash
 wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
@@ -274,9 +269,9 @@ wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/downl
 1. Descarga el archivo corregido en tu carpeta **HOME**.  
 2. Luego, te pedirá permisos de **superusuario** para copiarlo en la ubicación correcta dentro del sistema.  
 
-Si deseas revisar su contenido antes de instalarlo, puedes abrir el archivo descargado con un editor de texto.  
+Si deseas revisar su contenido antes de instalarlo, copia la linea has antes de && y pegala a una terminal y se descargará el archivo y lo puedes abrir con un editor de texto para que lo revises, luego si usa la linea completa.  
 
-Después de **reiniciar WPS Office** (no lo hagas aún hasta instalar los diccionarios), repite los pasos para abrir el selector de idioma. Ahora todas las opciones estarán disponibles:  
+Para que este arreglo sea visible es necesario reiniciar WPS Office, pero no lo reinicies todavía, sino sigue con la instalación de los diccionarios de corrección ortográfica y luego si reinicialo 
 
 ![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)  
 
