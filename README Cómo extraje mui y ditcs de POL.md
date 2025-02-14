@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Como descargué mui y dicts desde la WPS Office versión de Windows 11.2.0.9255 instalada en PlayOnLinux
 
 
