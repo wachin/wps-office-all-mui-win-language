@@ -1,6 +1,6 @@
 # wps-office-all-mui-win-language
 
-In 2023, the Chinese software company Kingsoft Office, which developed WPS Office, released an update with many improvements for Linux available for 64-bit computers; These are the steps so you can install it. You can ask me any questions by email: wachin.id@gmail.com
+In 2023, the Chinese software company Kingsoft Office, which developed WPS Office, released an update with many improvements for Linux available for 64-bit computers; These are the steps to install it (Also at the end are the steps for the latest version 11.1.0.8392 for 32 and 64 bit). You can ask me any questions by email: wachin.id@gmail.com.
 
 ## Tutorial en español
 
