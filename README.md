@@ -274,7 +274,7 @@ For this fix to be visible it is necessary to restart WPS Office, but do not res
 
 ## 7.) Install spell checking dictionaries
 
-📥 **Download from GitHub**:
+📥 **Download from GitHub**:  
 🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z)
 
 After downloading the **.7z** file, unzip it and copy it to the following location:
@@ -386,7 +386,7 @@ This version is possible not working on Linux from 2024, I tested fine in:
 
 📌 **Note**: Mx Linux is based on Debian. 
 
-you can see the debian releases time in:
+you can see the debian releases time in:  
 
 🔗 [https://www.debian.org/releases/](https://www.debian.org/releases/)
 
@@ -426,7 +426,7 @@ To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 - **Debian 10 y 11**  
 - **Ubuntu 20.04**  
 
-⚠️ **But in the New versions of Linux is possible not working**
+⚠️ **But in the New versions of Linux is possible not working**  
 
 To install it you need to follow some of the steps mentioned above:
 
@@ -449,10 +449,10 @@ To install it you need to follow some of the steps mentioned above:
 **I18n ibus**  
 [https://wiki.debian.org/I18n/ibus](https://wiki.debian.org/I18n/ibus)
 
-**WPS Converting to PDF error**
+**WPS Converting to PDF error**  
 [https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
 
-**Wps Converting to pdf error**   
+**Wps Converting to pdf error**  
 [https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
 
 ---
