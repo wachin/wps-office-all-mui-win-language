@@ -191,23 +191,23 @@ ibus-gtk4
 ---
 
 ## 5.) Install MUI (Multilingual User Interface)
-MUI (Multilingual User Interface) for WPS Office Linux version 2019
+
+The **MUI (Multilingual User Interface)** allows you to change the language of  **WPS Office Linux**
 
 Download from:
+🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z)
 
-[https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z)
+After downloading the **.7z** file, unzip it and copy it to the following location:
 
-and paste to:
+📂 **~/.local/share/Kingsoft/office6**  
 
-.local/share/Kingsoft/office6
+This folder is hidden. To show it, press **Ctrl + H** in your file explorer.
 
-This folder is hidden (hit "Ctrl + H" to see) and appear from the first time when you open WPS Office Linux, If you have just installed it and have not opened it, open and close it, then the hidden folder appear
+⚠️ **Important:** The **Kingsoft/office6** folder will only appear after you have opened **WPS Office** for the first time. If you have just installed it and do not see the folder, **open and close the program** so that it is automatically generated.
 
-then extract there with right clic
+📌 **This MUI contains:**
 
-This MUI contains:
-
-```bat
+```
     Chinese (China)
     English (USA)
     English (United Kingdom)
@@ -223,32 +223,33 @@ This MUI contains:
     Spanish (Mexico)
     Spanish (Spain)
 ```
-<br />
 
-to see the button to switch language, when you open WPS Office give clic in:
+To change the language of WPS Office:
 
-**New tab**
+1. **Open WPS Office**
+2. Click **"New Tab"**
 
 ![](vx_images/20231030-225131-WPS-Office-clic-create-new-tab.png)
 
-then create a new empty document: Presentation, Excel or Document:
+3. Create a new document (Presentation, Excel or Document)
 
 ![](vx_images/20231030-225431-Create-a-new-empty-document.png)
 
-the first time when you open the language switcher there is only two available:
+4. The first time when you open the language switcher there is only two available:
 
 ![](vx_images/20231030-230201-the-first-time-when-you-open-the-language-switcher-there-is-only-two-available.png)
+
+---
 
 ## 6.) Install the Fix language selector
 
 The program has a file with incomplete code in:  
 
-/opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json  
+📂 **/opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json**  
 
-To fix it, firt create a backup of that file with:
+To fix this, first backup the original file with the following command in the terminal:
 
-
-```
+```bash
 sudo cp /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json.backup
 ```
 
@@ -258,16 +259,19 @@ then replace the file with the one with the complete code:
 wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
 ```
 
-What that line does is download the file that I have prepared to your HOME and from there it will ask you to be a super user to copy it to the corresponding place in WPS Office in the system.
+📌 **What does this command do?**
+1. Download the corrected file to your **HOME** folder.
+2. Then, it will ask you for **superuser** permissions to copy it to the correct location within the system.
 
-If you want to review its contents before installing it, copy the line before && and paste it into a terminal and the file will be downloaded and you can open it with a text editor to review it, then use the full line.
+If you want to review its content before installing it, copy the line before && and paste it into a terminal and the file will be downloaded and you can open it with a text editor to review it, then use the full line.
 
-For this fix to be visible you need to restart WPS Office, but don't restart it yet, instead continue with the installation of the spell checking dictionaries and then restart it
+For this fix to be visible it is necessary to restart WPS Office, but do not restart it yet, instead continue with the installation of the spell checking dictionaries and then restart it.
 
 ![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
 
-**Note:** When there is an update to the program and you have installed it, you must reapply the fix.
+⚠️ **Note:** When there is an update to the program and you have installed it, you must reapply the fix.
 
+---
 
 ## 7.) Install spell checking dictionaries
 
@@ -337,13 +341,13 @@ uk_UA    Ukrainian (Ukraine)
 vi_VN    Vietnamese (Vietnam)
 ```
 
-<br />
+---
 
 ## 8.) Fix WPS Office fails to save as PDF
 In:  
 
-- MX Linux 23 (Debian 12 based)  
-- Ubuntu 24.04  
+- **MX Linux 23 (Debian 12 based)**  
+- **Ubuntu 24.04**  
 
 to save to PDF check if you has the package `libtiff6`, and if this is not true, install this with:
 ```

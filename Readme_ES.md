@@ -212,7 +212,7 @@ Esta carpeta está oculta. Para mostrarla, presiona **Ctrl + H** en tu explorado
 
 📌 **Idiomas incluidos en el MUI:**  
 
-```bash
+```
 - Chino (China)  
 - Inglés (EE. UU.)  
 - Inglés (Reino Unido)  
@@ -245,10 +245,6 @@ Para cambiar el idioma de WPS Office:
    ![](vx_images/20231030-230201-the-first-time-when-you-open-the-language-switcher-there-is-only-two-available.png)  
 
 ---
-
-
-
-
 
 ## 6.) Instalar la corrección del selector de idioma  
 
@@ -348,8 +344,6 @@ tr_TR    Turco (Turquía)
 uk_UA    Ucraniano (Ucrania)  
 vi_VN    Vietnamita (Vietnam)  
 ```
-
-
 ---
 
 ## 8.) Corregir el error de WPS Office al guardar como PDF  
