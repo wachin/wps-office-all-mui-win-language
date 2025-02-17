@@ -7,7 +7,7 @@ In 2023, the Chinese software company Kingsoft Office, which developed WPS Offic
 Este tutorial está disponible en español aquí:
 
 **WPS Office 2019 versión 11.1.0.11711 actualización 2023 para Linux**   
-[https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html](https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html)
+🔗 [https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html](https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html)
 
 ---
 
@@ -58,7 +58,7 @@ You must download the Chinese version 11.1.0.xxxxx because it has the language s
 
 WPS Office Linux 12.1.0.xxxxx have problems with language switcher button because is missing, not download from there:  
 
-[https://www.wps.cn/product/wpslinux](https://www.wps.cn/product/wpslinux)
+🔗 [https://www.wps.cn/product/wpslinux](https://www.wps.cn/product/wpslinux)
 
 At this time 2025-01 not working the language switcher button, tested in 12.1:
 
@@ -74,7 +74,7 @@ perhaps later working.
 ## Download from Mirror web
 There is some WPS version in the web in the following mirror, but I don't know when the link will go down:
 
-[https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/) 
+🔗 [https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/) 
 
 ![](vx_images/20240211-224433-Varias-versiones-de-WPS-Office-en-ubuntukylin.com.png)
 
@@ -96,15 +96,15 @@ you can download it:
 ## Download from MEGA
 The following link is a mirror that I have uploaded in my own MEGA account in case the other downloads fail, this has some versions:
 
+📥 From **MEGA**
 🔗 [https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w](https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w)
 
 ---
 
 ## Download from Telegram
 
-In **Telegram** I have some versions:
-
-📥 [https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)
+📥 In **Telegram** I have some versions:
+🔗 [https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)
 
 ---
 
@@ -130,13 +130,13 @@ When you right click on the **deb** you should see an option in your file manage
 These are the symbol fonts required by wps-office. They are used to display math formulas. Since the official download is no longer available I uploaded the file to GitHub:
 
 🔹 **For debian based Linux:**  
-[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)
+🔗 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)
 
 🔹 **For rpm**  
-[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm)
+🔗 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm)
 
 🔹 **For others Linux**  
-[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz)
+🔗 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz)
 
 download the **tar.gz** file and extract it with right clic "**Extract here"**, then copy the folder to:  
 
@@ -158,8 +158,7 @@ To work fine this WPS Office Chinese version neet the following fonts:
 - **simsun.ttc**  
 - **simsunb.ttf**  
 
-Download it from:  
-
+📥 **Download it from GitHub:**  
 🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z)  
 
 download the **.7z** file and extract it with right clic **"Extract here"**, then copy the folder to:  
@@ -194,14 +193,14 @@ ibus-gtk4
 
 The **MUI (Multilingual User Interface)** allows you to change the language of  **WPS Office Linux**
 
-Download from:
+📥 **Download from GitHub:**  
 🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z)
 
 After downloading the **.7z** file, unzip it and copy it to the following location:
 
 📂 **~/.local/share/Kingsoft/office6**  
 
-This folder is hidden. To show it, press **Ctrl + H** in your file explorer.
+This folder is hidden. To show it, press **Ctrl + H** in your file explorer.  
 
 ⚠️ **Important:** The **Kingsoft/office6** folder will only appear after you have opened **WPS Office** for the first time. If you have just installed it and do not see the folder, **open and close the program** so that it is automatically generated.
 
@@ -275,9 +274,9 @@ For this fix to be visible it is necessary to restart WPS Office, but do not res
 
 ## 7.) Install spell checking dictionaries
 
-🔗 **Download from GitHub**:
+📥 **Download from GitHub**:
 
-[https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z)
+🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z)
 
 After downloading the **.7z** file, unzip it and copy it to the following location:
 

@@ -7,7 +7,7 @@ En 2023, la empresa china de software Kingsoft Office, desarrolladora de WPS Off
 Este tutorial está disponible en español aquí:
 
 **WPS Office 2019 versión 11.1.0.11711 actualización 2023 para Linux**  
-[https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html](https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html)
+🔗 [https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html](https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html)
 
 ---
 
@@ -61,7 +61,7 @@ Debes descargar la versión china 11.1.0.xxxxx, ya que tiene habilitado el botó
 
 WPS Office Linux 12.1.0.xxxxx tiene problemas con el botón de cambio de idioma, ya que no está disponible. No la descargues desde:
 
-[https://www.wps.cn/product/wpslinux](https://www.wps.cn/product/wpslinux)
+🔗 [https://www.wps.cn/product/wpslinux](https://www.wps.cn/product/wpslinux)
 
 Hasta enero de 2025, el botón de cambio de idioma no funciona en la versión 12.1:
 
@@ -78,7 +78,7 @@ Tal vez en el futuro lo arreglen.
 
 Algunas versiones de WPS están disponibles en la siguiente web espejo, pero no sé cuándo el enlace dejará de funcionar:
 
-[https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/)  
+🔗 [https://mirrors.163.com/ubuntukylin/pool/partner/](https://mirrors.163.com/ubuntukylin/pool/partner/)  
 
 ![](vx_images/20240211-224433-Varias-versiones-de-WPS-Office-en-ubuntukylin.com.png)
 
@@ -100,15 +100,15 @@ Puedes descargarla aquí:
 
 El siguiente enlace es un espejo que he subido a mi cuenta de **MEGA** en caso de que los otros enlaces fallen. Contiene varias versiones:
 
+📥  Desde **MEGA**
 🔗 [https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w](https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w)  
 
 ---
 
 ## Descarga desde Telegram  
 
-En **Telegram**, tengo algunas versiones disponibles:  
-
-📥 [https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)  
+📥 En **Telegram**, tengo algunas versiones disponibles:  
+🔗 [https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)  
 
 ---
 
@@ -135,13 +135,13 @@ Cuando haces clic derecho sobre el archivo **.deb**, debería aparecer una opci�
 Estas son fuentes de símbolos necesarias para **WPS Office**. Se utilizan para mostrar fórmulas matemáticas. Como la descarga oficial ya no está disponible, he subido el archivo a **GitHub**:
 
 🔹 **Para Linux basado en Debian:**  
-[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)  
+🔗 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)  
 
 🔹 **Para Linux basado en RPM:**  
-[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm)  
+🔗 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm)  
 
 🔹 **Para otras distribuciones Linux:**  
-[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz)  
+🔗 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz)  
 
 Después de descargar el archivo **.tar.gz**, extrae su contenido haciendo clic derecho en **"Extraer aquí"** y luego copia la carpeta en:
 
@@ -199,8 +199,8 @@ sudo apt install ibus-gtk4
 
 El **MUI (Multilingual User Interface)** permite cambiar el idioma de **WPS Office Linux 2019**.  
 
-🔗 **Descargar desde GitHub:**  
-[https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z)  
+📥 **Descargar desde GitHub:**  
+🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/mui.7z)  
 
 Después de descargar el archivo **.7z**, descomprímelo y cópialo en la siguiente ubicación:  
 
