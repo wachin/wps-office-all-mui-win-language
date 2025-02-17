@@ -392,7 +392,7 @@ you can see the debian releases time in:
 
 🔗 [https://www.debian.org/releases/](https://www.debian.org/releases/)
 
-📌 **Note:** WPS Office 2019 Linux 11.1.0.8392 (64 bit) also would be working fine in:
+📌 **Note:** WPS Office 2019 Linux 11.1.0.8392 (64 bit) also would be working fine in:  
 - **Ubuntu 18.04**  
 - **Ubuntu 20.04**  
 
@@ -400,8 +400,8 @@ you can see the debian releases time in:
 
 ## Download from MEGA:
 
-**WPS Office 64** y **32** bit + **ttf-wps-fonts**
-[https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ](https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ)
+📥 **WPS Office 64** y **32** bit + **ttf-wps-fonts**  
+🔗 [https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ](https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ)
 
 ---
 
