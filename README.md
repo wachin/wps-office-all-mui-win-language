@@ -369,13 +369,15 @@ WPS Office looks for version **libtiff5**, but on newer versions of Linux, only 
 ## Origin of Dictionaries and MUI files
 If any of you are wondering where I got the **dictionaries** and **MUI** from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
 
-**Where is the files under PlayOnLinux**
-[https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md)
+**Where is the files under PlayOnLinux**  
+🔗 [https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md)
 
 and read:
 
-**Where is the files on Windows 8.1**
-[https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md)
+**Where is the files on Windows 8.1**  
+🔗 [https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md)
+
+---
 
 # How to install WPS Office 2019 Linux 11.1.0.8392 (32 y 64 bit)
 This version is possible not working on Linux from 2024, I tested fine in:
@@ -396,8 +398,6 @@ you can see the debian releases time in:
 
 ---
 
-This version I upload in: 
-
 ## Download from MEGA:
 
 **WPS Office 64** y **32** bit + **ttf-wps-fonts**
@@ -407,13 +407,13 @@ This version I upload in:
 
 ## Download from Telegram:
 
-📥 **64 bits**
+📥 **64 bits**  
 🔗 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)
 
-📥 **32 bits**
+📥 **32 bits**  
 🔗 [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)
 
-📥 **ttf-wps-fonts**
+📥 **ttf-wps-fonts**  
 🔗 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)
 
 📌 **Note:** You need extract the content with right clic and then extract here.  
