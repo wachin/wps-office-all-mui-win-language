@@ -342,11 +342,14 @@ vi_VN    Vietnamese (Vietnam)
 ---
 
 ## 8.) Fix WPS Office fails to save as PDF
-In:  
 
-- **MX Linux 23 (Debian 12 based)**  
-- **Ubuntu 24.04**  
+On some Linux distributions that use libtiff6 instead of libtiff5, such as:
 
+**MX Linux 23 (Debian 12 based)**  
+🔗 [packages.debian.org/libtiff6](packages.debian.org/libtiff6)
+
+**Ubuntu 24.04**  
+🔗 [packages.ubuntu.com/libtiff6](packages.ubuntu.com/libtiff6)
 
 to save to PDF check if you has the package `libtiff6`, and if this is not true, install this with:
 ```
