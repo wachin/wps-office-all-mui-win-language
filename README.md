@@ -349,6 +349,7 @@ In:
 - **MX Linux 23 (Debian 12 based)**  
 - **Ubuntu 24.04**  
 
+
 to save to PDF check if you has the package `libtiff6`, and if this is not true, install this with:
 ```
 sudo apt install libtiff6
@@ -363,8 +364,10 @@ give Enter and Restart WPS Office, and try again.
 📌 **Why is this step necessary?**
 WPS Office looks for version **libtiff5**, but on newer versions of Linux, only **libtiff6** is available. This command creates a **symlink** that makes the system "trick" WPS Office into using the available version.
 
+---
+
 ## Origin of Dictionaries and MUI files
-If any of you are wondering where I got the dictionaries from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
+If any of you are wondering where I got the **dictionaries** and **MUI** from, it is in the following explanation, which although it has images in Spanish I think you should be able to understand it:
 
 **Where is the files under PlayOnLinux**
 [https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md)
@@ -377,17 +380,21 @@ and read:
 # How to install WPS Office 2019 Linux 11.1.0.8392 (32 y 64 bit)
 This version is possible not working on Linux from 2024, I tested fine in:
 
-MX Linux 17 (Debian 9 Stretch)
-MX Linux 19 (Debian 10 Buster) 
-MX Linux 21 (Debian 11 Bullseye)
+- **MX Linux 17 (Debian 9 Stretch)**  
+- **MX Linux 19 (Debian 10 Buster)**  
+- **MX Linux 21 (Debian 11 Bullseye)**  
 
-**Note**: Mx Linux is based on Debian. 
+📌 **Note**: Mx Linux is based on Debian. 
 
 you can see the debian releases time in:
 
-[https://www.debian.org/releases/](https://www.debian.org/releases/)
+🔗 [https://www.debian.org/releases/](https://www.debian.org/releases/)
 
-**Note:** WPS Office 2019 Linux 11.1.0.8392 (64 bit) would be working fine in Ubuntu 18.04, 20.04
+📌 **Note:** WPS Office 2019 Linux 11.1.0.8392 (64 bit) also would be working fine in:
+- **Ubuntu 18.04**  
+- **Ubuntu 20.04**  
+
+---
 
 This version I upload in: 
 
@@ -396,27 +403,32 @@ This version I upload in:
 **WPS Office 64** y **32** bit + **ttf-wps-fonts**
 [https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ](https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ)
 
+---
+
 ## Download from Telegram:
 
-64 bits
-**https://t.me/PFSLEE/10**
+📥 **64 bits**
+🔗 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)
 
-32 bits
-**https://t.me/PFSLEE/11**
+📥 **32 bits**
+🔗 [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)
 
-ttf-wps-fonts
-**https://t.me/PFSLEE/13**
+📥 **ttf-wps-fonts**
+🔗 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)
 
-**Note:** You need extract the content with right clic and then extract here.  
+📌 **Note:** You need extract the content with right clic and then extract here.  
+
+---
 
 ## Follow only the next steps
 To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
-MX Linux 19, 21
-Debian 10, 11
-Ubuntu 20.04
+📌 **is compatible with:**  
+- **MX Linux 19 y 21**  
+- **Debian 10 y 11**  
+- **Ubuntu 20.04**  
 
-But in the New versions of Linux is possible not working
+⚠️ **But in the New versions of Linux is possible not working**
 
 To install it you need to follow some of the steps mentioned above:
 
@@ -428,8 +440,11 @@ To install it you need to follow some of the steps mentioned above:
 ## 7.) Install spell checking dictionaries
 ```
 
+---
 
-God Bless You
+## ¡God Bless You!
+
+---
 
 # References
 
@@ -441,3 +456,5 @@ God Bless You
 
 **Wps Converting to pdf error**   
 [https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
+
+---

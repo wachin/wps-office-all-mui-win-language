@@ -280,8 +280,8 @@ Para que este arreglo sea visible es necesario reiniciar WPS Office, pero no lo 
 
 ## 7.) Instalar los diccionarios de corrección ortográfica  
 
-🔗 **Descargar desde GitHub:**  
-[https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z)  
+**Descargar desde GitHub:**  
+🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z)  
 
 Después de descargar el archivo **.7z**, descomprímelo y cópialo en la siguiente ubicación:  
 
@@ -390,11 +390,11 @@ Después de hacer estos cambios, **reinicia WPS Office** e intenta nuevamente gu
 
 Si te preguntas de dónde provienen los archivos de **diccionarios** y **MUI**, aquí tienes la explicación:  
 
-🔗 **Ubicación de los archivos en PlayOnLinux:**  
-[https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md)  
+**Ubicación de los archivos en PlayOnLinux:**  
+🔗 [https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/PlayOnLinux's%20virtual%20drives/Where%20is%20the%20files%20under%20PlayOnLinux.md)  
 
-🔗 **Ubicación de los archivos en Windows 8.1:**  
-[https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md)  
+**Ubicación de los archivos en Windows 8.1:**  
+🔗 [https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md](https://github.com/wachin/wps-office-all-mui-win-language/blob/master/src/C_Windows8.1/Where%20is%20the%20files%20on%20Windows%208.1.md)  
 
 ---
 
@@ -409,9 +409,10 @@ Esta versión puede dejar de funcionar en las versiones más recientes de Linux 
 📌 **Nota:** MX Linux está basado en Debian.  
 
 Para conocer los ciclos de vida de Debian, revisa la siguiente página:  
+
 🔗 [https://www.debian.org/releases/](https://www.debian.org/releases/)  
 
-📌 **WPS Office 2019 Linux 11.1.0.8392 (64 bits) funciona bien en:**  
+📌 **WPS Office 2019 Linux 11.1.0.8392 (64 bits) también funciona bien en:**  
 - **Ubuntu 18.04**  
 - **Ubuntu 20.04**  
 
@@ -419,21 +420,21 @@ Para conocer los ciclos de vida de Debian, revisa la siguiente página:
 
 ## Descargar WPS Office 2019 desde MEGA  
 
-🔗 **WPS Office 64 y 32 bits + ttf-wps-fonts**  
-[https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ](https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ)  
+📥 **WPS Office 64 y 32 bits + ttf-wps-fonts**  
+🔗 [https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ](https://mega.nz/folder/WhdGUCbD#AScUhE8HB_GI457CW2n3FQ)  
 
 ---
 
 ## Descargar WPS Office 2019 desde Telegram  
 
-🔗 **Versión 64 bits**  
-📥 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)  
+📥 **Versión 64 bits**  
+🔗 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)  
 
-🔗 **Versión 32 bits**  
-📥 [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)  
+📥 **Versión 32 bits**  
+🔗  [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)  
 
-🔗 **ttf-wps-fonts**  
-📥 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)  
+📥  **ttf-wps-fonts**  
+🔗 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)  
 
 📌 **Nota:** Debes extraer el contenido con **clic derecho → "Extraer aquí"**.  
 
