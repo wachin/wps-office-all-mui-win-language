@@ -433,11 +433,11 @@ To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
 To install it you need to follow some of the steps mentioned above:
 
-2.) Install ttf-wps-fonts
-3.) Install Chinese fonts
-5.) Install MUI (Multilingual User Interface)
-6.) Install the Fix language selector
-7.) Install spell checking dictionaries
+2. Install ttf-wps-fonts
+3. Install Chinese fonts
+5. Install MUI (Multilingual User Interface)
+6. Install the Fix language selector
+7. Install spell checking dictionaries
 
 ---
 
