@@ -421,7 +421,7 @@ you can see the debian releases time in:
 
 ---
 
-## Follow only the next steps
+## Follow only the next steps: 2, 3, 5, 6 , 7
 To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
 📌 **is compatible with:**  
@@ -433,13 +433,11 @@ To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
 To install it you need to follow some of the steps mentioned above:
 
-```plaintext
-## 2.) Install ttf-wps-fonts
-## 3.) Install Chinese fonts
-## 5.) Install MUI (Multilingual User Interface)
-## 6.) Install the Fix language selector
-## 7.) Install spell checking dictionaries
-```
+2.) Install ttf-wps-fonts
+3.) Install Chinese fonts
+5.) Install MUI (Multilingual User Interface)
+6.) Install the Fix language selector
+7.) Install spell checking dictionaries
 
 ---
 
@@ -453,9 +451,6 @@ To install it you need to follow some of the steps mentioned above:
 [https://wiki.debian.org/I18n/ibus](https://wiki.debian.org/I18n/ibus)
 
 **WPS Converting to PDF error**  
-[https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
-
-**Wps Converting to pdf error**  
 [https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
 
 ---

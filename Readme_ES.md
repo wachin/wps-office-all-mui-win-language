@@ -440,7 +440,7 @@ Para conocer los ciclos de vida de Debian, revisa la siguiente página:
 
 ---
 
-## Seguir solo los siguientes pasos para instalar WPS Office 2019 (11.1.0.8392)  
+## Seguir solo los pasos: 2, 3, 5, 6, 7  
 
 Si deseas instalar **WPS Office 11.1.0.8392** (32 o 64 bits) en Linux, sigue estos pasos:  
 
@@ -451,15 +451,13 @@ Si deseas instalar **WPS Office 11.1.0.8392** (32 o 64 bits) en Linux, sigue est
 
 ⚠️ **Es posible que esta versión no funcione en distribuciones más nuevas de Linux.**  
 
-Para completar la instalación, sigue los mismos pasos mencionados anteriormente:  
+Para completar la instalación, sigue solo los siguientes pasos:  
 
-```plaintext
-## 2.) Instalar ttf-wps-fonts  
-## 3.) Instalar fuentes chinas  
-## 5.) Instalar MUI (Interfaz de usuario multilingüe)  
-## 6.) Corregir el selector de idioma  
-## 7.) Instalar diccionarios de corrección ortográfica  
-```
+2.) Instalar ttf-wps-fonts  
+3.) Instalar fuentes chinas  
+5.) Instalar MUI (Interfaz de usuario multilingüe)  
+6.) Corregir el selector de idioma  
+7.) Instalar diccionarios de corrección ortográfica
 
 ---
 
