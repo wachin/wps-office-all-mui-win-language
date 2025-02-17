@@ -451,12 +451,13 @@ Si deseas instalar **WPS Office 11.1.0.8392** (32 o 64 bits) en Linux, sigue est
 
 ⚠️ **Es posible que esta versión no funcione en distribuciones más nuevas de Linux.**  
 
-Para completar la instalación, sigue solo los siguientes pasos:  
+Para completar la instalación, sigue solo los siguientes de  los pasos mencionados
+anteriormente:
 
-2. Instalar ttf-wps-fonts  
-3. Instalar fuentes chinas  
+2. Instalar las fuentes ttf-wps-fonts  
+4. Instalar fuentes chinas  
 5. Instalar MUI (Interfaz de usuario multilingüe)  
-6. Corregir el selector de idioma  
+6. Instalar la corrección del selector de idioma  
 7. Instalar diccionarios de corrección ortográfica
 
 ---
