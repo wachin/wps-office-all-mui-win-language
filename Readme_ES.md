@@ -427,14 +427,14 @@ Para conocer los ciclos de vida de Debian, revisa la siguiente página:
 
 ## Descargar WPS Office 2019 desde Telegram  
 
-📥 **Versión 64 bits**  
-🔗 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)  
+📥 **64 bits**  
+🔗 [https://t.me/PFSLEE/17](https://t.me/PFSLEE/17)
 
-📥 **Versión 32 bits**  
-🔗  [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)  
+📥 **32 bits**  
+🔗 [https://t.me/PFSLEE/16](https://t.me/PFSLEE/16)
 
-📥  **ttf-wps-fonts**  
-🔗 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)  
+📥 **ttf-wps-fonts**  
+🔗 [https://t.me/PFSLEE/18](https://t.me/PFSLEE/18) 
 
 📌 **Nota:** Debes extraer el contenido con **clic derecho → "Extraer aquí"**.  
 

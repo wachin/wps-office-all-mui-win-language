@@ -409,13 +409,13 @@ you can see the debian releases time in:
 ## Download from Telegram:
 
 📥 **64 bits**  
-🔗 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)
+🔗 [https://t.me/PFSLEE/17](https://t.me/PFSLEE/17)
 
 📥 **32 bits**  
-🔗 [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)
+🔗 [https://t.me/PFSLEE/16](https://t.me/PFSLEE/16)
 
 📥 **ttf-wps-fonts**  
-🔗 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)
+🔗 [https://t.me/PFSLEE/18](https://t.me/PFSLEE/18)
 
 📌 **Note:** You need extract the content with right clic and then extract here.  
 
