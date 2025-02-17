@@ -130,6 +130,27 @@ Cuando haces clic derecho sobre el archivo **.deb**, debería aparecer una opci�
 
 ---
 
+## 2.) Instalar las fuentes ttf-wps-fonts  
+
+Estas son fuentes de símbolos necesarias para **WPS Office**. Se utilizan para mostrar fórmulas matemáticas. Como la descarga oficial ya no está disponible, he subido el archivo a **GitHub**:
+
+🔹 **Para Linux basado en Debian:**  
+[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)  
+
+🔹 **Para Linux basado en RPM:**  
+[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm)  
+
+🔹 **Para otras distribuciones Linux:**  
+[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz)  
+
+Después de descargar el archivo **.tar.gz**, extrae su contenido haciendo clic derecho en **"Extraer aquí"** y luego copia la carpeta en:
+
+📂 **~/.fonts**  
+
+Si esta carpeta no existe, créala manualmente. Para verla, presiona **Ctrl + H** para mostrar directorios ocultos.
+
+---
+
 ## 3.) Instalar fuentes chinas  
 
 Para que la versión china de **WPS Office** funcione correctamente, se necesitan las siguientes fuentes:  
@@ -169,6 +190,7 @@ sudo apt install ibus-gtk4
 ```
 
 📌 **Después de la instalación, reinicia tu computadora** para que los cambios surtan efecto.  
+
 ⚠️ **Nota:** Si no reinicias el sistema, **ibus** no funcionará correctamente.  
 
 ---
@@ -226,26 +248,7 @@ Para cambiar el idioma de WPS Office:
 
 
 
-## 2.) Instalar las fuentes ttf-wps-fonts  
 
-Estas son fuentes de símbolos necesarias para **WPS Office**. Se utilizan para mostrar fórmulas matemáticas. Como la descarga oficial ya no está disponible, he subido el archivo a **GitHub**:
-
-🔹 **Para Linux basado en Debian:**  
-[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)  
-
-🔹 **Para Linux basado en RPM:**  
-[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm)  
-
-🔹 **Para otras distribuciones Linux:**  
-[https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz)  
-
-Después de descargar el archivo **.tar.gz**, extrae su contenido haciendo clic derecho en **"Extraer aquí"** y luego copia la carpeta en:
-
-📂 **~/.fonts**  
-
-Si esta carpeta no existe, créala manualmente. Para verla, presiona **Ctrl + H** para mostrar directorios ocultos.
-
----
 
 ## 6.) Instalar la corrección del selector de idioma  
 

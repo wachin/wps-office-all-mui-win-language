@@ -9,6 +9,8 @@ Este tutorial está disponible en español aquí:
 **WPS Office 2019 versión 11.1.0.11711 actualización 2023 para Linux**   
 [https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html](https://facilitarelsoftwarelibre.blogspot.com/2023/11/wps-office-2019-version-11.1.0.11704-actualizacion-2023.html.html)
 
+---
+
 # How to Install WPS Office version 11.1.0.xxxxx on Linux Linux (64 bit)
 This is an tutorial to install the 11.1.0.xxxxx on Linux only 64 bit
 
@@ -29,18 +31,20 @@ Mint 21 = Linux Mint 21 Vanessa
 | 11.1.0.11711 | ©2023   | ✔             | ✔             | ✔       |        |
 | 11.1.0.11723 | ©2024   | ✔             |               |         |        |
 
+---
 
 WPS Office 11.1.0.xxxxx brings the four programs:
 
-Writer
-Presentation
-Spreadsheet
-PDF
+- **Writer** (Procesador de textos)  
+- **Presentation** (Presentaciones)  
+- **Spreadsheet** (Hojas de cálculo)  
+- **PDF**  
 
 In 11.1.0.11711 version WPS Office have the programs in same window:
 
 ![](vx_images/20240212-080056-WPS-Office-11.1.0.11711-amd64.png)
 
+---
 
 ## WPS Office Chinese version has language selector button 
 
@@ -48,6 +52,7 @@ You must download the Chinese version 11.1.0.xxxxx because it has the language s
 
 ![](vx_images/20231030-223216-WPS-Office-button-in-11.1.0.11704.png)
 
+---
 
 ## Doesn`t use WPS Office 12.1.0.xxxxx versión
 
@@ -57,12 +62,14 @@ WPS Office Linux 12.1.0.xxxxx have problems with language switcher button becaus
 
 At this time 2025-01 not working the language switcher button, tested in 12.1:
 
-wps-office_12.1.0.17881_amd64.deb 
-wps-office_12.1.0.17900_amd64.deb
+- **wps-office_12.1.0.17881_amd64.deb**  
+- **wps-office_12.1.0.17900_amd64.deb**  
 
 perhaps later working. 
 
 **Note:** The program was previously available there at [www.wps.cn](www.wps.cn) but is no longer available.
+
+---
 
 ## Download from Mirror web
 There is some WPS version in the web in the following mirror, but I don't know when the link will go down:
@@ -84,18 +91,22 @@ you can download it:
 
 ![](vx_images/20250129-083708-mirror.163.com-WPS-Office-11.1.0.11704.png)
 
-
-and also I have uploaded some debs to my accounts at:
+---
 
 ## Download from MEGA
 The following link is a mirror that I have uploaded in my own MEGA account in case the other downloads fail, this has some versions:
 
-[https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w](https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w)
+🔗 [https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w](https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w)
+
+---
 
 ## Download from Telegram
-In Telegram I have some versions:
 
-[https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)
+In **Telegram** I have some versions:
+
+📥 [https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)
+
+---
 
 ## About the warning "This type of file can damage your computer. Do you want to download ... deb anyway?"
 
@@ -103,71 +114,81 @@ That message is a general warning that appears when downloading executable files
 
 The warning does not necessarily mean that the file you are downloading is dangerous, but rather that you should be careful and make sure it comes from a trusted source. It is important to verify the authenticity and provenance of the file before installing it, especially if you are not downloading it from the official repositories of your Linux distribution.
 
-You can also upload it to: [https://virustotal.com](https://virustotal.com) to check its Reliability.
+You can also upload it to to check its Reliability to:
+
+🔍 [https://virustotal.com](https://virustotal.com) 
+
+---
 
 ## 1.) Install deb with right clic
-When you right click on the deb you should see an option in your file manager to install deb, this on MX Linux, Debian, Ubuntu, but if not in your distro, search on the web how to install deb files.
+When you right click on the **deb** you should see an option in your file manager to install deb, this on **MX Linux**, **Debian**, **Ubuntu**, but if not in your distro, search on the web how to install **deb** files.
+
+---
 
 ## 2.) Install ttf-wps-fonts
 
 These are the symbol fonts required by wps-office. They are used to display math formulas. Since the official download is no longer available I uploaded the file to GitHub:
 
-**For debian based Linux:**  
+🔹 **For debian based Linux:**  
 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0_all.deb)
 
-**For rpm**  
+🔹 **For rpm**  
 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts-1.0_all.rpm)
 
-**For others Linux**  
+🔹 **For others Linux**  
 [https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz](https://github.com/wachin/ttf-wps-fonts/releases/download/1.0/ttf-wps-fonts_1.0.tar.gz)
 
-download the tar.gz file and extract it with right clic "Extract here", then copy the folder to:  
+download the **tar.gz** file and extract it with right clic "**Extract here"**, then copy the folder to:  
 
-.fonts  
+📂 .fonts  
 
 If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
 
+---
 
 ## 3.) Install Chinese fonts
 
 To work fine this WPS Office Chinese version neet the following fonts:  
 
-batang.ttc  
-gulim.ttc  
-simfang.ttf  
-simhei.ttf  
-simkai.ttf  
-simsun.ttc  
-simsunb.ttf    
+- **batang.ttc**  
+- **gulim.ttc**  
+- **simfang.ttf**  
+- **simhei.ttf**  
+- **simkai.ttf**  
+- **simsun.ttc**  
+- **simsunb.ttf**  
 
 Download it from:  
 
-[https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z)  
+🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/wps-office-cn-fonts.7z)  
 
-download the .7z file and extract it with right clic "Extract here", then copy the folder to:  
+download the **.7z** file and extract it with right clic **"Extract here"**, then copy the folder to:  
 
-.fonts  
+📂 **~/.fonts** 
 
-If this folder does not exist create it. To see hit Ctrl + H to show hidden directories.
+If this folder does not exist create it. To see hit **Ctrl + H** to show hidden directories.
+
+---
 
 ## 4.) Install ibus  
 
 This is necessary for special characters like accent marks on Spanish language to can be written, If you need, install with:
 
-	sudo apt install im-config ibus ibus-gtk ibus-gtk3
+```bash
+sudo apt install im-config ibus ibus-gtk ibus-gtk3
+```
 
 In some more modern Linux the following package goes 
 
+```bash
+ibus-gtk4
 ```
- ibus-gtk4
-```
 
-after installed:
+📌  After installed: **RESTART YOUR COMPUTER**
 
-**RESTART YOUR COMPUTER**
+⚠️**Note**: If you don't start it it doesn't work.
 
-**Note**: If you don't start it it doesn't work.
-
+---
 
 ## 5.) Install MUI (Multilingual User Interface)
 MUI (Multilingual User Interface) for WPS Office Linux version 2019
