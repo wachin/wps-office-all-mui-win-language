@@ -275,7 +275,6 @@ For this fix to be visible it is necessary to restart WPS Office, but do not res
 ## 7.) Install spell checking dictionaries
 
 📥 **Download from GitHub**:
-
 🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z)
 
 After downloading the **.7z** file, unzip it and copy it to the following location:
