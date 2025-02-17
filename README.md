@@ -96,14 +96,14 @@ you can download it:
 ## Download from MEGA
 The following link is a mirror that I have uploaded in my own MEGA account in case the other downloads fail, this has some versions:
 
-📥 From **MEGA**
+📥 From **MEGA**  
 🔗 [https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w](https://mega.nz/folder/s6AQHSzC#Kd8qbA-Z7yeTa2P5qcVG3w)
 
 ---
 
 ## Download from Telegram
 
-📥 In **Telegram** I have some versions:
+📥 In **Telegram** I have some versions:  
 🔗 [https://t.me/c/1343202595/14](https://t.me/c/1343202595/14)
 
 ---
