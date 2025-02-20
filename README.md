@@ -419,9 +419,12 @@ you can see the debian releases time in:
 
 📌 **Note:** You need extract the content with right clic and then extract here.  
 
+## Install deb
+Now install the deb according to your architecture and ttf-wps-fonts
+
 ---
 
-## Follow only the next steps: 2, 3, 5, 6  
+## Follow only the next steps: 3, 5, 6  
 To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
 📌 **is compatible with:**  
@@ -435,9 +438,8 @@ To install it you need to follow some of the steps mentioned above:
 
 2. Install ttf-wps-fonts
 3. Install Chinese fonts
-5. Install MUI (Multilingual User Interface)
+5. Install MUI (Multilingual User Interface) and dicts
 6. Install the Fix language selector
-7. Install spell checking dictionaries
 
 ---
 

@@ -440,9 +440,12 @@ Para conocer los ciclos de vida de Debian, revisa la siguiente página:
 
 📌 **Nota:** Debes extraer el contenido con **clic derecho → "Extraer aquí"**.  
 
+## Instalar deb
+Ahora instala el deb según tu arquitectura y ttf-wps-fonts
+
 ---
 
-## Seguir solo los pasos: 2, 3, 5, 6  
+## Seguir solo los pasos: 3, 5, 6  
 
 Si deseas instalar **WPS Office 11.1.0.8392** (32 o 64 bits) en Linux, sigue estos pasos:  
 
@@ -458,9 +461,8 @@ anteriormente:
 
 2. Instalar las fuentes ttf-wps-fonts  
 4. Instalar fuentes chinas  
-5. Instalar MUI (Interfaz de usuario multilingüe)  
+5. Instalar MUI (Interfaz de usuario multilingüe) y diccionarios
 6. Instalar la corrección del selector de idioma  
-7. Instalar diccionarios de corrección ortográfica
 
 ---
 
