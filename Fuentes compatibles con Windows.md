@@ -80,7 +80,7 @@ Si necesitas más detalles sobre alguna en particular, dime y te ayudo. 😊
 Puedes instalar muchas de estas fuentes directamente desde los repositorios con este comando:  
 
 ```bash
-sudo apt install fonts-liberation fonts-noto fonts-crosextra-carlito fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode tex-gyre fonts-ebgaramond fonts-jetbrains-mono fonts-source-serif fonts-source-code-pro fonts-urw-base35
+sudo apt install fonts-liberation fonts-noto fonts-crosextra-carlito fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode tex-gyre fonts-ebgaramond fonts-jetbrains-mono fonts-urw-base35
 ```
 
 Esto instalará:  
@@ -88,10 +88,9 @@ Esto instalará:
 - **Alternativas a Calibri, Cambria** → *Carlito, Caladea*  
 - **Alternativas a Verdana, Tahoma** → *DejaVu Sans, Noto Sans*  
 - **Alternativas a Trebuchet MS** → *Cantarell*  
-- **Alternativas a Consolas** → *Fira Code, JetBrains Mono, Source Code Pro*  
+- **Alternativas a Consolas** → *Fira Code, JetBrains Mono*  
 - **Alternativas a Palatino Linotype, Book Antiqua** → *TeX Gyre Pagella, EB Garamond*  
-- **Alternativas a Franklin Gothic, Century Gothic** → *Oswald, Gothic A1*  
-- **Alternativas a Impact** → *Anton*  
+- **Alternativas a Franklin Gothic, Century Gothic** →  *Gothic A1*  
 
 ---
 
@@ -99,11 +98,17 @@ Esto instalará:
 Algunas fuentes como **Gothic A1, Slabo 27px, Potta One, Libre Franklin, Cormorant Garamond** no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
 1. Busca la fuente y descárgala (`.zip` con archivos `.ttf` o `.otf`).  
 
-**Oswald**  
+**Oswald → Alternativa a Franklin Gothic, Century Gothic**  
 [https://fonts.google.com/specimen/Oswald](https://fonts.google.com/specimen/Oswald)
 
-**Anton**
+**Anton → Alternativa a Impact**
 [https://fonts.google.com/specimen/Anton](https://fonts.google.com/specimen/Anton)
+
+**Source Serif**
+[https://fonts.google.com/specimen/Source+Serif+4](https://fonts.google.com/specimen/Source+Serif+4)
+
+**Source Code Pro → Alternativa a Consolas** 
+[https://fonts.google.com/specimen/Source+Code+Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 
 2. Extrae los archivos en `~/.local/share/fonts/` (para usuario actual) o en `/usr/share/fonts/` (para todos los usuarios).  
 3. Refresca la caché de fuentes con:  
