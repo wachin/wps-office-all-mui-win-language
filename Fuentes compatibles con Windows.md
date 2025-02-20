@@ -17,7 +17,7 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Trebuchet MS**      | **Cantarell** / **Fira Sans**                            | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
 | **Impact**            | **Anton** / **Oswald**                                   | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
 | **Tahoma**            | **Noto Sans** / **DejaVu Sans**                          | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
-| **Palatino Linotype** | **TeX Gyre Pagella** / **URW Palladio**                  | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
+| **Palatino Linotype** | **TeX Gyre Pagella** / **Pallatio Uralic**               | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
 | **Book Antiqua**      | **Garamond Libre** / **EB Garamond**                     | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
 | **Franklin Gothic**   | **Oswald** / **Libre Franklin**                          | Títulos, carteles, encabezados                                     | Fuente sans-serif gruesa con estilo fuerte.                                          |
 | **Century Gothic**    | **URW Gothic** / **TeX Gyre Adventor**                   | Títulos modernos, diseño gráfico                                   | Diseño limpio y futurista.                                                           |
@@ -43,13 +43,15 @@ Estas fuentes cubren casi todos los usos y garantizan compatibilidad sin depende
 Puedes instalar muchas de estas fuentes directamente desde los repositorios con este comando:  
 
 ```bash
-sudo apt install fonts-liberation fonts-noto-mono fonts-crosextra-carlito fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode fonts-jetbrains-mono tex-gyre fonts-ebgaramond fonts-urw-base35
+sudo apt install fonts-liberation fonts-noto-mono fonts-crosextra-carlito \
+    fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode \
+    fonts-jetbrains-mono tex-gyre fonts-ebgaramond fonts-urw-base35
 ```
 
 ---
 
 ### **📌 Instalación manual desde Google Fonts**
-Algunas fuentes como **Gothic A1, Slabo 27px, Potta One, Libre Franklin, Cormorant Garamond** no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
+Algunas fuentes como **Slabo 27px, Potta One, Libre Franklin, Cormorant Garamond, Oswald, Anton, Source Serif, Source Code Pro** no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
 1. Busca la fuente y descárgala (`.zip` con archivos `.ttf` o `.otf`).  
 
 **Slavo 27px**
@@ -60,6 +62,9 @@ Algunas fuentes como **Gothic A1, Slabo 27px, Potta One, Libre Franklin, Cormora
 
 **Libre Franklin**
 [https://fonts.google.com/specimen/Libre+Franklin](https://fonts.google.com/specimen/Libre+Franklin)
+
+**Cormorant Garamond**
+[https://fonts.google.com/specimen/Cormorant+Garamond](https://fonts.google.com/specimen/Cormorant+Garamond)
 
 **Oswald → Alternativa a Franklin Gothic, Century Gothic**  
 [https://fonts.google.com/specimen/Oswald](https://fonts.google.com/specimen/Oswald)
