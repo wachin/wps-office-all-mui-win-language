@@ -189,7 +189,7 @@ ibus-gtk4
 
 ---
 
-## 5.) Install MUI (Multilingual User Interface)
+## 5.) Install MUI (Multilingual User Interface) y dicts (Diccionarios de corrección ortográfica)
 
 The **MUI (Multilingual User Interface)** allows you to change the language of  **WPS Office Linux**
 
@@ -411,19 +411,19 @@ you can see the debian releases time in:
 ## Download from Telegram:
 
 📥 **64 bits**  
-🔗 [https://t.me/PFSLEE/17](https://t.me/PFSLEE/17)
+🔗 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)
 
 📥 **32 bits**  
-🔗 [https://t.me/PFSLEE/16](https://t.me/PFSLEE/16)
+🔗 [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)
 
 📥 **ttf-wps-fonts**  
-🔗 [https://t.me/PFSLEE/18](https://t.me/PFSLEE/18)
+🔗 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)
 
 📌 **Note:** You need extract the content with right clic and then extract here.  
 
 ---
 
-## Follow only the next steps: 2, 3, 5, 6 , 7
+## Follow only the next steps
 To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
 📌 **is compatible with:**  
@@ -435,11 +435,13 @@ To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
 To install it you need to follow some of the steps mentioned above:
 
-2. Install ttf-wps-fonts
-3. Install Chinese fonts
-5. Install MUI (Multilingual User Interface)
-6. Install the Fix language selector
-7. Install spell checking dictionaries
+```plaintext
+## 2.) Install ttf-wps-fonts
+## 3.) Install Chinese fonts
+## 5.) Install MUI (Multilingual User Interface)
+## 6.) Install the Fix language selector
+## 7.) Install spell checking dictionaries
+```
 
 ---
 
@@ -453,6 +455,9 @@ To install it you need to follow some of the steps mentioned above:
 [https://wiki.debian.org/I18n/ibus](https://wiki.debian.org/I18n/ibus)
 
 **WPS Converting to PDF error**  
+[https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
+
+**Wps Converting to pdf error**  
 [https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
 
 ---

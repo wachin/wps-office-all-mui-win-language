@@ -195,7 +195,7 @@ sudo apt install ibus-gtk4
 
 ---
 
-## 5.) Instalar MUI (Interfaz de Usuario Multilingüe)  
+## 5.) Instalar MUI (Interfaz de Usuario Multilingüe) and dicts (Spell checking dictionaries)
 
 El **MUI (Multilingual User Interface)** permite cambiar el idioma de **WPS Office Linux 2019**.  
 
@@ -428,20 +428,20 @@ Para conocer los ciclos de vida de Debian, revisa la siguiente página:
 
 ## Descargar WPS Office 2019 desde Telegram  
 
-📥 **64 bits**  
-🔗 [https://t.me/PFSLEE/17](https://t.me/PFSLEE/17)
+📥 **Versión 64 bits**  
+🔗 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)  
 
-📥 **32 bits**  
-🔗 [https://t.me/PFSLEE/16](https://t.me/PFSLEE/16)
+📥 **Versión 32 bits**  
+🔗  [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)  
 
-📥 **ttf-wps-fonts**  
-🔗 [https://t.me/PFSLEE/18](https://t.me/PFSLEE/18) 
+📥  **ttf-wps-fonts**  
+🔗 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)  
 
 📌 **Nota:** Debes extraer el contenido con **clic derecho → "Extraer aquí"**.  
 
 ---
 
-## Seguir solo los pasos: 2, 3, 5, 6, 7  
+## Seguir solo los siguientes pasos para instalar WPS Office 2019 (11.1.0.8392)  
 
 Si deseas instalar **WPS Office 11.1.0.8392** (32 o 64 bits) en Linux, sigue estos pasos:  
 
@@ -452,14 +452,15 @@ Si deseas instalar **WPS Office 11.1.0.8392** (32 o 64 bits) en Linux, sigue est
 
 ⚠️ **Es posible que esta versión no funcione en distribuciones más nuevas de Linux.**  
 
-Para completar la instalación, sigue solo los siguientes de  los pasos mencionados
-anteriormente:
+Para completar la instalación, sigue los mismos pasos mencionados anteriormente:  
 
-2. Instalar las fuentes ttf-wps-fonts  
-4. Instalar fuentes chinas  
-5. Instalar MUI (Interfaz de usuario multilingüe)  
-6. Instalar la corrección del selector de idioma  
-7. Instalar diccionarios de corrección ortográfica
+```plaintext
+## 2.) Instalar ttf-wps-fonts  
+## 3.) Instalar fuentes chinas  
+## 5.) Instalar MUI (Interfaz de usuario multilingüe)  
+## 6.) Corregir el selector de idioma  
+## 7.) Instalar diccionarios de corrección ortográfica  
+```
 
 ---
 
