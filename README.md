@@ -40,7 +40,7 @@ WPS Office 11.1.0.xxxxx brings the four programs:
 - **Spreadsheet** (Hojas de cálculo)  
 - **PDF**  
 
-In 11.1.0.11711 version WPS Office have the programs in same window:
+**Note:** From 11.1.0.11711 version WPS Office have the programs in same window:
 
 ![](vx_images/20240212-080056-WPS-Office-11.1.0.11711-amd64.png)
 
