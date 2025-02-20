@@ -43,17 +43,8 @@ Estas fuentes cubren casi todos los usos y garantizan compatibilidad sin depende
 Puedes instalar muchas de estas fuentes directamente desde los repositorios con este comando:  
 
 ```bash
-sudo apt install fonts-liberation fonts-noto fonts-crosextra-carlito fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode tex-gyre fonts-ebgaramond fonts-jetbrains-mono fonts-urw-base35
+sudo apt install fonts-liberation fonts-noto-mono fonts-crosextra-carlito fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode fonts-jetbrains-mono tex-gyre fonts-ebgaramond fonts-urw-base35
 ```
-
-Esto instalará:  
-- **Alternativas a Times New Roman, Arial, Courier New** → *Liberation Sans, Serif, Mono*  
-- **Alternativas a Calibri, Cambria** → *Carlito, Caladea*  
-- **Alternativas a Verdana, Tahoma** → *DejaVu Sans, Noto Sans*  
-- **Alternativas a Trebuchet MS** → *Cantarell*  
-- **Alternativas a Consolas** → *Fira Code, JetBrains Mono*  
-- **Alternativas a Palatino Linotype, Book Antiqua** → *TeX Gyre Pagella, EB Garamond*  
-- **Alternativas a Franklin Gothic, Century Gothic** →  *URW Gothic (fonts-urw-base35)*  
 
 ---
 
@@ -63,6 +54,12 @@ Algunas fuentes como **Gothic A1, Slabo 27px, Potta One, Libre Franklin, Cormora
 
 **Slavo 27px**
 [https://fonts.google.com/specimen/Slabo+27px](https://fonts.google.com/specimen/Slabo+27px)
+
+**Potta One**
+[https://fonts.google.com/specimen/Potta+One](https://fonts.google.com/specimen/Potta+One)
+
+**Libre Franklin**
+[https://fonts.google.com/specimen/Libre+Franklin](https://fonts.google.com/specimen/Libre+Franklin)
 
 **Oswald → Alternativa a Franklin Gothic, Century Gothic**  
 [https://fonts.google.com/specimen/Oswald](https://fonts.google.com/specimen/Oswald)
