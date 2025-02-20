@@ -1,6 +1,6 @@
 
-# Fuentes de Software Libre Compatibles con Windows
-Las siguientes son unas fuentes que puedes usar en tus documentos si sólo deseas usar Software Libre, y están indicandos los usos típicos en documentos:
+# Alternativa a fuentes tipográficas privativas de microsoft
+La siguiente es una tabla donde están indicandos los usos típicos en documentos:
 
 ---
 
@@ -27,9 +27,7 @@ Las siguientes son unas fuentes que puedes usar en tus documentos si sólo desea
 
 ---
 
-### **Consejos de uso:**
-
-If you don't want to use proprietary fonts, use the following:*:  
+### **Consejos de uso:** 
 
 - **Títulos:** Oswald, Anton, Libre Franklin, URW Gothic, Slabo 27px  
 - **Cuerpo de texto:** Carlito, Caladea, Liberation Serif, EB Garamond, Source Serif Pro  
@@ -37,7 +35,7 @@ If you don't want to use proprietary fonts, use the following:*:
 - **Documentos formales:** Libre Baskerville, TeX Gyre Pagella, EB Garamond, Noto Serif  
 - **Diseño gráfico y presentaciones:** Cantarell, DejaVu Sans, Noto Sans, TeX Gyre Adventor  
 
-Estas fuentes libres cubren casi todos los usos y garantizan compatibilidad sin depender de las de Windows.
+Estas fuentes cubren casi todos los usos y garantizan compatibilidad sin depender de las de Windows.
 
 ---
 
