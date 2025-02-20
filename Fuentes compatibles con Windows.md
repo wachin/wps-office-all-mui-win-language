@@ -63,6 +63,9 @@ Esto instalará:
 Algunas fuentes como **Gothic A1, Slabo 27px, Potta One, Libre Franklin, Cormorant Garamond** no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
 1. Busca la fuente y descárgala (`.zip` con archivos `.ttf` o `.otf`).  
 
+**Slavo 27px**
+[https://fonts.google.com/specimen/Slabo+27px](https://fonts.google.com/specimen/Slabo+27px)
+
 **Oswald → Alternativa a Franklin Gothic, Century Gothic**  
 [https://fonts.google.com/specimen/Oswald](https://fonts.google.com/specimen/Oswald)
 
