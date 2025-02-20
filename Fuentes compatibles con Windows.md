@@ -29,7 +29,7 @@ Las siguientes son unas fuentes que puedes usar en tus documentos si sólo desea
 
 ### **Consejos de uso:**
 
-Aquí tienes una lista completada solo con fuentes de **Software Libre**:  
+If you don't want to use proprietary fonts, use the following:*:  
 
 - **Títulos:** Oswald, Anton, Libre Franklin, URW Gothic, Slabo 27px  
 - **Cuerpo de texto:** Carlito, Caladea, Liberation Serif, EB Garamond, Source Serif Pro  
