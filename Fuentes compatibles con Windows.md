@@ -1,6 +1,6 @@
 
 # Alternativa a fuentes tipográficas privativas de microsoft
-La siguiente es una tabla donde están indicandos los usos típicos en documentos:
+La siguiente es una tabla donde están indicandos los usos típicos en documentos de fuentes tipográficas alternativas a las privativas de microsoft:
 
 ---
 
