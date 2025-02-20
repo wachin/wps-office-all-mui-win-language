@@ -46,7 +46,7 @@ Puedes instalar muchas de estas fuentes directamente desde los repositorios con 
 sudo apt install fonts-liberation fonts-freefont-ttf fonts-crosextra-carlito \
     fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode \
     fonts-jetbrains-mono tex-gyre fonts-ebgaramond fonts-urw-base35 \
-    fonts-ibm-plex fonts-hack
+    fonts-ibm-plex fonts-hack fonts-inconsolata
 ```
 
 ---
