@@ -331,9 +331,9 @@ wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/downl
 1. Download the corrected file to your **HOME** folder.
 2. Then, it will ask you for **superuser** permissions to copy it to the correct location within the system.
 
-If you want to review its content before installing it, copy the line before && and paste it into a terminal and the file will be downloaded and you can open it with a text editor to review it, then use the full line.
+If you want to review its content before installing it, copy the line before **&&** and paste it into a terminal and the file will be downloaded and you can open it with a text editor to review it, then use the full line.
 
-For this fix to be visible it is necessary to restart WPS Office, but do not restart it yet, instead continue with the installation of the spell checking dictionaries and then restart it.
+For this fix to be visible you need to **restart** WPS Office (open and close it), and then you will see the other available languages:
 
 ![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
 
