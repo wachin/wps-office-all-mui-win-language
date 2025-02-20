@@ -442,7 +442,7 @@ Para conocer los ciclos de vida de Debian, revisa la siguiente página:
 
 ---
 
-## Seguir solo los pasos: 2, 3, 5, 6, 7  
+## Seguir solo los pasos: 2, 3, 5, 6  
 
 Si deseas instalar **WPS Office 11.1.0.8392** (32 o 64 bits) en Linux, sigue estos pasos:  
 

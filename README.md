@@ -421,7 +421,7 @@ you can see the debian releases time in:
 
 ---
 
-## Follow only the next steps: 2, 3, 5, 6 , 7
+## Follow only the next steps: 2, 3, 5, 6  
 To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
 📌 **is compatible with:**  
