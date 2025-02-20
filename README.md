@@ -189,7 +189,7 @@ ibus-gtk4
 
 ---
 
-## 5.) Install MUI (Multilingual User Interface) y dicts (Diccionarios de corrección ortográfica)
+## 5.) Install MUI (Multilingual User Interface)
 
 The **MUI (Multilingual User Interface)** allows you to change the language of  **WPS Office Linux**
 
@@ -222,6 +222,55 @@ This folder is hidden. To show it, press **Ctrl + H** in your file explorer.
     Spanish (Mexico)
     Spanish (Spain)
 ```
+
+To change the language of WPS Office:
+
+1. **Open WPS Office**
+2. Click **"New Tab"**
+
+![](vx_images/20231030-225131-WPS-Office-clic-create-new-tab.png)
+
+3. Create a new document (Presentation, Excel or Document)
+
+![](vx_images/20231030-225431-Create-a-new-empty-document.png)
+
+4. The first time when you open the language switcher there is only two available:
+
+![](vx_images/20231030-230201-the-first-time-when-you-open-the-language-switcher-there-is-only-two-available.png)
+
+---
+
+## 6.) Install the Fix language selector
+
+The program has a file with incomplete code in:  
+
+📂 **/opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json**  
+
+To fix this, first backup the original file with the following command in the terminal:
+
+```bash
+sudo cp /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json.backup
+```
+
+then replace the file with the one with the complete code:
+
+```
+wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
+```
+
+📌 **What does this command do?**
+1. Download the corrected file to your **HOME** folder.
+2. Then, it will ask you for **superuser** permissions to copy it to the correct location within the system.
+
+If you want to review its content before installing it, copy the line before && and paste it into a terminal and the file will be downloaded and you can open it with a text editor to review it, then use the full line.
+
+For this fix to be visible it is necessary to restart WPS Office, but do not restart it yet, instead continue with the installation of the spell checking dictionaries and then restart it.
+
+![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
+
+⚠️ **Note:** When there is an update to the program and you have installed it, you must reapply the fix.
+
+---
 
 ## 7.) Install spell checking dictionaries
 
@@ -292,57 +341,6 @@ vi_VN    Vietnamese (Vietnam)
 
 ---
 
-Checking the button to change the language of WPS Office:
-
-1. **Open WPS Office**
-2. Click **"New Tab"**
-
-![](vx_images/20231030-225131-WPS-Office-clic-create-new-tab.png)
-
-3. Create a new document (Presentation, Excel or Document)
-
-![](vx_images/20231030-225431-Create-a-new-empty-document.png)
-
-4. The first time when you open the language switcher there is only two available:
-
-![](vx_images/20231030-230201-the-first-time-when-you-open-the-language-switcher-there-is-only-two-available.png)
-
----
-
-## 6.) Install the Fix language selector
-
-The program has a file with incomplete code in:  
-
-📂 **/opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json**  
-
-To fix this, first backup the original file with the following command in the terminal:
-
-```bash
-sudo cp /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json.backup
-```
-
-then replace the file with the one with the complete code:
-
-```
-wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
-```
-
-📌 **What does this command do?**
-1. Download the corrected file to your **HOME** folder.
-2. Then, it will ask you for **superuser** permissions to copy it to the correct location within the system.
-
-If you want to review its content before installing it, copy the line before && and paste it into a terminal and the file will be downloaded and you can open it with a text editor to review it, then use the full line.
-
-For this fix to be visible it is necessary to restart WPS Office, but do not restart it yet, instead continue with the installation of the spell checking dictionaries and then restart it.
-
-![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)
-
-⚠️ **Note:** When there is an update to the program and you have installed it, you must reapply the fix.
-
----
-
-
-
 ## 8.) Fix WPS Office fails to save as PDF
 
 On some Linux distributions that use libtiff6 instead of libtiff5, such as:
@@ -411,19 +409,19 @@ you can see the debian releases time in:
 ## Download from Telegram:
 
 📥 **64 bits**  
-🔗 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)
+🔗 [https://t.me/PFSLEE/17](https://t.me/PFSLEE/17)
 
 📥 **32 bits**  
-🔗 [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)
+🔗 [https://t.me/PFSLEE/16](https://t.me/PFSLEE/16)
 
 📥 **ttf-wps-fonts**  
-🔗 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)
+🔗 [https://t.me/PFSLEE/18](https://t.me/PFSLEE/18)
 
 📌 **Note:** You need extract the content with right clic and then extract here.  
 
 ---
 
-## Follow only the next steps
+## Follow only the next steps: 2, 3, 5, 6 , 7
 To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
 📌 **is compatible with:**  
@@ -435,13 +433,11 @@ To install WPS Office 11.1.0.8392 (32 or 64 bit) this working fine en:
 
 To install it you need to follow some of the steps mentioned above:
 
-```plaintext
-## 2.) Install ttf-wps-fonts
-## 3.) Install Chinese fonts
-## 5.) Install MUI (Multilingual User Interface)
-## 6.) Install the Fix language selector
-## 7.) Install spell checking dictionaries
-```
+2. Install ttf-wps-fonts
+3. Install Chinese fonts
+5. Install MUI (Multilingual User Interface)
+6. Install the Fix language selector
+7. Install spell checking dictionaries
 
 ---
 
@@ -455,9 +451,6 @@ To install it you need to follow some of the steps mentioned above:
 [https://wiki.debian.org/I18n/ibus](https://wiki.debian.org/I18n/ibus)
 
 **WPS Converting to PDF error**  
-[https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
-
-**Wps Converting to pdf error**  
 [https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/](https://www.reddit.com/r/Ubuntu/comments/17ehukn/wps_converting_to_pdf_error/)
 
 ---

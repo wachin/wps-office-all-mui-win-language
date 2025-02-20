@@ -195,7 +195,7 @@ sudo apt install ibus-gtk4
 
 ---
 
-## 5.) Instalar MUI (Interfaz de Usuario Multilingüe) and dicts (Spell checking dictionaries)
+## 5.) Instalar MUI (Interfaz de Usuario Multilingüe)  
 
 El **MUI (Multilingual User Interface)** permite cambiar el idioma de **WPS Office Linux 2019**.  
 
@@ -229,7 +229,56 @@ Esta carpeta está oculta. Para mostrarla, presiona **Ctrl + H** en tu explorado
 - Español (España)  
 ```
 
-**Instalar los diccionarios de corrección ortográfica**  
+Para cambiar el idioma de WPS Office:  
+
+1. **Abre WPS Office**  
+2. Haz clic en **"Nueva pestaña"**  
+   
+   ![](vx_images/20231030-225131-WPS-Office-clic-create-new-tab.png)  
+
+3. Crea un documento nuevo (Presentación, Excel o Documento)  
+
+   ![](vx_images/20231030-225431-Create-a-new-empty-document.png)  
+
+4. La primera vez que abras el selector de idioma, solo habrá dos opciones disponibles:  
+
+   ![](vx_images/20231030-230201-the-first-time-when-you-open-the-language-switcher-there-is-only-two-available.png)  
+
+---
+
+## 6.) Instalar la corrección del selector de idioma  
+
+El programa contiene un archivo con código incompleto ubicado en:  
+
+📂 **/opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json**  
+
+Para corregirlo, primero haz una copia de seguridad del archivo original con el siguiente comando en la terminal:  
+
+```bash
+sudo cp /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json.backup
+```
+
+Luego, reemplázalo por la versión que he corregido, con este comando:  
+
+```bash
+wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
+```
+
+📌 **¿Qué hace este comando?**  
+1. Descarga el archivo corregido en tu carpeta **HOME**.  
+2. Luego, te pedirá permisos de **superusuario** para copiarlo en la ubicación correcta dentro del sistema.  
+
+Si deseas revisar su contenido antes de instalarlo, copia la linea has antes de && y pegala a una terminal y se descargará el archivo y lo puedes abrir con un editor de texto para que lo revises, luego si usa la linea completa.  
+
+Para que este arreglo sea visible es necesario reiniciar WPS Office, pero no lo reinicies todavía, sino sigue con la instalación de los diccionarios de corrección ortográfica y luego si reinicialo 
+
+![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)  
+
+⚠️ **Nota:** Si actualizas WPS Office en el futuro, deberás aplicar nuevamente esta corrección.  
+
+---
+
+## 7.) Instalar los diccionarios de corrección ortográfica  
 
 **Descargar desde GitHub:**  
 🔗 [https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z](https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/dicts.7z)  
@@ -297,57 +346,7 @@ vi_VN    Vietnamita (Vietnam)
 ```
 ---
 
-Revisando el botón para cambiar el idioma de WPS Office:
-
-1. **Abre WPS Office**  
-2. Haz clic en **"Nueva pestaña"**  
-   
-   ![](vx_images/20231030-225131-WPS-Office-clic-create-new-tab.png)  
-
-3. Crea un documento nuevo (Presentación, Excel o Documento)  
-
-   ![](vx_images/20231030-225431-Create-a-new-empty-document.png)  
-
-4. La primera vez que abras el selector de idioma, solo habrá dos opciones disponibles:  
-
-   ![](vx_images/20231030-230201-the-first-time-when-you-open-the-language-switcher-there-is-only-two-available.png)  
-
----
-
-## 6.) Instalar la corrección del selector de idioma  
-
-El programa contiene un archivo con código incompleto ubicado en:  
-
-📂 **/opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json**  
-
-Para corregirlo, primero haz una copia de seguridad del archivo original con el siguiente comando en la terminal:  
-
-```bash
-sudo cp /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/lang_list_community.json.backup
-```
-
-Luego, reemplázalo por la versión que he corregido, con este comando:  
-
-```bash
-wget -c https://github.com/wachin/wps-office-all-mui-win-language/releases/download/v11.1.0.11704/lang_list_community.json && sudo cp lang_list_community.json /opt/kingsoft/wps-office/office6/mui/lang_list/
-```
-
-📌 **¿Qué hace este comando?**  
-1. Descarga el archivo corregido en tu carpeta **HOME**.  
-2. Luego, te pedirá permisos de **superusuario** para copiarlo en la ubicación correcta dentro del sistema.  
-
-Si deseas revisar su contenido antes de instalarlo, copia la linea has antes de && y pegala a una terminal y se descargará el archivo y lo puedes abrir con un editor de texto para que lo revises, luego si usa la linea completa.  
-
-Para que este arreglo sea visible es necesario reiniciar WPS Office, pero no lo reinicies todavía, sino sigue con la instalación de los diccionarios de corrección ortográfica y luego si reinicialo 
-
-![](vx_images/20231030-231301-now-all-the-mui-are-present-to-switch-it.png)  
-
-⚠️ **Nota:** Si actualizas WPS Office en el futuro, deberás aplicar nuevamente esta corrección.  
-
----
-
-
-## 7.) Corregir el error de WPS Office al guardar como PDF  
+## 8.) Corregir el error de WPS Office al guardar como PDF  
 
 En algunas distribuciones de Linux, como:  
 
@@ -428,20 +427,20 @@ Para conocer los ciclos de vida de Debian, revisa la siguiente página:
 
 ## Descargar WPS Office 2019 desde Telegram  
 
-📥 **Versión 64 bits**  
-🔗 [https://t.me/PFSLEE/10](https://t.me/PFSLEE/10)  
+📥 **64 bits**  
+🔗 [https://t.me/PFSLEE/17](https://t.me/PFSLEE/17)
 
-📥 **Versión 32 bits**  
-🔗  [https://t.me/PFSLEE/11](https://t.me/PFSLEE/11)  
+📥 **32 bits**  
+🔗 [https://t.me/PFSLEE/16](https://t.me/PFSLEE/16)
 
-📥  **ttf-wps-fonts**  
-🔗 [https://t.me/PFSLEE/13](https://t.me/PFSLEE/13)  
+📥 **ttf-wps-fonts**  
+🔗 [https://t.me/PFSLEE/18](https://t.me/PFSLEE/18) 
 
 📌 **Nota:** Debes extraer el contenido con **clic derecho → "Extraer aquí"**.  
 
 ---
 
-## Seguir solo los siguientes pasos para instalar WPS Office 2019 (11.1.0.8392)  
+## Seguir solo los pasos: 2, 3, 5, 6, 7  
 
 Si deseas instalar **WPS Office 11.1.0.8392** (32 o 64 bits) en Linux, sigue estos pasos:  
 
@@ -452,15 +451,14 @@ Si deseas instalar **WPS Office 11.1.0.8392** (32 o 64 bits) en Linux, sigue est
 
 ⚠️ **Es posible que esta versión no funcione en distribuciones más nuevas de Linux.**  
 
-Para completar la instalación, sigue los mismos pasos mencionados anteriormente:  
+Para completar la instalación, sigue solo los siguientes de  los pasos mencionados
+anteriormente:
 
-```plaintext
-## 2.) Instalar ttf-wps-fonts  
-## 3.) Instalar fuentes chinas  
-## 5.) Instalar MUI (Interfaz de usuario multilingüe)  
-## 6.) Corregir el selector de idioma  
-## 7.) Instalar diccionarios de corrección ortográfica  
-```
+2. Instalar las fuentes ttf-wps-fonts  
+4. Instalar fuentes chinas  
+5. Instalar MUI (Interfaz de usuario multilingüe)  
+6. Instalar la corrección del selector de idioma  
+7. Instalar diccionarios de corrección ortográfica
 
 ---
 
