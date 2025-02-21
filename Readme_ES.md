@@ -487,6 +487,12 @@ rm -rf ~/.fonts/.git
 
 Esto eliminará el historial del repositorio y lo convertirá en una carpeta normal sin rastros de Git. Ahora solo tendrás los archivos de fuentes sin la información del repositorio. 🚀
 
+## Fuentes monoespaciadas en WPS Office
+A continuación una revisión de algunas fuentes monoespaciadas que funcionan en WPS Office Linux:
+
+**Problema con las fuentes monoespaciadas**  
+[https://facilitarelsoftwarelibre.blogspot.com/2022/05/problema-con-las-fuentes-monoespaciadas.html](https://facilitarelsoftwarelibre.blogspot.com/2022/05/problema-con-las-fuentes-monoespaciadas.html)
+
 
 ## ¡Dios te bendiga!  
 
