@@ -452,6 +452,12 @@ To install it you need to follow some of the steps mentioned above:
 
 In you need Windows Fonts for your Documents
 
+## Mono spaced fonts on WPS Office
+Here is an review of some monospaced fonts working on WPS Office Linux, the entry is on spanish language but use the button "Translate":
+
+**Mono fonts in WPS Office are not aligned**  
+[https://facilitarelsoftwarelibre.blogspot.com/2022/05/problema-con-las-fuentes-monoespaciadas.html](https://facilitarelsoftwarelibre.blogspot.com/2022/05/problema-con-las-fuentes-monoespaciadas.html)
+
 ## ¡God Bless You!
 
 ---
