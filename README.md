@@ -444,13 +444,28 @@ To install it you need to follow some of the steps mentioned above:
 ---
 
 # Extra fonts
-
+Instala fuentes adicionales
 
 ## Windows fonts
 
+In you need Windows Fonts for your Documents:
+
 [https://github.com/FSKiller/Microsoft-Fonts](https://github.com/FSKiller/Microsoft-Fonts)
 
-In you need Windows Fonts for your Documents
+ install it with:
+
+```bash
+git clone https://github.com/FSKiller/Microsoft-Fonts ~/.fonts/
+```
+
+To delete the `.git` folder and free up space, simply run the following command in the terminal:
+
+```bash
+rm -rf ~/.fonts/.git
+```
+
+This will remove the repository history and turn it into a normal folder with no traces of Git. Now you will only have the source files without the repository information. 🚀
+
 
 ## Mono spaced fonts on WPS Office
 Here is an review of some monospaced fonts working on WPS Office Linux, the entry is on spanish language but use the button "Translate":

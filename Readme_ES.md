@@ -473,6 +473,19 @@ Si usted necesita fuentes de Windows:
 
 [https://github.com/FSKiller/Microsoft-Fonts](https://github.com/FSKiller/Microsoft-Fonts)
 
+Instalelas con:
+
+```bash
+git clone https://github.com/FSKiller/Microsoft-Fonts ~/.fonts/
+```
+
+Para eliminar la carpeta `.git` y así liberar espacio, simplemente ejecuta el siguiente comando en la terminal:  
+
+```bash
+rm -rf ~/.fonts/.git
+```
+
+Esto eliminará el historial del repositorio y lo convertirá en una carpeta normal sin rastros de Git. Ahora solo tendrás los archivos de fuentes sin la información del repositorio. 🚀
 
 
 ## ¡Dios te bendiga!  
