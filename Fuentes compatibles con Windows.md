@@ -27,7 +27,9 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 
 ---
 
-### **Consejos de uso:** 
+### **Consejos de uso:**
+
+Uso de fuentes tipográficas no privativas en Documentos:
 
 - **Títulos:** Oswald, Anton, Libre Franklin, URW Gothic, Slabo 27px  
 - **Cuerpo de texto:** Carlito, Caladea, Liberation Serif, EB Garamond, Source Serif Pro  
@@ -36,6 +38,16 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 - **Diseño gráfico y presentaciones:** Cantarell, DejaVu Sans, Noto Sans, TeX Gyre Adventor  
 
 Estas fuentes cubren casi todos los usos y garantizan compatibilidad sin depender de las de Windows.
+
+Y aquí tienes la lista solo con las **fuentes de Windows** más usadas en documentos de Microsoft Office:  
+
+- **Títulos:** Franklin Gothic, Trebuchet MS, Impact, Century Gothic  
+- **Cuerpo de texto:** Calibri, Cambria, Arial, Times New Roman, Verdana  
+- **Código de programación:** Consolas, Courier New  
+- **Documentos formales:** Times New Roman, Cambria, Georgia, Palatino Linotype, Book Antiqua  
+- **Diseño gráfico y presentaciones:** Century Gothic, Tahoma, Comic Sans MS  
+
+Estas fuentes vienen preinstaladas en Windows y se usan ampliamente en documentos de Word, Excel y PowerPoint.
 
 ---
 
