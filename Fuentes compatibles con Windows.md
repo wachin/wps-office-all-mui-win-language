@@ -13,14 +13,14 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Cambria**                | **Caladea**                                                  | Cuerpo de texto, informes formales                                 | Similar a Times New Roman, con mejor legibilidad en pantalla.                        |
 | **Comic Sans MS**          | **Comic Neue** /                                             | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada, Potta One es más redonda.                                |
 | **Verdana**                | **Cantarell**                                                | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
-| **Georgia**                | **Source Serif** / **Cormorant Garamond**                    | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
+| **Georgia**                | **Source Serif 4 ** / **TeXGyreTermes**                      | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
 | **Trebuchet MS**           | **Fira Code**                                                | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
 | **Impact**                 | **Anton** / **Oswald**                                       | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
-| **Tahoma**                 | **Noto Sans** / **DejaVu Sans**                              | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
+| **Tahoma**                 | **TeXGyreHeros**                                             | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
 | **Palatino Linotype**      | **TeXGyrePagella** / **Pallatio Uralic**                     | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
-| **Book Antiqua**           | **Garamond Libre** / **EB Garamond**                         | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
+| **Book Antiqua**           | **EB Garamond**                                              | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
 | **Franklin Gothic Medium** | **Libre Franklin Medium**                                    | Títulos, carteles, encabezados                                     | Fuente sans-serif gruesa con estilo fuerte.                                          |
-| **Century Gothic**         | **URW Gothic** / **TeX Gyre Adventor**                       | Títulos modernos, diseño gráfico                                   | Diseño limpio y futurista.                                                           |
+| **Century Gothic**         | **URW Gothic**                                               | Títulos modernos, diseño gráfico                                   | Diseño limpio y futurista.                                                           |
 | **Rockwell**               | **Slabo 27px** / **Arvo**                                    | Títulos con impacto visual                                         | Alternativas de estilo slab-serif.                                                   |
 | **Baskerville**            | **Libre Baskerville** / **Cormorant Garamond**               | Cuerpo de texto en documentos clásicos y elegantes                 | Fuente con excelente legibilidad impresa.                                            |
 | **Consolas**               | **Fira Code** / **Source Code Pro** / **JetBrains Mono**     | Código de programación, terminales, documentos técnicos            | Consolas es monoespaciada, sus alternativas tienen soporte para ligaduras de código. |
@@ -45,24 +45,25 @@ Puedes instalar muchas de estas fuentes directamente desde los repositorios con 
 ```bash
 sudo apt install fonts-liberation fonts-freefont-ttf fonts-crosextra-carlito \
     fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode \
-    fonts-jetbrains-mono tex-gyre fonts-ebgaramond fonts-urw-base35 \
-    fonts-ibm-plex fonts-hack fonts-inconsolata fonts-uralic
+    fonts-jetbrains-mono tex-gyre fonts-ebgaramond fonts-ebgaramond-extra \
+    fonts-ibm-plex fonts-hack fonts-inconsolata fonts-uralic \
+    fonts-urw-base35
 ```
 
-El paquete instala
+El paquete instala:
 
 **fonts-liberation =** Liberation Sans, Liberation Serif
 **fonts-freefont-ttf =** FreeMono
 **fonts-urw-base35 =** Nimbus Roman, URW Gothic
-**tex-gyre =** TeXGyrePagella
+**tex-gyre =** TeXGyrePagella, TeXGyreHeros
 **fonts-uralic =** Pallatio Uralic
-
+**fonts-ebgaramond =** EB Garamond
 
 
 ---
 
 ### **📌 Instalación manual desde Google Fonts**
-Algunas fuentes como **Slabo 27px, Potta One, Libre Franklin, Cormorant Garamond, Oswald, Anton, Source Serif, Source Code Pro** no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
+Algunas fuentes como **Slabo 27px, Potta One, Libre Franklin, Oswald, Anton, Source Serif, Source Code Pro** no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
 1. Busca la fuente y descárgala (`.zip` con archivos `.ttf` o `.otf`).  
 
 **Slavo 27px**
@@ -74,14 +75,17 @@ Algunas fuentes como **Slabo 27px, Potta One, Libre Franklin, Cormorant Garamond
 **Libre Franklin**
 [https://fonts.google.com/specimen/Libre+Franklin](https://fonts.google.com/specimen/Libre+Franklin)
 
-**Cormorant Garamond**
-[https://fonts.google.com/specimen/Cormorant+Garamond](https://fonts.google.com/specimen/Cormorant+Garamond)
-
 **Oswald → Alternativa a Franklin Gothic, Century Gothic**  
 [https://fonts.google.com/specimen/Oswald](https://fonts.google.com/specimen/Oswald)
 
 **Anton → Alternativa a Impact**
 [https://fonts.google.com/specimen/Anton](https://fonts.google.com/specimen/Anton)
+
+**EB Garamond**
+https://fonts.google.com/specimen/EB+Garamond
+
+**Arvo**
+https://fonts.google.com/specimen/Arvo
 
 **Source Serif → Alternativa a Georgia**
 [https://fonts.google.com/specimen/Source+Serif+4](https://fonts.google.com/specimen/Source+Serif+4)
