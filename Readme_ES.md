@@ -466,6 +466,15 @@ anteriormente:
 
 ---
 
+# Fuentes Extra
+
+## Fuentes de Windows
+Si usted necesita fuentes de Windows:
+
+[https://github.com/FSKiller/Microsoft-Fonts](https://github.com/FSKiller/Microsoft-Fonts)
+
+
+
 ## ¡Dios te bendiga!  
 
 ---

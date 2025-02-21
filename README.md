@@ -448,9 +448,9 @@ To install it you need to follow some of the steps mentioned above:
 
 ## Windows fonts
 
-[https://www.w7df.com/p/windows-10.html](https://www.w7df.com/p/windows-10.html)
+[https://github.com/FSKiller/Microsoft-Fonts](https://github.com/FSKiller/Microsoft-Fonts)
 
-In you need windos 
+In you need Windows Fonts for your Documents
 
 ## ¡God Bless You!
 
