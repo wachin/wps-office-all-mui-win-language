@@ -13,7 +13,7 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Cambria**                | **Caladea**                                                  | Cuerpo de texto, informes formales                                 | Similar a Times New Roman, con mejor legibilidad en pantalla.                        |
 | **Comic Sans MS**          | **Comic Neue** /                                             | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada, Potta One es más redonda.                                |
 | **Verdana**                | **Cantarell**                                                | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
-| **Georgia**                | **Source Serif 4 ** / **TeXGyreTermes**                      | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
+| **Georgia**                | **Source Serif 4 ** / **TeXGyreTermes**          	    | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
 | **Trebuchet MS**           | **Fira Code**                                                | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
 | **Impact**                 | **Anton** / **Oswald**                                       | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
 | **Tahoma**                 | **TeXGyreHeros**                                             | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
@@ -47,7 +47,7 @@ sudo apt install fonts-liberation fonts-freefont-ttf fonts-crosextra-carlito \
     fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode \
     fonts-jetbrains-mono tex-gyre fonts-ebgaramond fonts-ebgaramond-extra \
     fonts-ibm-plex fonts-hack fonts-inconsolata fonts-uralic \
-    fonts-urw-base35
+    fonts-urw-base35 fonts-dejavu
 ```
 
 El paquete instala:
@@ -63,7 +63,7 @@ El paquete instala:
 ---
 
 ### **📌 Instalación manual desde Google Fonts**
-Algunas fuentes como **Slabo 27px, Potta One, Libre Franklin, Oswald, Anton, Source Serif, Source Code Pro** no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
+Algunas fuentes como no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
 1. Busca la fuente y descárgala (`.zip` con archivos `.ttf` o `.otf`).  
 
 **Slavo 27px**
@@ -80,6 +80,9 @@ Algunas fuentes como **Slabo 27px, Potta One, Libre Franklin, Oswald, Anton, Sou
 
 **Anton → Alternativa a Impact**
 [https://fonts.google.com/specimen/Anton](https://fonts.google.com/specimen/Anton)
+
+**Cormorant Garamond**
+https://fonts.google.com/specimen/Cormorant+Garamond
 
 **EB Garamond**
 https://fonts.google.com/specimen/EB+Garamond
