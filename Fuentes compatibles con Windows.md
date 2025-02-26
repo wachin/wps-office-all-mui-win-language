@@ -4,26 +4,26 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 
 ---
 
-|   **Fuente de Windows**    |              **Alternativa de Software Libre**               |                    **Uso Común en Documentos**                     |                                      **Notas**                                       |
-| -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| **Arial**                  | **Liberation Sans** / **IBM plex Sans** /  **Dejavu Sans**   | Cuerpo de texto, títulos, subtítulos                               | Fuente sans-serif estándar y versátil.                                               |
-| **Times New Roman**        | **Liberation Serif** / **Nimbus Roman** / **IBM plex serif** | Cuerpo de texto, informes formales, libros                         | Fuente serif clásica para documentos profesionales.                                  |
-| **Courier New**            | **FreeMono** / **Mono Uralic** / **Inconsolata**             | Código, documentos técnicos, textos monoespaciados                 | Fuente monoespaciada usada en programación y tabulación.                             |
-| **Calibri**                | **Carlito**                                                  | Cuerpo de texto, presentaciones                                    | Fuente moderna y legible.                                                            |
-| **Cambria**                | **Caladea**                                                  | Cuerpo de texto, informes formales                                 | Similar a Times New Roman, con mejor legibilidad en pantalla.                        |
-| **Comic Sans MS**          | **Comic Neue** /                                             | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada, Potta One es más redonda.                                |
-| **Verdana**                | **Cantarell**                                                | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
-| **Georgia**                | **Source Serif 4** / **TeXGyreTermes**          	            | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
-| **Trebuchet MS**           | **BPG Ingiri GPL&GNU**                                       | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
-| **Impact**                 | **Anton** / **Oswald**                                       | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
-| **Tahoma**                 | **TeXGyreHeros**                                             | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
-| **Palatino Linotype**      | **TeXGyrePagella** / **Pallatio Uralic**                     | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
-| **Book Antiqua**           | **EB Garamond 12**                                           | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
-| **Franklin Gothic Medium** | **Libre Franklin Medium**                                    | Títulos, carteles, encabezados                                     | Fuente sans-serif gruesa con estilo fuerte.                                          |
-| **Century Gothic**         | **URW Gothic**                                               | Títulos modernos, diseño gráfico                                   | Diseño limpio y futurista.                                                           |
-| **Rockwell**               | **Slabo 27px** / **Arvo**                                    | Títulos con impacto visual                                         | Alternativas de estilo slab-serif.                                                   |
-| **Baskerville**            | **Cormorant Garamond**                                       | Cuerpo de texto en documentos clásicos y elegantes                 | Fuente con excelente legibilidad impresa.                                            |
-| **Consolas**               | **JetBrains Mono** / **DejaVu Sans Mono**                    | Código de programación, terminales, documentos técnicos            | Consolas es monoespaciada, sus alternativas tienen soporte para ligaduras de código. |
+|   **Fuente de Windows**    |              **Alternativa de Software Libre**                                      |                    **Uso Común en Documentos**                     |                                      **Notas**                                       |
+| -------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| **Arial**                  | **Liberation Sans** / **IBM plex Sans** /  **Dejavu Sans**                          | Cuerpo de texto, títulos, subtítulos                               | Fuente sans-serif estándar y versátil.                                               |
+| **Times New Roman**        | **Liberation Serif** / **Nimbus Roman** / **IBM plex serif**                        | Cuerpo de texto, informes formales, libros                         | Fuente serif clásica para documentos profesionales.                                  |
+| **Courier New**            | **FreeMono** / **Mono Uralic** / **Inconsolata**                                    | Código, documentos técnicos, textos monoespaciados                 | Fuente monoespaciada usada en programación y tabulación.                             |
+| **Calibri**                | **Carlito**                                                                         | Cuerpo de texto, presentaciones                                    | Fuente moderna y legible.                                                            |
+| **Cambria**                | **Caladea**                                                                         | Cuerpo de texto, informes formales                                 | Similar a Times New Roman, con mejor legibilidad en pantalla.                        |
+| **Comic Sans MS**          | **Comic Neue** /                                                                    | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada.                                |
+| **Verdana**                | **Cantarell**                                                                       | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
+| **Georgia**                | **Source Serif 4** / **TeXGyreTermes**  / **BPG Gorda GPL&GNU**                     | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
+| **Trebuchet MS**           | **BPG Ingiri GPL&GNU**                                                              | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
+| **Impact**                 | **Anton** / **Oswald**                                                              | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
+| **Tahoma**                 | **TeXGyreHeros**                                                                    | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
+| **Palatino Linotype**      | **TeXGyrePagella** / **Pallatio Uralic**                                            | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
+| **Book Antiqua**           | **EB Garamond 12**, **EB Garamond 08**, **EB Garamond ALL SC**                      | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
+| **Franklin Gothic Medium** | **Libre Franklin Medium**                                                           | Títulos, carteles, encabezados                                     | Fuente sans-serif gruesa con estilo fuerte.                                          |
+| **Century Gothic**         | **URW Gothic**                                                                      | Títulos modernos, diseño gráfico                                   | Diseño limpio y futurista.                                                           |
+| **Rockwell**               | **Slabo 27px** / **Arvo**                                                           | Títulos con impacto visual                                         | Alternativas de estilo slab-serif.                                                   |
+| **Baskerville**            | **Goudy Bookletter 1911**                                                           | Cuerpo de texto en documentos clásicos y elegantes                 | Fuente con excelente legibilidad impresa.                                            |
+| **Consolas**               | **JetBrains Mono** / **DejaVu Sans Mono** / **Fira Code** / **Iosevka** / **Hack**  | Código de programación, terminales, documentos técnicos            | Consolas es monoespaciada, sus alternativas tienen soporte para ligaduras de código. |
 
 ---
 
@@ -59,7 +59,7 @@ sudo apt install fonts-liberation fonts-freefont-ttf fonts-crosextra-carlito \
     fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode \
     fonts-jetbrains-mono tex-gyre fonts-ebgaramond fonts-ebgaramond-extra \
     fonts-ibm-plex fonts-hack fonts-inconsolata fonts-uralic \
-    fonts-urw-base35 fonts-bpg-georgian
+    fonts-urw-base35 fonts-bpg-georgian fonts-comic-neue fonts-goudybookletter
 ```
 
 Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con diferentes tipos y diferentes nombres:
@@ -70,14 +70,17 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-crosextra-caladea** = caladea
 **fonts-dejavu =** DejaVu Sans, DejaVu Sans Mono
 **fonts-cantarell =** Canatarell
-**fonts-urw-base35 =** Nimbus Roman, URW Gothic
-**tex-gyre =** TeXGyrePagella, TeXGyreHeros
-**fonts-uralic =** Pallatio Uralic
+**tex-gyre =** TeXGyrePagella, TeXGyreHeros, TeXGyreTermes 
 **fonts-ebgaramond =** EB Garamond 12, 
-**fonts-ebgaramond-extra =** EB Garamond 08, EB Garamond ALL SC
+**fonts-ebgaramond-extra =** EB Garamond 12,  EB Garamond 08, EB Garamond ALL SC
+**fonts-ibm-plex =** IBM Plex Sans, IBM plex Serif 
+**fonts-hack =** Hack
+**fonts-inconsolata =** Inconsolata
+**fonts-uralic =** Pallatio Uralic
+**fonts-urw-base35 =** Nimbus Roman, URW Gothic
 **fonts-bpg-georgian =** BPG Gorda GPL&GNU, BPG Ingiri GPL&GNU
-
-
+**fonts-comic-neue =** Comic Neue
+**fonts-goudybookletter =** Goudy Bookletter 1911
 
 ---
 
@@ -85,35 +88,28 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 Algunas fuentes como no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
 1. Busca la fuente y descárgala (`.zip` con archivos `.ttf` o `.otf`).  
 
-**Slavo 27px**
+**Slavo 27px → Alternativa a Rockwell**
 [https://fonts.google.com/specimen/Slabo+27px](https://fonts.google.com/specimen/Slabo+27px)
 
-**Potta One**
-[https://fonts.google.com/specimen/Potta+One](https://fonts.google.com/specimen/Potta+One)
-
-**Libre Franklin**
+**Libre Franklin → Alternativa a  Franklin Gothic**
 [https://fonts.google.com/specimen/Libre+Franklin](https://fonts.google.com/specimen/Libre+Franklin)
 
-**Oswald → Alternativa a Franklin Gothic, Century Gothic**  
+**Oswald → Alternativa a Impact**  
 [https://fonts.google.com/specimen/Oswald](https://fonts.google.com/specimen/Oswald)
 
 **Anton → Alternativa a Impact**
 [https://fonts.google.com/specimen/Anton](https://fonts.google.com/specimen/Anton)
 
-**Cormorant Garamond**
-[https://fonts.google.com/specimen/Cormorant+Garamond](https://fonts.google.com/specimen/Cormorant+Garamond)
-
-**EB Garamond**
-[https://fonts.google.com/specimen/EB+Garamond](https://fonts.google.com/specimen/EB+Garamond)
-
-**Arvo**
+**Arvo → Alternativa a Rockwell**
 [https://fonts.google.com/specimen/Arvo](https://fonts.google.com/specimen/Arvo)
 
-**Source Serif → Alternativa a Georgia**
+**Source Serif 4 → Alternativa a Georgia**
 [https://fonts.google.com/specimen/Source+Serif+4](https://fonts.google.com/specimen/Source+Serif+4)
 
-**Source Code Pro → Alternativa a Consolas** 
-[https://fonts.google.com/specimen/Source+Code+Pro](https://fonts.google.com/specimen/Source+Code+Pro)
+**Iosevka → Alternativa a Consolas**
+https://github.com/be5invis/Iosevka/releases
+Ejemplo:
+https://github.com/be5invis/Iosevka/releases/download/v32.5.0/PkgTTF-Iosevka-32.5.0.zip
 
 2. Extrae los archivos en `~/.fonts/` (para usuario actual) o en `/usr/share/fonts/` (para todos los usuarios).  
 3. Refresca la caché de fuentes con:  
