@@ -14,7 +14,7 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Comic Sans MS**          | **Comic Neue** /                                             | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada, Potta One es más redonda.                                |
 | **Verdana**                | **Cantarell**                                                | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
 | **Georgia**                | **Source Serif 4** / **TeXGyreTermes**          	            | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
-| **Trebuchet MS**           | **Fira Code**                                                | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
+| **Trebuchet MS**           | **BPG Ingiri GPL&GNU**                                       | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
 | **Impact**                 | **Anton** / **Oswald**                                       | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
 | **Tahoma**                 | **TeXGyreHeros**                                             | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
 | **Palatino Linotype**      | **TeXGyrePagella** / **Pallatio Uralic**                     | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
@@ -75,7 +75,7 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-uralic =** Pallatio Uralic
 **fonts-ebgaramond =** EB Garamond 12, 
 **fonts-ebgaramond-extra =** EB Garamond 08, EB Garamond ALL SC
-**fonts-bpg-georgian =** BPG Gorda GPL&GNU
+**fonts-bpg-georgian =** BPG Gorda GPL&GNU, BPG Ingiri GPL&GNU
 
 
 
