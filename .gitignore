@@ -1,18 +1,27 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Ignorar archivos temporales generados por WPS Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+*.wpslock
 
-# Other files and folders
-.settings/
+# Ignorar archivos temporales generados por LibreOffice
+*.~lock.*
+*.bak
+*.temp
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Ignorar archivos temporales generados por Kate (editor de texto)
+.*.kate-swp
+*.katesession
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Ignorar archivos temporales generados por otros editores de texto
+.*.swp
+.*.swo
+.*.swn
+.*.swm
+.*.swo
+*.bak
+*.tmp
+
+# Ignorar archivos de copia de seguridad generados por algunos editores
+*~
