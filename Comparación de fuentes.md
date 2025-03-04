@@ -87,3 +87,55 @@ int main() {
 
 Si usas una fuente con ligaduras tipográficas activadas en tu editor (VS Code, JetBrains, Neovim con Nerd Fonts, etc.), notarás que estas combinaciones de letras se verán fusionadas.
 
+
+### **📌 ¿Para qué sirven las ligaduras tipográficas en español?**  
+
+En español, las ligaduras tipográficas **no son esenciales**, pero pueden mejorar la estética y la legibilidad en ciertos textos
+
+✅ **1. Para mejorar la legibilidad en textos impresos**  
+   - En libros, periódicos y documentos formales, el uso de ligaduras puede hacer que la lectura fluya mejor, especialmente en fuentes serif como **Libre Baskerville** o **EB Garamond**.  
+   - Ejemplo:  
+     ```
+     La oficina está afiliada a la federación de filósofos.
+     ```
+     → Se activarán las ligaduras en **oficina, afiliada, filósofos** (`fi`, `ffi`, `fl`).  
+
+✅ **2. Para un diseño más elegante en tipografía clásica**  
+   - Las ligaduras son comunes en textos que buscan un **aspecto refinado**, como invitaciones, diplomas o cartas formales.  
+   - En fuentes como **TeX Gyre Pagella** o **Goudy Bookletter 1911**, los caracteres se unen de forma más estilizada.  
+
+### **📌 Todas las fuentes con ligaduras tipográficas en español**  
+
+Lista de fuentes **libres y gratuitas** que incluyen ligaduras:  
+
+#### **Fuentes serif (clásicas y elegantes)**  
+📌 *Ideales para libros, documentos formales y diseño elegante*  
+- **Libre Baskerville**  
+- **EB Garamond** (contiene muchas ligaduras clásicas)  
+- **TeX Gyre Pagella**  
+- **TeX Gyre Termes**  
+- **Goudy Bookletter 1911**  
+- **Crimson Text**  
+- **Cormorant Garamond**  
+- **Charis SIL**  
+
+#### **Fuentes monoespaciadas (para código y terminales)**  
+📌 *Usadas en programación con ligaduras avanzadas para operadores*  
+- **Fira Code**  
+- **JetBrains Mono**  
+- **Iosevka**  
+- **Cascadia Code**  
+- **Hasklig** (especialmente para Haskell y lenguajes funcionales)  
+
+#### **Fuentes sans-serif con ligaduras**  
+📌 *No es tan común en sans-serif, pero algunas lo soportan*  
+- **IBM Plex Serif**  
+- **Source Serif Pro**  
+- **Noto Serif**  
+
+---
+
+### **📌 Resumen**
+✅ **Las ligaduras en español ayudan a mejorar la estética y legibilidad en textos formales y diseño gráfico.**  
+✅ **Se pueden usar en LibreOffice, LaTeX, y procesadores de texto avanzados.**  
+✅ **Las fuentes más recomendadas para textos en español con ligaduras son EB Garamond, Libre Baskerville y TeX Gyre Pagella.**  
