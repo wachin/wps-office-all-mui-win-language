@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2025-02-17T12:06:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:language>es-EC</dc:language><dc:date>2025-02-27T13:57:51.718460920</dc:date><meta:editing-cycles>3</meta:editing-cycles><meta:editing-duration>PT28M41S</meta:editing-duration><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="19" meta:word-count="145" meta:character-count="1097" meta:non-whitespace-character-count="670"/><meta:user-defined meta:name="AppVersion">15.0000</meta:user-defined><meta:user-defined meta:name="KSOProductBuildVer">1033-11.1.0.11723</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><meta:creation-date>2025-02-17T12:06:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:language>es-EC</dc:language><dc:date>2025-03-03T22:38:48.878040710</dc:date><meta:editing-cycles>4</meta:editing-cycles><meta:editing-duration>PT29M38S</meta:editing-duration><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="19" meta:word-count="145" meta:character-count="1097" meta:non-whitespace-character-count="670"/><meta:user-defined meta:name="AppVersion">15.0000</meta:user-defined><meta:user-defined meta:name="KSOProductBuildVer">1033-11.1.0.11723</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">2752</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">16722</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">34159</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">14951</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13972</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">23924</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">5703</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">22514</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">21294</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">2752</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">16722</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">34158</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">17701</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">30692</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -90,7 +90,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1191403</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1282140</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -197,7 +197,6 @@
   <style:font-face style:name="EB Garamond 12 All SC" svg:font-family="&apos;EB Garamond 12 All SC&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="EB Garamond 12 All SC1" svg:font-family="&apos;EB Garamond 12 All SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="EB Garamond 121" svg:font-family="&apos;EB Garamond 12&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="F" svg:font-family="" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Fira Code" svg:font-family="&apos;Fira Code&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Fira Code1" svg:font-family="&apos;Fira Code&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Franklin Gothic Medium" svg:font-family="&apos;Franklin Gothic Medium&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
@@ -275,7 +274,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="es" fo:country="EC" style:letter-kerning="false" style:font-name-asian="宋体" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -292,7 +291,7 @@
   </style:default-style>
   <style:style style:name="Standard" style:family="paragraph" style:class="text">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:writing-mode="lr-tb"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-family="Calibri" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10pt" fo:language="en" fo:country="US" style:letter-kerning="false" style:font-name-asian="宋体" style:font-family-asian="宋体" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="F" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Calibri" fo:font-family="Calibri" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10pt" fo:language="en" fo:country="US" style:letter-kerning="false" style:font-name-asian="宋体" style:font-family-asian="宋体" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Times New Roman1" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
   </style:style>
   <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
@@ -318,52 +317,52 @@
   </style:style>
   <style:style style:name="Default_20_Paragraph_20_Font" style:display-name="Default Paragraph Font" style:family="text"/>
   <text:outline-style style:name="Outline">
-   <text:outline-level-style text:level="1" style:num-format="">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="2" style:num-format="">
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="3" style:num-format="">
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="4" style:num-format="">
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="5" style:num-format="">
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="6" style:num-format="">
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="7" style:num-format="">
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="8" style:num-format="">
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="9" style:num-format="">
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="10" style:num-format="">
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
@@ -373,7 +372,7 @@
   <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
   <style:default-page-layout>
-   <style:page-layout-properties style:layout-grid-standard-mode="true"/>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
   </style:default-page-layout>
  </office:styles>
  <office:automatic-styles>
@@ -401,28 +400,38 @@
    <style:text-properties style:font-name="Fira Code" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Fira Code1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Palatino Linotype" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Palatino Linotype1" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Fira Code" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Fira Code1" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="BPG Gorda GPL&amp;GNU" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="BPG Gorda GPL&amp;GNU1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Palatino Linotype" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Palatino Linotype1" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Palladio Uralic" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Palladio Uralic1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="BPG Gorda GPL&amp;GNU" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="BPG Gorda GPL&amp;GNU1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Noto Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Noto Mono1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Palladio Uralic" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Palladio Uralic1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Courier New" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Courier New1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Noto Mono1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Century Gothic" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Century Gothic1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Courier New" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Courier New1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Cormorant Garamond" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Cormorant Garamond1" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Century Gothic" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Century Gothic1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Fira Code" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Fira Code1" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Cormorant Garamond" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Cormorant Garamond1" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
+   <style:text-properties officeooo:paragraph-rsid="0010db81"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0013905c"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties style:font-name="Iosevka Extrabold Extended" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Iosevka Extrabold Extended1" style:font-size-complex="12pt"/>
@@ -643,8 +652,8 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
    <text:p text:style-name="Standard"><text:bookmark-start text:name="_GoBack"/><text:span text:style-name="T1">Alternativas a fuentes tipográficas privativas de microsoft</text:span><text:bookmark-end text:name="_GoBack"/><text:span text:style-name="T1"/></text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
    <text:p text:style-name="P1"><text:span text:style-name="T4">Arial <text:s text:c="27"/>&gt;</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T5">Liberation Sans</text:span><text:span text:style-name="T3"> &gt; </text:span><text:span text:style-name="T6">IBM plex Sans <text:s/>&gt; </text:span><text:span text:style-name="T7">Dejavu Sans</text:span><text:span text:style-name="T8"/></text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P2"><text:span text:style-name="T9">Times New Roman <text:s text:c="7"/>&gt; </text:span><text:span text:style-name="T10">Liberation Serif &gt; </text:span><text:span text:style-name="T11">Nimbus Roman &gt; </text:span><text:span text:style-name="T12">IBM plex Serif </text:span><text:span text:style-name="T65">&gt; DejaVu Serif</text:span><text:span text:style-name="T9"/></text:p>
@@ -660,7 +669,7 @@
    <text:p text:style-name="P1"><text:span text:style-name="T25">Verdana <text:s text:c="15"/>&gt;</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T26">Cantarell</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P5"/>
    <text:p text:style-name="Standard"><text:span text:style-name="T27">Georgia <text:s text:c="26"/></text:span><text:span text:style-name="T9">&gt; </text:span><text:span text:style-name="T28">Source Serif 4 </text:span><text:span text:style-name="T9"><text:s/>&gt; <text:s/></text:span><text:span text:style-name="T29">TeXGyreTermes &gt; </text:span><text:span text:style-name="T30">BPG Gorda GPL&amp;GNU</text:span><text:span text:style-name="T30"/></text:p>
-   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P9"/>
    <text:p text:style-name="Standard"><text:span text:style-name="T31">Trebuchet MS <text:s text:c="12"/>&gt; </text:span><text:span text:style-name="T32">BPG Ingiri GPL&amp;GNU</text:span><text:span text:style-name="T33"/></text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P1"><text:span text:style-name="T35">Impact <text:s text:c="40"/>&gt; </text:span><text:span text:style-name="T9"><text:s/></text:span><text:span text:style-name="T36">Anton</text:span><text:span text:style-name="T9"> &gt; </text:span><text:span text:style-name="T37">Oswald</text:span><text:span text:style-name="T9"/></text:p>
@@ -668,19 +677,19 @@
    <text:p text:style-name="P1"><text:span text:style-name="T38">Tahoma</text:span><text:span text:style-name="T9"> <text:s text:c="26"/>&gt; <text:s/></text:span><text:span text:style-name="T39">TeXGyreHeros</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P5"/>
    <text:p text:style-name="Standard"><text:span text:style-name="T3">Palatino Linotype <text:s text:c="10"/>&gt; </text:span><text:span text:style-name="T40">TeXGyrePagella &gt; </text:span><text:span text:style-name="T41">Pallatio Uralic</text:span><text:span text:style-name="T41"/></text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P1"><text:span text:style-name="T42">Book Antiqua </text:span><text:span text:style-name="T43"><text:s text:c="14"/>&gt; </text:span><text:span text:style-name="T44">EB Garamond 12 &gt; <text:s/></text:span><text:span text:style-name="T45">EB Garamond 08 &gt; </text:span><text:span text:style-name="T46">EB Garamond ALL SC</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P10"/>
+   <text:p text:style-name="P1"><text:span text:style-name="T42">Book Antiqua </text:span><text:span text:style-name="T43"><text:s text:c="14"/>&gt; </text:span><text:span text:style-name="T44">EB Garamond 12 &gt; <text:s/></text:span><text:span text:style-name="T45">EB Garamond 08 &gt; </text:span><text:span text:style-name="T46">EB Garamond ALL SC</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P11"/>
    <text:p text:style-name="P1"><text:span text:style-name="T48">Franklin Gothic Medium</text:span><text:span text:style-name="T9"> <text:s text:c="2"/>&gt; </text:span><text:span text:style-name="T49">Libre Franklin Medium</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T9"/></text:p>
-   <text:p text:style-name="P11"/>
-   <text:p text:style-name="Standard"><text:span text:style-name="T50">Century Gothic <text:s text:c="12"/>&gt; <text:s/></text:span><text:span text:style-name="T51">URW Gothic </text:span><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P12"/>
-   <text:p text:style-name="Standard"><text:span text:style-name="T52">Rockwell</text:span><text:span text:style-name="T14"> <text:s text:c="10"/>&gt; </text:span><text:span text:style-name="T53">Slabo 27px </text:span><text:span text:style-name="T15"><text:s/></text:span><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T54">Arvo</text:span><text:span text:style-name="T14"/></text:p>
-   <text:p text:style-name="P11"/>
-   <text:p text:style-name="Standard"><text:span text:style-name="T55">Baskerville Old Face <text:s text:c="10"/>&gt; <text:s/></text:span><text:span text:style-name="T56">Goudy Bookletter 1911</text:span><text:span text:style-name="T57"/></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T50">Century Gothic <text:s text:c="12"/>&gt; <text:s/></text:span><text:span text:style-name="T51">URW Gothic </text:span><text:span text:style-name="T51"/></text:p>
    <text:p text:style-name="P13"/>
-   <text:p text:style-name="Standard"><text:span text:style-name="T59">Consolas <text:s text:c="2"/>&gt;</text:span><text:span text:style-name="T51"> <text:s/></text:span><text:span text:style-name="T60">JetBrains Mono</text:span><text:span text:style-name="T61"> &gt; </text:span><text:span text:style-name="T62">DejaVu Sans Mono &gt;</text:span><text:span text:style-name="T33"> Fira Code &gt; </text:span><text:span text:style-name="T63">Iosevka</text:span><text:span text:style-name="T62"> &gt; Hack</text:span><text:span text:style-name="T62"/></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T52">Rockwell</text:span><text:span text:style-name="T14"> <text:s text:c="10"/>&gt; </text:span><text:span text:style-name="T53">Slabo 27px </text:span><text:span text:style-name="T15"><text:s/></text:span><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T54">Arvo</text:span><text:span text:style-name="T14"/></text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="Standard"><text:span text:style-name="T55">Baskerville Old Face <text:s text:c="10"/>&gt; <text:s/></text:span><text:span text:style-name="T56">Goudy Bookletter 1911</text:span><text:span text:style-name="T57"/></text:p>
    <text:p text:style-name="P14"/>
+   <text:p text:style-name="P17"><text:span text:style-name="T59">Consolas <text:s text:c="2"/>&gt;</text:span><text:span text:style-name="T51"> <text:s/></text:span><text:span text:style-name="T60">JetBrains Mono</text:span><text:span text:style-name="T61"> &gt; </text:span><text:span text:style-name="T62">DejaVu Sans Mono &gt;</text:span><text:span text:style-name="T33"> Fira Code</text:span><text:span text:style-name="T62"> &gt; Hack </text:span><text:span text:style-name="T33">&gt; </text:span><text:span text:style-name="T63">Iosevka</text:span><text:span text:style-name="T62"/></text:p>
+   <text:p text:style-name="P7"/>
    <text:p text:style-name="Standard"/>
   </office:text>
  </office:body>
