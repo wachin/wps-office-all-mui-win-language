@@ -87,4 +87,3 @@ int main() {
 
 Si usas una fuente con ligaduras tipográficas activadas en tu editor (VS Code, JetBrains, Neovim con Nerd Fonts, etc.), notarás que estas combinaciones de letras se verán fusionadas.
 
-¿Quieres que te explique cómo activar las ligaduras en tu editor? 🚀

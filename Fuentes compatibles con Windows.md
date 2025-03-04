@@ -57,9 +57,10 @@ Instala las fuentes libres directamente desde los repositorios con este comando:
 ```bash
 sudo apt install fonts-liberation fonts-freefont-ttf fonts-crosextra-carlito \
     fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode \
-    fonts-jetbrains-mono tex-gyre fonts-ebgaramond fonts-ebgaramond-extra \
+    fonts-jetbrains-mono fonts-texgyre fonts-texgyre-math fonts-ebgaramond \
     fonts-ibm-plex fonts-hack fonts-inconsolata fonts-uralic \
-    fonts-urw-base35 fonts-bpg-georgian fonts-comic-neue fonts-goudybookletter
+    fonts-urw-base35 fonts-bpg-georgian fonts-comic-neue \
+    fonts-goudybookletter fonts-ebgaramond-extra
 ```
 
 Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con diferentes tipos y diferentes nombres:
@@ -70,7 +71,8 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-crosextra-caladea** = caladea
 **fonts-dejavu =** DejaVu Sans, DejaVu Sans Mono
 **fonts-cantarell =** Canatarell
-**tex-gyre =** TeXGyrePagella, TeXGyreHeros, TeXGyreTermes 
+**fonts-texgyre =** TeXGyrePagella, TeXGyreHeros, TeXGyreTermes 
+fonts-texgyre-math
 **fonts-ebgaramond =** EB Garamond 12, 
 **fonts-ebgaramond-extra =** EB Garamond 12,  EB Garamond 08, EB Garamond ALL SC
 **fonts-ibm-plex =** IBM Plex Sans, IBM plex Serif 
@@ -81,6 +83,7 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-bpg-georgian =** BPG Gorda GPL&GNU, BPG Ingiri GPL&GNU
 **fonts-comic-neue =** Comic Neue
 **fonts-goudybookletter =** Goudy Bookletter 1911
+
 
 ---
 
