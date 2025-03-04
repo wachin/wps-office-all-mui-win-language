@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2025-02-17T07:06:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:date>2025-03-03T23:54:38.583858994</dc:date><meta:editing-cycles>35</meta:editing-cycles><meta:editing-duration>PT13H2M26S</meta:editing-duration><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="170" meta:word-count="1346" meta:character-count="9651" meta:non-whitespace-character-count="6739"/><meta:user-defined meta:name="KSOProductBuildVer">1033-11.1.0.11723</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><meta:creation-date>2025-02-17T07:06:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:date>2025-03-04T00:38:25.466045551</dc:date><meta:editing-cycles>37</meta:editing-cycles><meta:editing-duration>PT13H46M12S</meta:editing-duration><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="156" meta:word-count="1059" meta:character-count="8240" meta:non-whitespace-character-count="5728"/><meta:user-defined meta:name="KSOProductBuildVer">1033-11.1.0.11723</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">73293</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">67239</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">24400</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">9980</config:config-item>
@@ -14,11 +14,11 @@
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
      <config:config-item config:name="ViewLeft" config:type="long">2969</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">77071</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">95853</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">73293</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">67239</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">24398</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">83271</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">77218</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -297,6 +297,7 @@
   <style:font-face style:name="TeX Gyre Pagella1" svg:font-family="&apos;TeX Gyre Pagella&apos;" style:font-adornments="Bold" style:font-pitch="variable"/>
   <style:font-face style:name="TeX Gyre Schola" svg:font-family="&apos;TeX Gyre Schola&apos;" style:font-pitch="variable"/>
   <style:font-face style:name="TeX Gyre Schola Math" svg:font-family="&apos;TeX Gyre Schola Math&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="TeX Gyre Schola1" svg:font-family="&apos;TeX Gyre Schola&apos;" style:font-adornments="Bold" style:font-pitch="variable"/>
   <style:font-face style:name="TeX Gyre Termes" svg:font-family="&apos;TeX Gyre Termes&apos;" style:font-pitch="variable"/>
   <style:font-face style:name="TeX Gyre Termes Math" svg:font-family="&apos;TeX Gyre Termes Math&apos;" style:font-pitch="variable"/>
   <style:font-face style:name="TeX Gyre Termes1" svg:font-family="&apos;TeX Gyre Termes&apos;" style:font-adornments="Bold" style:font-pitch="variable"/>
@@ -1027,48 +1028,47 @@
   <style:style style:name="P168" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
   </style:style>
-  <style:style style:name="P169" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
-   <style:text-properties style:font-name="Mono Uralic" fo:font-size="11pt" officeooo:rsid="00215161" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Palatino Linotype1" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P170" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P169" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Palatino Linotype" fo:font-size="12pt" officeooo:rsid="00225804" officeooo:paragraph-rsid="00225804" style:font-size-asian="12pt" style:font-name-complex="Palatino Linotype1" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P170" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Consolas1" fo:font-size="11pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P172" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0023912e"/>
   </style:style>
-  <style:style style:name="P173" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P172" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="002bf8eb"/>
   </style:style>
-  <style:style style:name="P174" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P173" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="11pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P175" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P174" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="DejaVu Sans Mono" officeooo:paragraph-rsid="0023912e"/>
   </style:style>
-  <style:style style:name="P176" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P175" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="DejaVu Sans Mono" officeooo:paragraph-rsid="002c4acc"/>
   </style:style>
-  <style:style style:name="P177" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P176" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Fira Code" fo:font-size="11pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P178" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P177" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Hack" fo:font-size="11pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P179" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P178" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Iosevka" fo:font-size="11pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P180" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P179" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="TeX Gyre Bonum Math" fo:font-size="8pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
+  <style:style style:name="P180" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002c4acc"/>
+  </style:style>
   <style:style style:name="P181" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="TeX Gyre Bonum Math" fo:font-size="10pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+   <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="9pt" officeooo:rsid="0023912e" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P182" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="9pt" officeooo:rsid="0023912e" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P183" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Goudy Bookletter 1911" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
@@ -1077,19 +1077,19 @@
    <style:text-properties style:font-name="EB Garamond 12" fo:font-size="9pt" officeooo:rsid="00254fd1" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P185" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="IBM Plex Serif" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="EB Garamond 12" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P186" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Source Serif 4" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="IBM Plex Serif" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P187" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="TeX Gyre Bonum" fo:font-size="8pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:text-properties style:font-name="Source Serif 4" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P188" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="TeX Gyre Bonum" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="TeX Gyre Bonum" fo:font-size="8pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="P189" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="TeX Gyre Bonum" fo:font-size="10pt" officeooo:paragraph-rsid="00281aa3" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+   <style:text-properties style:font-name="TeX Gyre Bonum" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P190" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Noto Serif" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
@@ -1113,7 +1113,19 @@
    <style:text-properties style:font-name="TeX Gyre Schola Math" fo:font-size="8pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="P197" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="TeX Gyre Schola Math" fo:font-size="9pt" officeooo:paragraph-rsid="00281aa3" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P198" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="TeX Gyre Schola" fo:font-size="8pt" officeooo:paragraph-rsid="002bf8eb" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="P199" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="TeX Gyre Schola" fo:font-size="9pt" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P200" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ubuntu1" fo:font-size="9pt" officeooo:rsid="00254fd1" officeooo:paragraph-rsid="00254fd1" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P201" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ubuntu1" fo:font-size="8pt" officeooo:rsid="002c4acc" officeooo:paragraph-rsid="002c4acc" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties style:font-name="Iosevka Extrabold Extended" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Iosevka Extrabold Extended1" style:font-size-complex="12pt"/>
@@ -1653,43 +1665,43 @@
    <style:text-properties fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T180" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="002c4acc" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T181" style:family="text">
    <style:text-properties officeooo:rsid="002932eb"/>
   </style:style>
-  <style:style style:name="T182" style:family="text">
+  <style:style style:name="T181" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum"/>
   </style:style>
-  <style:style style:name="T183" style:family="text">
+  <style:style style:name="T182" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T184" style:family="text">
+  <style:style style:name="T183" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T185" style:family="text">
+  <style:style style:name="T184" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum" officeooo:rsid="00254fd1"/>
   </style:style>
-  <style:style style:name="T186" style:family="text">
+  <style:style style:name="T185" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Heros"/>
   </style:style>
-  <style:style style:name="T187" style:family="text">
+  <style:style style:name="T186" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Heros" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T188" style:family="text">
+  <style:style style:name="T187" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Heros" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T189" style:family="text">
+  <style:style style:name="T188" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Heros" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T190" style:family="text">
+  <style:style style:name="T189" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Heros" officeooo:rsid="00254fd1"/>
   </style:style>
-  <style:style style:name="T191" style:family="text">
+  <style:style style:name="T190" style:family="text">
    <style:text-properties officeooo:rsid="002a9c56"/>
   </style:style>
-  <style:style style:name="T192" style:family="text">
+  <style:style style:name="T191" style:family="text">
    <style:text-properties officeooo:rsid="002bf8eb"/>
+  </style:style>
+  <style:style style:name="T192" style:family="text">
+   <style:text-properties style:font-name="TeX Gyre Bonum Math" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T193" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum Math" fo:font-weight="normal" officeooo:rsid="002bf8eb" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
@@ -1806,541 +1818,559 @@
    <style:text-properties style:font-name="TeX Gyre Termes" officeooo:rsid="00254fd1"/>
   </style:style>
   <style:style style:name="T231" style:family="text">
-   <style:text-properties style:font-name="Goudy Bookletter 1911" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T232" style:family="text">
    <style:text-properties style:font-name="Goudy Bookletter 1911" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T233" style:family="text">
+  <style:style style:name="T232" style:family="text">
    <style:text-properties style:font-name="Goudy Bookletter 1911" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T234" style:family="text">
-   <style:text-properties style:font-name="Goudy Bookletter 1911" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T235" style:family="text">
+  <style:style style:name="T233" style:family="text">
    <style:text-properties style:font-name="Goudy Bookletter 1911" officeooo:rsid="00254fd1"/>
   </style:style>
-  <style:style style:name="T236" style:family="text">
-   <style:text-properties style:font-name="Goudy Bookletter 1911" officeooo:rsid="0025f91b"/>
-  </style:style>
-  <style:style style:name="T237" style:family="text">
+  <style:style style:name="T234" style:family="text">
    <style:text-properties style:font-name="Source Serif 42" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T238" style:family="text">
+  <style:style style:name="T235" style:family="text">
    <style:text-properties style:font-name="Source Serif 42" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T239" style:family="text">
+  <style:style style:name="T236" style:family="text">
    <style:text-properties style:font-name="Roboto Slab1" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T240" style:family="text">
+  <style:style style:name="T237" style:family="text">
    <style:text-properties style:font-name="Roboto Slab1" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T241" style:family="text">
+  <style:style style:name="T238" style:family="text">
    <style:text-properties style:font-name="Roboto Slab1" officeooo:rsid="00254fd1"/>
   </style:style>
-  <style:style style:name="T242" style:family="text">
+  <style:style style:name="T239" style:family="text">
    <style:text-properties style:font-name="Noto Serif" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T243" style:family="text">
+  <style:style style:name="T240" style:family="text">
    <style:text-properties style:font-name="Noto Serif" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T244" style:family="text">
+  <style:style style:name="T241" style:family="text">
    <style:text-properties style:font-name="Noto Serif" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T245" style:family="text">
+  <style:style style:name="T242" style:family="text">
    <style:text-properties style:font-name="Noto Serif" officeooo:rsid="00254fd1"/>
   </style:style>
-  <style:style style:name="T246" style:family="text">
+  <style:style style:name="T243" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Cursor"/>
   </style:style>
-  <style:style style:name="T247" style:family="text">
+  <style:style style:name="T244" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Cursor" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T248" style:family="text">
+  <style:style style:name="T245" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Cursor" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T249" style:family="text">
+  <style:style style:name="T246" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Adventor"/>
   </style:style>
-  <style:style style:name="T250" style:family="text">
+  <style:style style:name="T247" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Adventor" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T251" style:family="text">
+  <style:style style:name="T248" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Adventor" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T252" style:family="text">
+  <style:style style:name="T249" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Adventor" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T253" style:family="text">
+  <style:style style:name="T250" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Adventor" officeooo:rsid="00254fd1"/>
   </style:style>
-  <style:style style:name="T254" style:family="text">
+  <style:style style:name="T251" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Chorus" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T255" style:family="text">
+  <style:style style:name="T252" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Chorus" fo:font-weight="bold" officeooo:rsid="002a9c56" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T256" style:family="text">
+  <style:style style:name="T253" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Chorus" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T257" style:family="text">
+  <style:style style:name="T254" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Chorus" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T258" style:family="text">
+  <style:style style:name="T255" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Chorus" officeooo:rsid="00254fd1"/>
   </style:style>
-  <style:style style:name="T259" style:family="text">
+  <style:style style:name="T256" style:family="text">
    <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T260" style:family="text">
+  <style:style style:name="T257" style:family="text">
    <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T261" style:family="text">
+  <style:style style:name="T258" style:family="text">
    <style:text-properties style:font-name="Fira Code" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T262" style:family="text">
+  <style:style style:name="T259" style:family="text">
    <style:text-properties style:font-name="Fira Code" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T263" style:family="text">
+  <style:style style:name="T260" style:family="text">
    <style:text-properties style:font-name="Iosevka" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T264" style:family="text">
+  <style:style style:name="T261" style:family="text">
    <style:text-properties style:font-name="Iosevka" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T265" style:family="text">
+  <style:style style:name="T262" style:family="text">
    <style:text-properties style:font-name="Hack" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T266" style:family="text">
+  <style:style style:name="T263" style:family="text">
    <style:text-properties style:font-name="Hack" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T267" style:family="text">
-   <style:text-properties style:font-name="Hack" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T268" style:family="text">
+  <style:style style:name="T264" style:family="text">
    <style:text-properties style:font-name="Consolas1" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T269" style:family="text">
+  <style:style style:name="T265" style:family="text">
    <style:text-properties style:font-name="Consolas1" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T270" style:family="text">
+  <style:style style:name="T266" style:family="text">
    <style:text-properties style:font-name="Arial1" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-name-complex="Liberation Sans2"/>
   </style:style>
-  <style:style style:name="T271" style:family="text">
+  <style:style style:name="T267" style:family="text">
    <style:text-properties style:font-name="Arial1" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T272" style:family="text">
+  <style:style style:name="T268" style:family="text">
    <style:text-properties style:font-name="Liberation Sans1" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T273" style:family="text">
+  <style:style style:name="T269" style:family="text">
    <style:text-properties style:font-name="Liberation Sans1" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T274" style:family="text">
+  <style:style style:name="T270" style:family="text">
    <style:text-properties style:font-name="Liberation Sans1" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T275" style:family="text">
+  <style:style style:name="T271" style:family="text">
    <style:text-properties style:font-name="IBM Plex Sans1" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T276" style:family="text">
+  <style:style style:name="T272" style:family="text">
    <style:text-properties style:font-name="IBM Plex Sans1" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T277" style:family="text">
+  <style:style style:name="T273" style:family="text">
    <style:text-properties style:font-name="IBM Plex Sans1" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T278" style:family="text">
+  <style:style style:name="T274" style:family="text">
    <style:text-properties style:font-name="DejaVu Sans1" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T279" style:family="text">
+  <style:style style:name="T275" style:family="text">
    <style:text-properties style:font-name="DejaVu Sans1" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T280" style:family="text">
+  <style:style style:name="T276" style:family="text">
    <style:text-properties style:font-name="DejaVu Sans1" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="DejaVu Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T281" style:family="text">
+  <style:style style:name="T277" style:family="text">
    <style:text-properties style:font-name="DejaVu Sans1" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T282" style:family="text">
+  <style:style style:name="T278" style:family="text">
    <style:text-properties style:font-name="Nimbus Roman" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T283" style:family="text">
+  <style:style style:name="T279" style:family="text">
    <style:text-properties style:font-name="Nimbus Roman" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T284" style:family="text">
+  <style:style style:name="T280" style:family="text">
    <style:text-properties style:font-name="Nimbus Roman" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Palatino Linotype1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T285" style:family="text">
+  <style:style style:name="T281" style:family="text">
    <style:text-properties style:font-name="Nimbus Roman" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T286" style:family="text">
+  <style:style style:name="T282" style:family="text">
    <style:text-properties style:font-name="Inconsolata" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T287" style:family="text">
+  <style:style style:name="T283" style:family="text">
    <style:text-properties style:font-name="Inconsolata" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T288" style:family="text">
+  <style:style style:name="T284" style:family="text">
    <style:text-properties style:font-name="Inconsolata" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Palatino Linotype1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T289" style:family="text">
+  <style:style style:name="T285" style:family="text">
    <style:text-properties style:font-name="Inconsolata" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T290" style:family="text">
+  <style:style style:name="T286" style:family="text">
    <style:text-properties style:font-name="FreeMono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T291" style:family="text">
+  <style:style style:name="T287" style:family="text">
    <style:text-properties style:font-name="FreeMono" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T292" style:family="text">
+  <style:style style:name="T288" style:family="text">
    <style:text-properties style:font-name="FreeMono" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T293" style:family="text">
+  <style:style style:name="T289" style:family="text">
    <style:text-properties style:font-name="Mono Uralic" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T294" style:family="text">
+  <style:style style:name="T290" style:family="text">
    <style:text-properties style:font-name="Mono Uralic" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T295" style:family="text">
+  <style:style style:name="T291" style:family="text">
    <style:text-properties style:font-name="Mono Uralic" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Palatino Linotype1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T296" style:family="text">
+  <style:style style:name="T292" style:family="text">
    <style:text-properties style:font-name="Mono Uralic" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T297" style:family="text">
+  <style:style style:name="T293" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T298" style:family="text">
+  <style:style style:name="T294" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T299" style:family="text">
+  <style:style style:name="T295" style:family="text">
    <style:text-properties style:font-name="Carlito" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-name-asian="宋体" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T300" style:family="text">
+  <style:style style:name="T296" style:family="text">
    <style:text-properties style:font-name="Ubuntu"/>
   </style:style>
-  <style:style style:name="T301" style:family="text">
+  <style:style style:name="T297" style:family="text">
    <style:text-properties style:font-name="Ubuntu1" fo:font-size="11pt" officeooo:rsid="002bf8eb" style:font-size-asian="11pt" style:font-name-complex="Cormorant Garamond1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T302" style:family="text">
+  <style:style style:name="T298" style:family="text">
    <style:text-properties style:font-name="Ubuntu1" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T303" style:family="text">
+  <style:style style:name="T299" style:family="text">
    <style:text-properties officeooo:rsid="002c4acc"/>
   </style:style>
-  <style:style style:name="T304" style:family="text">
+  <style:style style:name="T300" style:family="text">
    <style:text-properties style:font-name="Ubuntu Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="T305" style:family="text">
+  <style:style style:name="T301" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123"/>
   </style:style>
-  <style:style style:name="T306" style:family="text">
+  <style:style style:name="T302" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T307" style:family="text">
+  <style:style style:name="T303" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T308" style:family="text">
+  <style:style style:name="T304" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" officeooo:rsid="0025f91b"/>
   </style:style>
-  <style:style style:name="T309" style:family="text">
+  <style:style style:name="T305" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T310" style:family="text">
+  <style:style style:name="T306" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T311" style:family="text">
+  <style:style style:name="T307" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-size="8pt" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T312" style:family="text">
+  <style:style style:name="T308" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-size="8pt" fo:font-weight="normal" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T313" style:family="text">
+  <style:style style:name="T309" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T314" style:family="text">
+  <style:style style:name="T310" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="T315" style:family="text">
+  <style:style style:name="T311" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-size="10pt" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="T316" style:family="text">
+  <style:style style:name="T312" style:family="text">
    <style:text-properties style:font-name="EB Garamond 123" fo:font-size="10pt" fo:font-weight="normal" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T317" style:family="text">
+  <style:style style:name="T313" style:family="text">
    <style:text-properties style:font-name="Baskerville Old Face"/>
   </style:style>
-  <style:style style:name="T318" style:family="text">
+  <style:style style:name="T314" style:family="text">
    <style:text-properties style:font-name="Baskerville Old Face" officeooo:rsid="0025f91b"/>
   </style:style>
-  <style:style style:name="T319" style:family="text">
+  <style:style style:name="T315" style:family="text">
    <style:text-properties style:font-name="Baskerville Old Face" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T320" style:family="text">
+  <style:style style:name="T316" style:family="text">
    <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T321" style:family="text">
+  <style:style style:name="T317" style:family="text">
    <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="8pt" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T322" style:family="text">
+  <style:style style:name="T318" style:family="text">
    <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T323" style:family="text">
+  <style:style style:name="T319" style:family="text">
    <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="T324" style:family="text">
+  <style:style style:name="T320" style:family="text">
    <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="10pt" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="T325" style:family="text">
+  <style:style style:name="T321" style:family="text">
    <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T326" style:family="text">
+  <style:style style:name="T322" style:family="text">
    <style:text-properties style:font-name="IBM Plex Serif2" officeooo:rsid="00254fd1"/>
   </style:style>
-  <style:style style:name="T327" style:family="text">
+  <style:style style:name="T323" style:family="text">
    <style:text-properties style:font-name="IBM Plex Serif2" officeooo:rsid="0025f91b"/>
   </style:style>
-  <style:style style:name="T328" style:family="text">
+  <style:style style:name="T324" style:family="text">
    <style:text-properties style:font-name="IBM Plex Serif2" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T329" style:family="text">
+  <style:style style:name="T325" style:family="text">
    <style:text-properties style:font-name="IBM Plex Serif2" fo:font-size="8pt" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T330" style:family="text">
+  <style:style style:name="T326" style:family="text">
    <style:text-properties style:font-name="IBM Plex Serif2" fo:font-size="8pt" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T331" style:family="text">
+  <style:style style:name="T327" style:family="text">
    <style:text-properties style:font-name="IBM Plex Serif2" fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T332" style:family="text">
+  <style:style style:name="T328" style:family="text">
    <style:text-properties style:font-name="IBM Plex Serif2" fo:font-size="10pt" officeooo:rsid="00254fd1" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="T333" style:family="text">
+  <style:style style:name="T329" style:family="text">
    <style:text-properties style:font-name="IBM Plex Serif2" fo:font-size="10pt" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="T334" style:family="text">
+  <style:style style:name="T330" style:family="text">
    <style:text-properties style:font-name="IBM Plex Serif2" fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T335" style:family="text">
+  <style:style style:name="T331" style:family="text">
    <style:text-properties style:font-name="Source Serif 41" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T336" style:family="text">
+  <style:style style:name="T332" style:family="text">
    <style:text-properties style:font-name="Source Serif 41" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T337" style:family="text">
+  <style:style style:name="T333" style:family="text">
    <style:text-properties style:font-name="Source Serif 41" fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T338" style:family="text">
+  <style:style style:name="T334" style:family="text">
    <style:text-properties style:font-name="Source Serif 41" fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T339" style:family="text">
+  <style:style style:name="T335" style:family="text">
    <style:text-properties style:font-name="Source Serif 41" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T340" style:family="text">
+  <style:style style:name="T336" style:family="text">
    <style:text-properties style:font-name="Source Serif 41" fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T341" style:family="text">
+  <style:style style:name="T337" style:family="text">
    <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T342" style:family="text">
+  <style:style style:name="T338" style:family="text">
    <style:text-properties fo:font-size="8pt" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T343" style:family="text">
+  <style:style style:name="T339" style:family="text">
    <style:text-properties fo:font-size="8pt" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T344" style:family="text">
-   <style:text-properties fo:font-size="8pt" officeooo:rsid="002932eb" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
-  </style:style>
-  <style:style style:name="T345" style:family="text">
+  <style:style style:name="T340" style:family="text">
    <style:text-properties fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T346" style:family="text">
+  <style:style style:name="T341" style:family="text">
    <style:text-properties fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="0023912e" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T347" style:family="text">
+  <style:style style:name="T342" style:family="text">
    <style:text-properties fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T348" style:family="text">
+  <style:style style:name="T343" style:family="text">
    <style:text-properties fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T349" style:family="text">
+  <style:style style:name="T344" style:family="text">
    <style:text-properties fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="002932eb" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T350" style:family="text">
+  <style:style style:name="T345" style:family="text">
    <style:text-properties fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="002a9c56" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T351" style:family="text">
+  <style:style style:name="T346" style:family="text">
    <style:text-properties fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T352" style:family="text">
+  <style:style style:name="T347" style:family="text">
+   <style:text-properties fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="002c4acc" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T348" style:family="text">
    <style:text-properties style:font-name="Noto Serif1" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T353" style:family="text">
+  <style:style style:name="T349" style:family="text">
    <style:text-properties style:font-name="Noto Serif1" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T354" style:family="text">
+  <style:style style:name="T350" style:family="text">
    <style:text-properties style:font-name="Noto Serif1" fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T355" style:family="text">
+  <style:style style:name="T351" style:family="text">
    <style:text-properties style:font-name="Noto Serif1" fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T356" style:family="text">
+  <style:style style:name="T352" style:family="text">
    <style:text-properties style:font-name="Noto Serif1" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T357" style:family="text">
+  <style:style style:name="T353" style:family="text">
    <style:text-properties style:font-name="Noto Serif1" fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T358" style:family="text">
+  <style:style style:name="T354" style:family="text">
    <style:text-properties style:font-name="Roboto Slab" fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="002932eb" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T359" style:family="text">
+  <style:style style:name="T355" style:family="text">
    <style:text-properties style:font-name="Roboto Slab" fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T360" style:family="text">
+  <style:style style:name="T356" style:family="text">
    <style:text-properties style:font-name="Roboto Slab" fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T361" style:family="text">
+  <style:style style:name="T357" style:family="text">
    <style:text-properties style:font-name="Roboto Slab" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T362" style:family="text">
+  <style:style style:name="T358" style:family="text">
    <style:text-properties style:font-name="Roboto Slab" fo:font-weight="bold" officeooo:rsid="002932eb" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T363" style:family="text">
+  <style:style style:name="T359" style:family="text">
    <style:text-properties style:font-name="Roboto Slab" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T364" style:family="text">
+  <style:style style:name="T360" style:family="text">
    <style:text-properties style:font-name="Roboto Slab" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="002932eb" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T365" style:family="text">
+  <style:style style:name="T361" style:family="text">
    <style:text-properties style:font-name="Roboto Slab" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T366" style:family="text">
+  <style:style style:name="T362" style:family="text">
    <style:text-properties style:font-name="Roboto Slab" fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T367" style:family="text">
+  <style:style style:name="T363" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="002932eb" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T368" style:family="text">
+  <style:style style:name="T364" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-size="8pt" officeooo:rsid="002932eb" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T369" style:family="text">
+  <style:style style:name="T365" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-size="8pt" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T370" style:family="text">
+  <style:style style:name="T366" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T371" style:family="text">
+  <style:style style:name="T367" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" officeooo:rsid="0025f91b"/>
   </style:style>
-  <style:style style:name="T372" style:family="text">
+  <style:style style:name="T368" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T373" style:family="text">
+  <style:style style:name="T369" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-weight="bold" officeooo:rsid="002932eb" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T374" style:family="text">
+  <style:style style:name="T370" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" officeooo:rsid="002932eb"/>
   </style:style>
-  <style:style style:name="T375" style:family="text">
+  <style:style style:name="T371" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="002932eb" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T376" style:family="text">
+  <style:style style:name="T372" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-size="10pt" officeooo:rsid="002932eb" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="T377" style:family="text">
+  <style:style style:name="T373" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-size="10pt" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="T378" style:family="text">
+  <style:style style:name="T374" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Bonum1" fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T379" style:family="text">
+  <style:style style:name="T375" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Termes1"/>
   </style:style>
-  <style:style style:name="T380" style:family="text">
+  <style:style style:name="T376" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Termes1" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T381" style:family="text">
+  <style:style style:name="T377" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Termes1" fo:font-size="8pt" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="T382" style:family="text">
+  <style:style style:name="T378" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Termes1" fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T383" style:family="text">
+  <style:style style:name="T379" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Termes1" officeooo:rsid="0025f91b"/>
   </style:style>
-  <style:style style:name="T384" style:family="text">
+  <style:style style:name="T380" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Termes1" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T385" style:family="text">
+  <style:style style:name="T381" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Termes1" fo:font-size="7pt" style:font-size-asian="7pt" style:font-size-complex="7pt"/>
   </style:style>
-  <style:style style:name="T386" style:family="text">
+  <style:style style:name="T382" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Termes1" fo:font-size="7pt" officeooo:rsid="0025f91b" style:font-size-asian="7pt" style:font-size-complex="7pt"/>
   </style:style>
-  <style:style style:name="T387" style:family="text">
+  <style:style style:name="T383" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Termes1" fo:font-size="7pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="7pt" style:font-weight-asian="normal" style:font-size-complex="7pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T388" style:family="text">
+  <style:style style:name="T384" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Pagella1" fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T389" style:family="text">
+  <style:style style:name="T385" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Pagella1" fo:font-size="8pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T390" style:family="text">
+  <style:style style:name="T386" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Pagella1" fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T391" style:family="text">
+  <style:style style:name="T387" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Pagella1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T392" style:family="text">
+  <style:style style:name="T388" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Pagella1" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T393" style:family="text">
+  <style:style style:name="T389" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Pagella1" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T394" style:family="text">
+  <style:style style:name="T390" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Pagella1" fo:font-size="7pt" fo:font-weight="bold" style:font-size-asian="7pt" style:font-weight-asian="bold" style:font-size-complex="7pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T395" style:family="text">
+  <style:style style:name="T391" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Pagella1" fo:font-size="7pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="7pt" style:font-weight-asian="bold" style:font-size-complex="7pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T396" style:family="text">
+  <style:style style:name="T392" style:family="text">
    <style:text-properties style:font-name="TeX Gyre Pagella1" fo:font-size="7pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="7pt" style:font-weight-asian="normal" style:font-size-complex="7pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T397" style:family="text">
+  <style:style style:name="T393" style:family="text">
    <style:text-properties fo:font-size="7pt" style:font-size-asian="7pt" style:font-size-complex="7pt"/>
   </style:style>
-  <style:style style:name="T398" style:family="text">
+  <style:style style:name="T394" style:family="text">
    <style:text-properties fo:font-size="7pt" officeooo:rsid="00254fd1" style:font-size-asian="7pt" style:font-size-complex="7pt"/>
   </style:style>
-  <style:style style:name="T399" style:family="text">
+  <style:style style:name="T395" style:family="text">
    <style:text-properties fo:font-size="7pt" fo:font-weight="bold" style:font-size-asian="7pt" style:font-weight-asian="bold" style:font-size-complex="7pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T400" style:family="text">
+  <style:style style:name="T396" style:family="text">
    <style:text-properties fo:font-size="7pt" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-size-asian="7pt" style:font-weight-asian="bold" style:font-size-complex="7pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T401" style:family="text">
+  <style:style style:name="T397" style:family="text">
    <style:text-properties fo:font-size="7pt" fo:font-weight="bold" officeooo:rsid="002a9c56" style:font-size-asian="7pt" style:font-weight-asian="bold" style:font-size-complex="7pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T402" style:family="text">
+  <style:style style:name="T398" style:family="text">
    <style:text-properties fo:font-size="7pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="7pt" style:font-weight-asian="normal" style:font-size-complex="7pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T403" style:family="text">
+  <style:style style:name="T399" style:family="text">
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T400" style:family="text">
    <style:text-properties fo:font-size="10pt" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
-  <style:style style:name="T404" style:family="text">
+  <style:style style:name="T401" style:family="text">
    <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T405" style:family="text">
+  <style:style style:name="T402" style:family="text">
    <style:text-properties fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0023912e" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T406" style:family="text">
+  <style:style style:name="T403" style:family="text">
    <style:text-properties fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T407" style:family="text">
+  <style:style style:name="T404" style:family="text">
    <style:text-properties fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00254fd1" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T408" style:family="text">
+  <style:style style:name="T405" style:family="text">
    <style:text-properties fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="002932eb" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T409" style:family="text">
+  <style:style style:name="T406" style:family="text">
+   <style:text-properties fo:font-size="10pt" fo:font-weight="normal" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T407" style:family="text">
    <style:text-properties fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T408" style:family="text">
+   <style:text-properties style:font-name="EB Garamond 08" fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T409" style:family="text">
+   <style:text-properties style:font-name="EB Garamond 08" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="002c4acc" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T410" style:family="text">
+   <style:text-properties style:font-name="EB Garamond 08" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T411" style:family="text">
+   <style:text-properties style:font-name="EB Garamond 08" fo:font-size="10pt" officeooo:rsid="0025f91b" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T412" style:family="text">
+   <style:text-properties style:font-name="EB Garamond 08" fo:font-size="10pt" fo:font-weight="normal" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T413" style:family="text">
+   <style:text-properties style:font-name="TeX Gyre Schola1" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="T414" style:family="text">
+   <style:text-properties style:font-name="TeX Gyre Schola1" fo:font-size="8pt" officeooo:rsid="0025f91b" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="T415" style:family="text">
+   <style:text-properties style:font-name="TeX Gyre Schola1" fo:font-size="8pt" fo:font-weight="normal" officeooo:rsid="00254fd1" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="1.27cm" fo:margin-left="1.27cm" fo:margin-right="1.27cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="42" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.423cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
@@ -2370,7 +2400,7 @@
    <text:p text:style-name="P109"/>
    <text:p text:style-name="P29"><text:span text:style-name="T34">Arial</text:span><text:span text:style-name="T11"> <text:s text:c="19"/></text:span><text:span text:style-name="T13">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P30"><text:s text:c="28"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
-   <text:p text:style-name="P2"><text:span text:style-name="T107"><text:s text:c="28"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T108">+-</text:span><text:span text:style-name="T271">ºª÷©°®</text:span><text:span text:style-name="T5"> <text:s text:c="10"/></text:span><text:span text:style-name="T5"/></text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T107"><text:s text:c="28"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T108">+-</text:span><text:span text:style-name="T267">ºª÷©°®</text:span><text:span text:style-name="T5"> <text:s text:c="10"/></text:span><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="P13"><text:span text:style-name="T11">&gt;</text:span><text:span text:style-name="T12"> </text:span><text:span text:style-name="T13">Liberation Sans abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P16"><text:s text:c="29"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P15"><text:span text:style-name="T13">0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T15">+-</text:span><text:span text:style-name="T41">ºª÷©°®</text:span></text:p>
@@ -2410,7 +2440,6 @@
    <text:p text:style-name="P63"><text:s text:c="13"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P64"><text:s text:c="13"/>0123456789 áéíóú üñ </text:p>
    <text:p text:style-name="P62"><text:span text:style-name="T13"><text:s text:c="13"/>|@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T15">+-</text:span><text:span text:style-name="T41">ºª÷©°®</text:span></text:p>
-   <text:p text:style-name="P169"><text:s/></text:p>
    <text:p text:style-name="P66"><text:span text:style-name="T23">&gt; </text:span><text:span text:style-name="T24">Inconsolata </text:span><text:span text:style-name="T14">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P70"><text:s text:c="14"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P71"><text:s text:c="14"/>0123456789 áéíóú üñ </text:p>
@@ -2423,8 +2452,8 @@
    <text:p text:style-name="P77"><text:s text:c="17"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P76"><text:span text:style-name="T13"><text:s text:c="17"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; <text:s/></text:span><text:span text:style-name="T15">+-</text:span><text:span text:style-name="T41">ºª÷©°®</text:span></text:p>
    <text:p text:style-name="P8"/>
-   <text:p text:style-name="P5"><text:soft-page-break/><text:span text:style-name="T55">Cambria <text:s/></text:span><text:span text:style-name="T54"><text:s text:c="26"/></text:span><text:span text:style-name="T54"/></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T10">&gt; </text:span><text:span text:style-name="T56">Caladea</text:span><text:span text:style-name="T56"/></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T55">Cambria <text:s/></text:span><text:span text:style-name="T54"><text:s text:c="26"/></text:span><text:span text:style-name="T54"/></text:p>
+   <text:p text:style-name="P5"><text:soft-page-break/><text:span text:style-name="T10">&gt; </text:span><text:span text:style-name="T56">Caladea</text:span><text:span text:style-name="T56"/></text:p>
    <text:p text:style-name="P9"/>
    <text:p text:style-name="P5"><text:span text:style-name="T57">Comic Sans MS</text:span><text:span text:style-name="T10"> <text:s text:c="9"/></text:span><text:span text:style-name="T10"/></text:p>
    <text:p text:style-name="P5"><text:span text:style-name="T10"><text:s/>&gt; </text:span><text:span text:style-name="T58">Comic Neue</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T10"/></text:p>
@@ -2469,13 +2498,13 @@
    <text:p text:style-name="Standard"><text:span text:style-name="T97">Baskerville Old Face</text:span><text:span text:style-name="T96"> <text:s text:c="10"/></text:span><text:span text:style-name="T96"/></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="T96">&gt; <text:s/></text:span><text:span text:style-name="T99">Goudy Bookletter 1911</text:span><text:span text:style-name="T100"/></text:p>
    <text:p text:style-name="P117"/>
-   <text:p text:style-name="P164"><text:span text:style-name="T301">Entre las siguientes fuentes monoespaciadas “JetBrains Mono, Fira Code, Iosevka” tiene ligaduras. </text:span><text:span text:style-name="T302">Las </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T302">ligaduras </text:span></text:span><text:span text:style-name="T302">en el contexto del desarrollo de software y la tipografía son combinaciones especiales de caracteres que se unen visualmente para formar un solo glifo (símbolo). Estas ligaduras están diseñadas para mejorar la legibilidad y la estética del texto, especialmente en entornos donde se trabaja con código fuente:</text:span></text:p>
+   <text:p text:style-name="P164"><text:span text:style-name="T297">Entre las siguientes fuentes monoespaciadas “JetBrains Mono, Fira Code, Iosevka” tiene ligaduras. </text:span><text:span text:style-name="T298">Las </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T298">ligaduras </text:span></text:span><text:span text:style-name="T298">en el contexto del desarrollo de software y la tipografía son combinaciones especiales de caracteres que se unen visualmente para formar un solo glifo (símbolo). Estas ligaduras están diseñadas para mejorar la legibilidad y la estética del texto, especialmente en entornos donde se trabaja con código fuente:</text:span></text:p>
    <text:p text:style-name="P118"/>
    <text:p text:style-name="P79"><text:span text:style-name="T40">&gt; Consolas</text:span><text:span text:style-name="T26"> </text:span><text:span text:style-name="T13">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P80"><text:s text:c="9"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P81"><text:s text:c="9"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿? </text:p>
-   <text:p text:style-name="P171"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
-   <text:p text:style-name="P164"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">||</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">|&gt; &lt;|</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">?.</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">??</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">+=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">-=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">*=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">/=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">%=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">&amp;=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">|=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">^=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">::</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">..</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T269"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T268">//</text:span></text:span></text:p>
+   <text:p text:style-name="P170"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
+   <text:p text:style-name="P164"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">||</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">|&gt; &lt;|</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">?.</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">??</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">+=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">-=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">*=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">/=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">%=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">&amp;=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">|=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">^=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">::</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">..</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T264">//</text:span></text:span></text:p>
    <text:p text:style-name="P82"><text:soft-page-break/><text:span text:style-name="T149"><text:s/></text:span><text:span text:style-name="T150">JetBrains Mono</text:span><text:span text:style-name="T147"> </text:span><text:span text:style-name="T145">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P85"><text:s text:c="18"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P119"><text:span text:style-name="T145"><text:s text:c="18"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿? </text:span><text:span text:style-name="T104"/></text:p>
@@ -2485,86 +2514,72 @@
    <text:p text:style-name="P88"><text:s text:c="19"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P90"><text:s text:c="19"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?</text:p>
    <text:p text:style-name="P90"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
-   <text:p text:style-name="P91"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">||</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">|&gt; &lt;|</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">?.</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">??</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">+=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">-=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">*=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">/=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">%=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">&amp;=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">|=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">^=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">::</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">..</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">...</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T259">//</text:span></text:span></text:p>
+   <text:p text:style-name="P91"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">||</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">|&gt; &lt;|</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">?.</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">??</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">+=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">-=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">*=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">/=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">%=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">&amp;=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">|=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">^=</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">::</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">..</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">...</text:span></text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T256">//</text:span></text:span></text:p>
    <text:p text:style-name="P93"><text:span text:style-name="T32"><text:s/></text:span><text:span text:style-name="T37">Fira Code</text:span><text:span text:style-name="T32"> </text:span><text:span text:style-name="T13">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P94"><text:s text:c="12"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P95"><text:s text:c="12"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿? </text:p>
-   <text:p text:style-name="P177"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
-   <text:p text:style-name="P164"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">||</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">|&gt; &lt;|</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">?.</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">??</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">+=</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">-=</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">*=</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">/=</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">%=</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">&amp;=</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">|=</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">^=</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">::</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">..</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">...</text:span></text:span><text:span text:style-name="T262"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T261">//</text:span></text:span></text:p>
+   <text:p text:style-name="P176"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
+   <text:p text:style-name="P164"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">||</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">|&gt; &lt;|</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">?.</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">??</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">+=</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">-=</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">*=</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">/=</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">%=</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">&amp;=</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">|=</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">^=</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">::</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">..</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">...</text:span></text:span><text:span text:style-name="T259"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T258">//</text:span></text:span></text:p>
    <text:p text:style-name="P108"><text:span text:style-name="T30"><text:s/></text:span><text:span text:style-name="T39">Hack</text:span><text:span text:style-name="T30"> </text:span><text:span text:style-name="T13">abcdefghijklmnopqrstuvwxyz</text:span></text:p>
    <text:p text:style-name="P105"><text:s text:c="7"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P107"><text:s text:c="7"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿? </text:p>
    <text:p text:style-name="P107"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
-   <text:p text:style-name="P91"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">||</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">|&gt; &lt;|</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">?.</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">??</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">+=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">-=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">*=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">/=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">%=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">&amp;=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">|=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">^=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">::</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">..</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T266"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T265">//</text:span></text:span></text:p>
+   <text:p text:style-name="P91"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">||</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">|&gt; &lt;|</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">?.</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">??</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">+=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">-=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">*=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">/=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">%=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">&amp;=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">|=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">^=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">::</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">..</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T262">//</text:span></text:span></text:p>
    <text:p text:style-name="P98"><text:span text:style-name="T32"><text:s/></text:span><text:span text:style-name="T38">Iosevka</text:span><text:span text:style-name="T30"> </text:span><text:span text:style-name="T13">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P99"><text:s text:c="10"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P100"><text:s text:c="10"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?</text:p>
-   <text:p text:style-name="P179"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
-   <text:p text:style-name="P91"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">||</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">|&gt; &lt;|</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">?.</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">??</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">+=</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">-=</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">*=</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">/=</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">%=</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">&amp;=</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">|=</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">^=</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">::</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">..</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">...</text:span></text:span><text:span text:style-name="T264"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263">//</text:span></text:span></text:p>
-   <text:p text:style-name="P87"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T304"/></text:span></text:p>
-   <text:p text:style-name="P176"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T263"/></text:span></text:p>
+   <text:p text:style-name="P178"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
+   <text:p text:style-name="P91"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">||</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">|&gt; &lt;|</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">?.</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">??</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">+=</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">-=</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">*=</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">/=</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">%=</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">&amp;=</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">|=</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">^=</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">::</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">..</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">...</text:span></text:span><text:span text:style-name="T261"> </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260">//</text:span></text:span></text:p>
+   <text:p text:style-name="P87"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T300"/></text:span></text:p>
+   <text:p text:style-name="P175"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T260"/></text:span></text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P162">Fuentes <text:span text:style-name="T303">Serif </text:span>con ligaduras:</text:p>
-   <text:p text:style-name="P163"/>
-   <text:p text:style-name="P127"><text:span text:style-name="T151">Baskerville Old Face </text:span>The office affiliate had a flashy flight plan.</text:p>
-   <text:p text:style-name="P122"><text:span text:style-name="T151">EB Garamond 12 </text:span>The office affiliate had a flashy flight plan.</text:p>
-   <text:p text:style-name="P130"><text:span text:style-name="T151">Goudy Bookletter 1911 </text:span>The office affiliate had a flashy flight plan.</text:p>
-   <text:p text:style-name="P119"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T156"/></text:span></text:p>
-   <text:p text:style-name="P164"><text:span text:style-name="Strong_20_Emphasis"/></text:p>
-   <text:p text:style-name="P130"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T341"/></text:span></text:p>
-   <text:p text:style-name="P182"><text:span text:style-name="T404">Baskerville Old Face</text:span><text:span text:style-name="T323"> </text:span><text:span text:style-name="T324"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T325">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
-   <text:p text:style-name="P182"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T325"><text:s text:c="36"/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P182"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T325"><text:s text:c="36"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
-   <text:p text:style-name="P182"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T325"><text:s text:c="36"/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
-   <text:p text:style-name="P184"><text:span text:style-name="T313">EB Garamond 12 </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T314"><text:s/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T315"><text:s/>“</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T316">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
-   <text:p text:style-name="P184"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T316"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P184"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T316"><text:s text:c="36"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
-   <text:p text:style-name="P184"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T316"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span><text:span text:style-name="T267"/></text:p>
-   <text:p text:style-name="P183"><text:span text:style-name="T405">Goudy Bookletter </text:span><text:span text:style-name="T406">1911</text:span><text:span text:style-name="T403"> “</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T409">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
-   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T409"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T409"><text:s text:c="29"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
-   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T409"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
-   <text:p text:style-name="P185"><text:span text:style-name="T407">IBM Plex Serif</text:span><text:span text:style-name="T332"> </text:span><text:span text:style-name="T333"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T334">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
-   <text:p text:style-name="P185"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T334"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P185"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T334"><text:s text:c="31"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
-   <text:p text:style-name="P185"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T334"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T332"><text:s/></text:span></text:span></text:p>
-   <text:p text:style-name="P186"><text:span text:style-name="T407">Source Serif 4 </text:span><text:span text:style-name="T339"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T340">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
-   <text:p text:style-name="P186"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T340"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T340"><text:s text:c="29"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
-   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T340"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
-   <text:p text:style-name="P190"><text:span text:style-name="T406">Noto</text:span><text:span text:style-name="T407"> Serif </text:span><text:span text:style-name="T356"><text:s text:c="6"/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T357">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
-   <text:p text:style-name="P190"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T357"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P190"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T357"><text:s text:c="26"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
-   <text:p text:style-name="P190"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T357"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
-   <text:p text:style-name="P191"><text:span text:style-name="T408">Roboto Slab</text:span><text:span text:style-name="T364"> </text:span><text:span text:style-name="T365"><text:s text:c="3"/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T366">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
-   <text:p text:style-name="P191"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T366"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P191"><text:soft-page-break/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T366"><text:s text:c="28"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
-   <text:p text:style-name="P191"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T366"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
-   <text:p text:style-name="P188"><text:span text:style-name="T408">TeX Gyre Bonu</text:span><text:span text:style-name="T375">m</text:span><text:span text:style-name="T376"> </text:span><text:span text:style-name="T377"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T378">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
-   <text:p text:style-name="P188"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T378"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P188"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T378"><text:s text:c="22"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios nuestro </text:span></text:span></text:p>
-   <text:p text:style-name="P188"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T378"><text:tab/><text:tab/>permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
-   <text:p text:style-name="P181"/>
-   <text:p text:style-name="P189"/>
-   <text:p text:style-name="P192"><text:span text:style-name="T345">TeX Gyre</text:span><text:span text:style-name="T388"> Pagella </text:span><text:span text:style-name="T389"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T390">No fiéis en palabras de mentira, diciendo: Templo de Jehová, templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P192"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T390"><text:s text:c="27"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
-   <text:p text:style-name="P147"><text:span text:style-name="T345">TeX Gyre Cursor</text:span><text:span text:style-name="T341"> </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">“Lámpara es a mis pies tu palabra,</text:span></text:span><text:span text:style-name="T351">Y lumbrera a mi camino.”</text:span><text:span text:style-name="T161"> </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">Salmos 119:105</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T160"> </text:span></text:span></text:p>
-   <text:p text:style-name="P149"><text:span text:style-name="T345">TeX Gyre Heros</text:span><text:span text:style-name="T341"> </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">“Lámpara es a mis pies tu palabra,</text:span></text:span><text:span text:style-name="T351">Y lumbrera a mi camino.”</text:span><text:span text:style-name="T348"> </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">Salmos 119:105</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T343"> </text:span></text:span></text:p>
-   <text:p text:style-name="P194"><text:span text:style-name="T345">TeX Gyre Termes</text:span><text:span text:style-name="T380"> </text:span><text:span text:style-name="T381"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T382">No fiéis en palabras de mentira, diciendo: Templo de Jehová, templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P194"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T382"><text:s text:c="36"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
-   <text:p text:style-name="P153"><text:span text:style-name="T345">TeX Gyre Adventor</text:span><text:span text:style-name="T341"> </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">“Lámpara es a mis pies tu palabra,</text:span></text:span><text:span text:style-name="T351">Y lumbrera a mi camino.”</text:span><text:span text:style-name="T348"> </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">Salmos 119:105</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T343"> </text:span></text:span></text:p>
-   <text:p text:style-name="P155"><text:span text:style-name="T345">TeX Gyre </text:span><text:span text:style-name="T350">Sc</text:span><text:span text:style-name="T345">ho</text:span><text:span text:style-name="T350">la</text:span><text:span text:style-name="T341"> </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">“Lámpara es a mis pies tu palabra,</text:span></text:span><text:span text:style-name="T351">Y lumbrera a mi camino.”</text:span><text:span text:style-name="T348"> </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">Salmos 119:105</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T343"> </text:span></text:span></text:p>
-   <text:p text:style-name="P157"><text:span text:style-name="T345">TeX Gyre </text:span><text:span text:style-name="T350">Chorus </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">“Lámpara es a mis pies tu palabra,</text:span></text:span><text:span text:style-name="T351">Y lumbrera a mi camino.”</text:span><text:span text:style-name="T348"> </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T351">Salmos 119:105</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T343"> </text:span></text:span></text:p>
-   <text:p text:style-name="P180"><text:span text:style-name="T174">TeX Gyre Bonum </text:span><text:span text:style-name="T175">Math <text:s text:c="2"/>| </text:span><text:span text:style-name="T178">x = √(b² – 4ac) | ∫_0^π | ∇ × F = 0 | 2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">+O</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">→2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">O </text:span></text:p>
-   <text:p text:style-name="P187"><text:span text:style-name="T174">TeX Gyre Bonum</text:span><text:span text:style-name="T181"> <text:s text:c="10"/></text:span><text:span text:style-name="T175">| </text:span><text:span text:style-name="T178">x = √(b² – 4ac) | ∫_0^π | ∇ × F = 0 | 2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">+O</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">→2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">O</text:span><text:span text:style-name="T193"> </text:span><text:span text:style-name="T181"><text:s text:c="6"/></text:span></text:p>
-   <text:p text:style-name="P196"><text:span text:style-name="T170">TeX Gyre Schola </text:span><text:span text:style-name="T175">Math <text:s text:c="6"/>| </text:span><text:span text:style-name="T178">x = √(b² – 4ac) | ∫_0^π | ∇ × F = 0 | 2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">+O</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">→2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">O </text:span><text:span text:style-name="T175"><text:s text:c="2"/></text:span><text:s/></text:p>
-   <text:p text:style-name="P197"><text:span text:style-name="T175">TeX Gyre Schola</text:span><text:span text:style-name="T192"> <text:s text:c="12"/></text:span><text:span text:style-name="T175">| </text:span><text:span text:style-name="T178">x = √(b² – 4ac) | ∫_0^π | ∇ × F = 0 | 2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">+O</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">→2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">O </text:span><text:span text:style-name="T192"><text:s text:c="3"/></text:span></text:p>
-   <text:p text:style-name="P197"><text:span text:style-name="T206">TeX Gyre DevaVu Math</text:span><text:span text:style-name="T207"> </text:span><text:span text:style-name="T206">| </text:span><text:span text:style-name="T208">x = √(b² – 4ac) | ∫_0^π | ∇ × F = 0 | 2H</text:span><text:span text:style-name="T195">2</text:span><text:span text:style-name="T208">+O</text:span><text:span text:style-name="T195">2</text:span><text:span text:style-name="T208">→2H</text:span><text:span text:style-name="T195">2</text:span><text:span text:style-name="T208">O</text:span><text:span text:style-name="T178"> </text:span></text:p>
-   <text:p text:style-name="P193"><text:span text:style-name="T209">TeX Gyre Pagella </text:span><text:span text:style-name="T210">Math <text:s text:c="4"/></text:span><text:span text:style-name="T209"><text:s text:c="2"/></text:span><text:span text:style-name="T211">| </text:span><text:span text:style-name="T212">x = √(b² – 4ac) | ∫_0^π | ∇ × F = 0 | 2H</text:span><text:span text:style-name="T196">2</text:span><text:span text:style-name="T212">+O</text:span><text:span text:style-name="T196">2</text:span><text:span text:style-name="T212">→2H</text:span><text:span text:style-name="T196">2</text:span><text:span text:style-name="T212">O</text:span><text:span text:style-name="T193"> </text:span></text:p>
-   <text:p text:style-name="P193">TeX Gyre Pagella <text:s text:c="16"/><text:span text:style-name="T175">| </text:span><text:span text:style-name="T178">x = √(b² – 4ac) | ∫_0^π | ∇ × F = 0 | 2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">+O</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">→2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">O</text:span><text:span text:style-name="T193"> </text:span></text:p>
-   <text:p text:style-name="P195"><text:span text:style-name="T220">TeX Gyre Termes</text:span><text:span text:style-name="T219"> </text:span><text:span text:style-name="T222">Math <text:s text:c="8"/></text:span><text:span text:style-name="T221">| </text:span><text:span text:style-name="T223">x = √(b² – 4ac) | ∫_0^π | ∇ × F = 0 | 2H</text:span><text:span text:style-name="T198">2</text:span><text:span text:style-name="T223">+O</text:span><text:span text:style-name="T198">2</text:span><text:span text:style-name="T223">→2H</text:span><text:span text:style-name="T198">2</text:span><text:span text:style-name="T223">O</text:span><text:span text:style-name="T193"> </text:span></text:p>
-   <text:p text:style-name="P195"><text:span text:style-name="T170">TeX Gyre Termes</text:span> <text:s text:c="16"/><text:span text:style-name="T175">| </text:span><text:span text:style-name="T178">x = √(b² – 4ac) | ∫_0^π | ∇ × F = 0 | 2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">+O</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">→2H</text:span><text:span text:style-name="T194">2</text:span><text:span text:style-name="T178">O</text:span><text:span text:style-name="T193"> </text:span></text:p>
+   <text:p text:style-name="P200">Fuentes <text:span text:style-name="T299">Serif </text:span>con ligaduras <text:span text:style-name="T299">en fi fl </text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Strong_20_Emphasis"/></text:p>
+   <text:p text:style-name="P130"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T337"/></text:span></text:p>
+   <text:p text:style-name="P181"><text:span text:style-name="T401">Baskerville Old Face</text:span><text:span text:style-name="T319"> </text:span><text:span text:style-name="T320"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T321">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
+   <text:p text:style-name="P181"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T321"><text:s text:c="36"/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
+   <text:p text:style-name="P181"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T321"><text:s text:c="36"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
+   <text:p text:style-name="P181"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T321"><text:s text:c="36"/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
+   <text:p text:style-name="P184"><text:span text:style-name="T309">EB Garamond 12 </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T309"><text:s/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T311"><text:s/>“</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T312">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
+   <text:p text:style-name="P184"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T312"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
+   <text:p text:style-name="P184"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T312"><text:s text:c="36"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
+   <text:p text:style-name="P184"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T312"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
+   <text:p text:style-name="P184"><text:span text:style-name="T408">EB Garamond </text:span><text:span text:style-name="T409">08</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T410"> </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T411"><text:s/>“</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T412">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
+   <text:p text:style-name="P184"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T412"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
+   <text:p text:style-name="P184"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T412"><text:s text:c="36"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
+   <text:p text:style-name="P184"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T412"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
+   <text:p text:style-name="P183"><text:span text:style-name="T402">Goudy Bookletter </text:span><text:span text:style-name="T403">1911</text:span><text:span text:style-name="T400"> “</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T407">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
+   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T407"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
+   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T407"><text:s text:c="29"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
+   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T407"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
+   <text:p text:style-name="P186"><text:span text:style-name="T404">IBM Plex Serif</text:span><text:span text:style-name="T328"> </text:span><text:span text:style-name="T329"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T330">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
+   <text:p text:style-name="P186"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T330"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
+   <text:p text:style-name="P186"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T330"><text:s text:c="31"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
+   <text:p text:style-name="P186"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T330"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T328"><text:s/></text:span></text:span></text:p>
+   <text:p text:style-name="P187"><text:span text:style-name="T404">Source Serif 4 </text:span><text:span text:style-name="T335"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T336">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
+   <text:p text:style-name="P187"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T336"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
+   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T336"><text:s text:c="29"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
+   <text:p text:style-name="P183"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T336"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
+   <text:p text:style-name="P190"><text:span text:style-name="T403">Noto</text:span><text:span text:style-name="T404"> Serif </text:span><text:span text:style-name="T352"><text:s text:c="6"/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T353">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
+   <text:p text:style-name="P190"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T353"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
+   <text:p text:style-name="P190"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T353"><text:s text:c="26"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
+   <text:p text:style-name="P190"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T353"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
+   <text:p text:style-name="P191"><text:span text:style-name="T405">Roboto Slab</text:span><text:span text:style-name="T360"> </text:span><text:span text:style-name="T361"><text:s text:c="3"/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T362">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
+   <text:p text:style-name="P191"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T362"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
+   <text:p text:style-name="P191"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T362"><text:s text:c="28"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
+   <text:p text:style-name="P191"><text:soft-page-break/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T362"><text:tab/><text:tab/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
+   <text:p text:style-name="P189"><text:span text:style-name="T405">TeX Gyre Bonu</text:span><text:span text:style-name="T371">m</text:span><text:span text:style-name="T372"> </text:span><text:span text:style-name="T373"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T374">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
+   <text:p text:style-name="P189"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T374"><text:tab/><text:tab/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
+   <text:p text:style-name="P189"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T374"><text:s text:c="22"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios nuestro </text:span></text:span></text:p>
+   <text:p text:style-name="P189"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T374"><text:tab/><text:tab/>permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
+   <text:p text:style-name="P195"><text:span text:style-name="T193"/></text:p>
+   <text:p text:style-name="P195"><text:span text:style-name="T193"/></text:p>
+   <text:p text:style-name="P201"><text:span text:style-name="T178">E</text:span><text:span text:style-name="T177">n inglés:</text:span></text:p>
    <text:p text:style-name="P160"/>
+   <text:p text:style-name="P182"><text:span text:style-name="T151">Baskerville Old Face </text:span>The office affiliate had a flashy flight plan.</text:p>
+   <text:p text:style-name="P185"><text:span text:style-name="T151">EB Garamond 12 </text:span>The office affiliate had a flashy flight plan.</text:p>
+   <text:p text:style-name="P183"><text:span text:style-name="T151">Goudy Bookletter 1911 </text:span>The office affiliate had a flashy flight plan <text:span text:style-name="T299">find flame life </text:span>.</text:p>
+   <text:p text:style-name="P180"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T156"/></text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
