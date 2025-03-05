@@ -27,7 +27,7 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 
 ---
 
-**Notas Adicionales**: En Windows, Garamond  no es una fuente nativa estándar (a menos que se instale manualmente), pero Book Antiqua  es su equivalente más cercano en Office. 
+**Notas Adicionales**: En Windows, Garamond no es una fuente nativa estándar (a menos que la instale manualmente), Book Antiqua es su equivalente más cercano en Office. Si en Windows tiene Usted instalada la fuente Garamond (por ejemplo, desde Adobe Fonts), EB Garamond es la mejor alternativa libre.
 
 ### **Consejos de uso:**
 
