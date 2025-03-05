@@ -7,19 +7,19 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 |   **Fuente de Windows**    |                         **Alternativa de Software Libre**                          |                    **Uso Común en Documentos**                     |                                      **Notas**                                       |
 | -------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | **Arial**                  | **Liberation Sans** / **IBM plex Sans** /  **Dejavu Sans**                         | Cuerpo de texto, títulos, subtítulos                               | Fuente sans-serif estándar y versátil.                                               |
-| **Times New Roman**        | **Liberation Serif** / **Nimbus Roman** / **IBM plex serif**                       | Cuerpo de texto, informes formales, libros                         | Fuente serif clásica para documentos profesionales.                                  |
+| **Times New Roman**        | **Liberation Serif** / **Nimbus Roman** / **IBM plex serif** / **DejaVu Serif**    | Cuerpo de texto, informes formales, libros                         | Fuente serif clásica para documentos profesionales.                                  |
 | **Courier New**            | **FreeMono** / **Mono Uralic** / **Inconsolata**                                   | Código, documentos técnicos, textos monoespaciados                 | Fuente monoespaciada usada en programación y tabulación.                             |
 | **Calibri**                | **Carlito**                                                                        | Cuerpo de texto, presentaciones                                    | Fuente moderna y legible.                                                            |
 | **Cambria**                | **Caladea**                                                                        | Cuerpo de texto, informes formales                                 | Similar a Times New Roman, con mejor legibilidad en pantalla.                        |
 | **Comic Sans MS**          | **Comic Neue** /                                                                   | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada.                                                          |
 | **Verdana**                | **Cantarell**                                                                      | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
-| **Georgia**                | **Source Serif 4** / **TeXGyreTermes**  / **BPG Gorda GPL&GNU**                    | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
+| **Georgia**                | **Source Serif 4** / **TeXGyreTermes** / **BPG Gorda GPL&GNU**                     | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
 | **Trebuchet MS**           | **BPG Ingiri GPL&GNU**                                                             | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
 | **Impact**                 | **Anton** / **Oswald**                                                             | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
 | **Tahoma**                 | **TeXGyreHeros**                                                                   | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
 | **Palatino Linotype**      | **TeXGyrePagella** / **Pallatio Uralic**                                           | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
-| **Book Antiqua**           | **EB Garamond 12**, **EB Garamond 08**, **EB Garamond ALL SC**                     | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
-| **Franklin Gothic Medium** | **Libre Franklin Medium**                                                          | Títulos, carteles, encabezados                                     | Fuente sans-serif gruesa con estilo fuerte.                                          |
+| **Book Antiqua**           | **EB Garamond 12 (08, ALL SC)** / **EB Garamond**                                  | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
+| **Franklin Gothic Book**   | **Libre Franklin**                                                                 | Títulos, carteles, encabezados                                     | Fuente sans-serif gruesa con estilo fuerte.                                          |
 | **Century Gothic**         | **URW Gothic**                                                                     | Títulos modernos, diseño gráfico                                   | Diseño limpio y futurista.                                                           |
 | **Rockwell**               | **Slabo 27px** / **Arvo**                                                          | Títulos con impacto visual                                         | Alternativas de estilo slab-serif.                                                   |
 | **Baskerville**            | **Goudy Bookletter 1911**                                                          | Cuerpo de texto en documentos clásicos y elegantes                 | Fuente con excelente legibilidad impresa.                                            |
@@ -145,9 +145,27 @@ Si quieres ver, activar o desactivar fuentes fácilmente, instala **Font Manager
 ```bash
 sudo apt install fontmatrix
 ```
-Luego ábrelo desde el menú y revisa tus fuentes instaladas.
+Luego ábrelo desde el menú y revisa tus fuentes instaladas. 
+
+Si las fuentes no se ven bien, debes configurar las fuentes visibles
+
+Da clic en:
+
+Edit > Preferences
+
+Da clic en:
+
+Display > Default font size
+
+y pon ejemplo:
+
+10
+
+este número es un ejemplo y depende de cómo se vean las fuentes en tu monitor. Dda clic en Close y además cierra Fontmatrix y vuelvelo a abrir y se verá el cambio:
+
+https://facilitarelsoftwarelibre.blogspot.com/2025/02/instalar-fontmatrix-y-configurarlo-en-debian-12.html
 
 ---
 
 ### Consejos adicionales:
-- **Evita usar fuentes exóticas** Si compartes documentos con usuarios de Windows sólo usa fuentes de Windows.
+- **Evita usar fuentes que no son de Windows en documentos para Windows** Si compartes documentos con usuarios de Windows sólo usa fuentes de Windows.

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2025-02-17T12:06:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:language>es-EC</dc:language><dc:date>2025-03-03T22:38:48.878040710</dc:date><meta:editing-cycles>4</meta:editing-cycles><meta:editing-duration>PT29M38S</meta:editing-duration><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="19" meta:word-count="145" meta:character-count="1097" meta:non-whitespace-character-count="670"/><meta:user-defined meta:name="AppVersion">15.0000</meta:user-defined><meta:user-defined meta:name="KSOProductBuildVer">1033-11.1.0.11723</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><meta:creation-date>2025-02-17T12:06:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:language>es-EC</dc:language><dc:date>2025-03-05T10:05:37.924600876</dc:date><meta:editing-cycles>6</meta:editing-cycles><meta:editing-duration>PT44M52S</meta:editing-duration><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="19" meta:word-count="139" meta:character-count="1071" meta:non-whitespace-character-count="644"/><meta:user-defined meta:name="AppVersion">15.0000</meta:user-defined><meta:user-defined meta:name="KSOProductBuildVer">1033-11.1.0.11723</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">16722</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">10160</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">34159</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">13972</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">22514</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">21294</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15891</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">17478</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">16722</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">10160</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">34158</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">30692</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">24130</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -90,7 +90,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1282140</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1296101</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -199,6 +199,8 @@
   <style:font-face style:name="EB Garamond 121" svg:font-family="&apos;EB Garamond 12&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Fira Code" svg:font-family="&apos;Fira Code&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Fira Code1" svg:font-family="&apos;Fira Code&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Franklin Gothic" svg:font-family="&apos;Franklin Gothic&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Franklin Gothic Book" svg:font-family="&apos;Franklin Gothic Book&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Franklin Gothic Medium" svg:font-family="&apos;Franklin Gothic Medium&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Franklin Gothic Medium1" svg:font-family="&apos;Franklin Gothic Medium&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="FreeMono" svg:font-family="FreeMono" style:font-family-generic="roman" style:font-pitch="variable"/>
@@ -229,6 +231,7 @@
   <style:font-face style:name="Liberation Sans1" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Serif1" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Libre Franklin" svg:font-family="&apos;Libre Franklin&apos;" style:font-pitch="variable"/>
   <style:font-face style:name="Libre Franklin Medium" svg:font-family="&apos;Libre Franklin Medium&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Libre Franklin Medium1" svg:font-family="&apos;Libre Franklin Medium&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -274,13 +277,13 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="es" fo:country="EC" style:letter-kerning="false" style:font-name-asian="宋体" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="page"/>
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="es" fo:country="EC" style:letter-kerning="false" style:font-name-asian="宋体" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -423,14 +426,17 @@
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Cormorant Garamond" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Cormorant Garamond1" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0013905c"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
    <style:text-properties officeooo:paragraph-rsid="0010db81"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0013905c"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -566,67 +572,88 @@
    <style:text-properties style:font-name="EB Garamond 12" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="EB Garamond 121" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties style:font-name="EB Garamond 08" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="EB Garamond 081" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="EB Garamond 12" fo:font-size="11pt" officeooo:rsid="0013c6e5" style:font-size-asian="11pt" style:font-name-complex="EB Garamond 121" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties style:font-name="EB Garamond 12 All SC" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="EB Garamond 12 All SC1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="EB Garamond 08" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="EB Garamond 081" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties style:font-name="Noto Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Noto Mono1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="EB Garamond 12 All SC" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="EB Garamond 12 All SC1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties style:font-name="Franklin Gothic Medium" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Franklin Gothic Medium1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="EB Garamond 12 All SC" fo:font-size="11pt" officeooo:rsid="0013c6e5" style:font-size-asian="11pt" style:font-name-complex="EB Garamond 12 All SC1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties style:font-name="Libre Franklin Medium" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Libre Franklin Medium1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Noto Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Noto Mono1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties style:font-name="Century Gothic" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Century Gothic1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Franklin Gothic Medium" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Franklin Gothic Medium1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties style:font-name="URW Gothic" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="URW Gothic1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Franklin Gothic Medium" fo:font-size="11pt" officeooo:rsid="0013c6e5" style:font-size-asian="11pt" style:font-name-complex="Franklin Gothic Medium1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties style:font-name="Rockwell" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Rockwell1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Libre Franklin Medium" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Libre Franklin Medium1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties style:font-name="Slabo 27px" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Slabo 27px1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Century Gothic" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Century Gothic1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties style:font-name="Arvo" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Arvo1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="URW Gothic" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="URW Gothic1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Baskerville Old Face1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Rockwell" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Rockwell1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties style:font-name="Goudy Bookletter 1911" fo:font-size="11pt" style:font-name-asian="DotGothic16" style:font-size-asian="11pt" style:font-name-complex="Goudy Bookletter 19111" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Slabo 27px" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Slabo 27px1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties style:font-name="Cormorant Garamond SemiBold" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Cormorant Garamond SemiBold1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Arvo" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Arvo1" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties style:font-name="Cormorant Garamond" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Cormorant Garamond1" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Baskerville Old Face" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Baskerville Old Face1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties style:font-name="Consolas" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Consolas1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Goudy Bookletter 1911" fo:font-size="11pt" style:font-name-asian="DotGothic16" style:font-size-asian="11pt" style:font-name-complex="Goudy Bookletter 19111" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties style:font-name="JetBrains Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="JetBrains Mono1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Cormorant Garamond SemiBold" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Cormorant Garamond SemiBold1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties style:font-name="IBM Plex Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="IBM Plex Mono1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Cormorant Garamond" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Cormorant Garamond1" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="DejaVu Sans Mono1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Consolas" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Consolas1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties style:font-name="Iosevka" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Iosevka1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="JetBrains Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="JetBrains Mono1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties style:font-name="Hack" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Hack1" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="IBM Plex Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="IBM Plex Mono1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
+   <style:text-properties style:font-name="DejaVu Sans Mono" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="DejaVu Sans Mono1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T66" style:family="text">
+   <style:text-properties style:font-name="Iosevka" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Iosevka1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T67" style:family="text">
+   <style:text-properties style:font-name="Hack" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Hack1" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T68" style:family="text">
    <style:text-properties style:font-name="DejaVu Serif" fo:font-size="11pt" officeooo:rsid="00215161" style:font-size-asian="11pt" style:font-name-complex="IBM Plex Serif1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T69" style:family="text">
+   <style:text-properties style:font-name="Libre Franklin" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Libre Franklin Medium1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T70" style:family="text">
+   <style:text-properties style:font-name="Franklin Gothic" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Franklin Gothic Medium1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T71" style:family="text">
+   <style:text-properties style:font-name="Franklin Gothic Book" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Franklin Gothic Medium1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties style:font-name="Franklin Gothic Book" fo:font-size="11pt" officeooo:rsid="0013c6e5" style:font-size-asian="11pt" style:font-name-complex="Franklin Gothic Medium1" style:font-size-complex="11pt"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="1.905cm" fo:margin-right="1.905cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="38" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.423cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
@@ -656,7 +683,7 @@
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P1"><text:span text:style-name="T4">Arial <text:s text:c="27"/>&gt;</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T5">Liberation Sans</text:span><text:span text:style-name="T3"> &gt; </text:span><text:span text:style-name="T6">IBM plex Sans <text:s/>&gt; </text:span><text:span text:style-name="T7">Dejavu Sans</text:span><text:span text:style-name="T8"/></text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P2"><text:span text:style-name="T9">Times New Roman <text:s text:c="7"/>&gt; </text:span><text:span text:style-name="T10">Liberation Serif &gt; </text:span><text:span text:style-name="T11">Nimbus Roman &gt; </text:span><text:span text:style-name="T12">IBM plex Serif </text:span><text:span text:style-name="T65">&gt; DejaVu Serif</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T9">Times New Roman <text:s text:c="7"/>&gt; </text:span><text:span text:style-name="T10">Liberation Serif &gt; </text:span><text:span text:style-name="T11">Nimbus Roman &gt; </text:span><text:span text:style-name="T12">IBM plex Serif </text:span><text:span text:style-name="T68">&gt; DejaVu Serif</text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P1"><text:span text:style-name="T13">Courier New <text:s text:c="4"/>&gt;</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T16">FreeMono <text:s/>&gt; </text:span><text:span text:style-name="T17">Mono Uralic &gt; </text:span><text:span text:style-name="T18">Inconsolata </text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P3"/>
@@ -678,17 +705,17 @@
    <text:p text:style-name="P5"/>
    <text:p text:style-name="Standard"><text:span text:style-name="T3">Palatino Linotype <text:s text:c="10"/>&gt; </text:span><text:span text:style-name="T40">TeXGyrePagella &gt; </text:span><text:span text:style-name="T41">Pallatio Uralic</text:span><text:span text:style-name="T41"/></text:p>
    <text:p text:style-name="P10"/>
-   <text:p text:style-name="P1"><text:span text:style-name="T42">Book Antiqua </text:span><text:span text:style-name="T43"><text:s text:c="14"/>&gt; </text:span><text:span text:style-name="T44">EB Garamond 12 &gt; <text:s/></text:span><text:span text:style-name="T45">EB Garamond 08 &gt; </text:span><text:span text:style-name="T46">EB Garamond ALL SC</text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T42">Book Antiqua </text:span><text:span text:style-name="T43"><text:s text:c="14"/>&gt; </text:span><text:span text:style-name="T44">EB Garamond 12 </text:span><text:span text:style-name="T45">(</text:span><text:span text:style-name="T46">08, </text:span><text:span text:style-name="T47">ALL SC</text:span><text:span text:style-name="T48">) </text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P11"/>
-   <text:p text:style-name="P1"><text:span text:style-name="T48">Franklin Gothic Medium</text:span><text:span text:style-name="T9"> <text:s text:c="2"/>&gt; </text:span><text:span text:style-name="T49">Libre Franklin Medium</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P1"><text:span text:style-name="T71">Franklin Gothic </text:span><text:span text:style-name="T72">Book <text:s text:c="2"/></text:span><text:span text:style-name="T9"><text:s text:c="3"/>&gt; <text:s/></text:span><text:span text:style-name="T69">Libre Franklin <text:s/>&gt; <text:s/></text:span><text:span text:style-name="T9"/></text:p>
    <text:p text:style-name="P12"/>
-   <text:p text:style-name="Standard"><text:span text:style-name="T50">Century Gothic <text:s text:c="12"/>&gt; <text:s/></text:span><text:span text:style-name="T51">URW Gothic </text:span><text:span text:style-name="T51"/></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T53">Century Gothic <text:s text:c="12"/>&gt; <text:s/></text:span><text:span text:style-name="T54">URW Gothic </text:span><text:span text:style-name="T54"/></text:p>
    <text:p text:style-name="P13"/>
-   <text:p text:style-name="Standard"><text:span text:style-name="T52">Rockwell</text:span><text:span text:style-name="T14"> <text:s text:c="10"/>&gt; </text:span><text:span text:style-name="T53">Slabo 27px </text:span><text:span text:style-name="T15"><text:s/></text:span><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T54">Arvo</text:span><text:span text:style-name="T14"/></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T55">Rockwell</text:span><text:span text:style-name="T14"> <text:s text:c="10"/>&gt; </text:span><text:span text:style-name="T56">Slabo 27px </text:span><text:span text:style-name="T15"><text:s/></text:span><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T57">Arvo</text:span><text:span text:style-name="T14"/></text:p>
    <text:p text:style-name="P12"/>
-   <text:p text:style-name="Standard"><text:span text:style-name="T55">Baskerville Old Face <text:s text:c="10"/>&gt; <text:s/></text:span><text:span text:style-name="T56">Goudy Bookletter 1911</text:span><text:span text:style-name="T57"/></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="T58">Baskerville Old Face <text:s text:c="10"/>&gt; <text:s/></text:span><text:span text:style-name="T59">Goudy Bookletter 1911</text:span><text:span text:style-name="T60"/></text:p>
    <text:p text:style-name="P14"/>
-   <text:p text:style-name="P17"><text:span text:style-name="T59">Consolas <text:s text:c="2"/>&gt;</text:span><text:span text:style-name="T51"> <text:s/></text:span><text:span text:style-name="T60">JetBrains Mono</text:span><text:span text:style-name="T61"> &gt; </text:span><text:span text:style-name="T62">DejaVu Sans Mono &gt;</text:span><text:span text:style-name="T33"> Fira Code</text:span><text:span text:style-name="T62"> &gt; Hack </text:span><text:span text:style-name="T33">&gt; </text:span><text:span text:style-name="T63">Iosevka</text:span><text:span text:style-name="T62"/></text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T62">Consolas <text:s text:c="2"/>&gt;</text:span><text:span text:style-name="T54"> <text:s/></text:span><text:span text:style-name="T63">JetBrains Mono</text:span><text:span text:style-name="T64"> &gt; </text:span><text:span text:style-name="T65">DejaVu Sans Mono &gt;</text:span><text:span text:style-name="T33"> Fira Code</text:span><text:span text:style-name="T65"> &gt; Hack </text:span><text:span text:style-name="T33">&gt; </text:span><text:span text:style-name="T66">Iosevka</text:span><text:span text:style-name="T65"/></text:p>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="Standard"/>
   </office:text>
