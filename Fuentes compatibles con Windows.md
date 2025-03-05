@@ -18,7 +18,7 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Impact**                 | **Anton** / **Oswald**                                                             | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
 | **Tahoma**                 | **TeXGyreHeros**                                                                   | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
 | **Palatino Linotype**      | **TeXGyrePagella** / **Pallatio Uralic**                                           | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
-| **Book Antiqua**           | **EB Garamond 12 (08, ALL SC)** / **EB Garamond**                                  | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
+| **Book Antiqua             | **EB Garamond (08, 12, SC)** / **EB Garamond**                                     | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
 | **Franklin Gothic Book**   | **Libre Franklin**                                                                 | Títulos, carteles, encabezados                                     | Fuente sans-serif gruesa con estilo fuerte.                                          |
 | **Century Gothic**         | **URW Gothic**                                                                     | Títulos modernos, diseño gráfico                                   | Diseño limpio y futurista.                                                           |
 | **Rockwell**               | **Slabo 27px** / **Arvo**                                                          | Títulos con impacto visual                                         | Alternativas de estilo slab-serif.                                                   |
@@ -26,6 +26,8 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Consolas**               | **JetBrains Mono** / **DejaVu Sans Mono** / **Fira Code** / **Hack** / **Iosevka** | Código de programación, terminales, documentos técnicos            | Consolas es monoespaciada, sus alternativas tienen soporte para ligaduras de código. |
 
 ---
+
+**Notas Adicionales**: En Windows, Garamond  no es una fuente nativa estándar (a menos que se instale manualmente), pero Book Antiqua  es su equivalente más cercano en Office. 
 
 ### **Consejos de uso:**
 
@@ -73,8 +75,8 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-cantarell =** Canatarell
 **fonts-texgyre =** TeXGyrePagella, TeXGyreHeros, TeXGyreTermes 
 fonts-texgyre-math
-**fonts-ebgaramond =** EB Garamond 12, 
-**fonts-ebgaramond-extra =** EB Garamond 12,  EB Garamond 08, EB Garamond ALL SC
+**fonts-ebgaramond =** EB Garamond (08, 12) 
+**fonts-ebgaramond-extra =** EB Garamond SC (08, 12), EB Garamond 12 All SC, EB Garamond Initials (Fill1 Fill2)
 **fonts-ibm-plex =** IBM Plex Sans, IBM plex Serif 
 **fonts-hack =** Hack
 **fonts-inconsolata =** Inconsolata
@@ -84,7 +86,6 @@ fonts-texgyre-math
 **fonts-comic-neue =** Comic Neue
 **fonts-goudybookletter =** Goudy Bookletter 1911
 
-
 ---
 
 ### **📌 Instalación manual desde Google Fonts**
@@ -93,6 +94,9 @@ Algunas fuentes como no están en los repositorios, pero puedes descargarlas des
 
 **Slavo 27px → Alternativa a Rockwell**
 [https://fonts.google.com/specimen/Slabo+27px](https://fonts.google.com/specimen/Slabo+27px)
+
+**EB Garamond → Alternativa a Garamond**
+https://fonts.google.com/specimen/EB+Garamond
 
 **Libre Franklin → Alternativa a  Franklin Gothic**
 [https://fonts.google.com/specimen/Libre+Franklin](https://fonts.google.com/specimen/Libre+Franklin)
@@ -141,7 +145,7 @@ fc-list | grep "Carlito"
 ---
 
 ### **📌 Opcional: Instalar una GUI para gestionar fuentes**
-Si quieres ver, activar o desactivar fuentes fácilmente, instala **Font Manager**:  
+Si quieres ver, activar o desactivar fuentes fácilmente, instala **Fontmatrix**:  
 ```bash
 sudo apt install fontmatrix
 ```
