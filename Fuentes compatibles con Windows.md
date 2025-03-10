@@ -6,8 +6,8 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | **Arial**                | **Liberation Sans** / **Nimbus Sans** / **IBM plex Sans** /  **Dejavu Sans**                                            | Cuerpo de texto, títulos, subtítulos                               | Fuente sans-serif estándar y versátil.                                               |
 | **Times New Roman**      | **Liberation Serif** / **Nimbus Roman** / **IBM plex serif** / **DejaVu Serif** / **URW Bookman** / **C059** / **P052** | Cuerpo de texto, informes formales, libros                         | Fuente serif clásica para documentos profesionales.                                  |
-| **Courier New**          | **FreeMono** / **Mono Uralic** / **Inconsolata**                                                                        | Código, documentos técnicos, textos monoespaciados                 | Fuente monoespaciada usada en programación y tabulación.                             |
-| **Calibri**              | **Carlito**                                                                                                             | Cuerpo de texto, presentaciones                                    | Fuente moderna y legible.                                                            |
+| **Courier New**          | **FreeMono** / **DejaVu Sans Mono** / **Liberation Mono** / **Inconsolata**                                             | Código, documentos técnicos, textos monoespaciados                 | Fuente monoespaciada usada en programación y tabulación.                             |
+| **Calibri**              | **Carlito** / **Lato**                                                                                                  | Cuerpo de texto, presentaciones                                    | Fuente moderna y legible.                                                            |
 | **Cambria**              | **Caladea**                                                                                                             | Cuerpo de texto, informes formales                                 | Similar a Times New Roman, con mejor legibilidad en pantalla.                        |
 | **Comic Sans MS**        | **Comic Neue** /                                                                                                        | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada.                                                          |
 | **Verdana**              | **Cantarell**                                                                                                           | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
@@ -21,7 +21,7 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Century Gothic**       | **URW Gothic**                                                                                                          | Títulos modernos, diseño gráfico                                   | Diseño limpio y futurista.                                                           |
 | **Rockwell**             | **Slabo 27px** / **Arvo**                                                                                               | Títulos con impacto visual                                         | Alternativas de estilo slab-serif.                                                   |
 | **Baskerville**          | **Goudy Bookletter 1911**                                                                                               | Cuerpo de texto en documentos clásicos y elegantes                 | Fuente con excelente legibilidad impresa.                                            |
-| **Consolas**             | **JetBrains Mono** / **DejaVu Sans Mono** / **Fira Code** / **Hack** / **Iosevka**                                      | Código de programación, terminales, documentos técnicos            | Consolas es monoespaciada, sus alternativas tienen soporte para ligaduras de código. |
+| **Consolas**             | **JetBrains Mono** / **DejaVu Sans Mono** / **Fira Code** / **Hack** / **Iosevka** / **Victor Mono** /**** /****     | Código de programación, terminales, documentos técnicos            | Consolas es monoespaciada, sus alternativas tienen soporte para ligaduras de código. |
 
 
 **Notas Adicionales**: En Windows, Garamond no es una fuente nativa estándar (a menos que la instale manualmente), Book Antiqua es su equivalente más cercano en Office. Si en Windows tiene Usted instalada la fuente Garamond (por ejemplo, desde Adobe Fonts), EB Garamond es la mejor alternativa libre.
@@ -107,6 +107,15 @@ https://fonts.google.com/specimen/EB+Garamond
 
 **Source Serif 4 → Alternativa a Georgia**
 [https://fonts.google.com/specimen/Source+Serif+4](https://fonts.google.com/specimen/Source+Serif+4)
+
+**Lato → Alternativa a Calibri**
+[https://fonts.google.com/specimen/Lato](https://fonts.google.com/specimen/Lato)
+
+https://fonts.google.com/specimen/Victor+Mono
+
+https://fonts.google.com/specimen/Fragment+Mono
+
+https://fonts.google.com/specimen/Geist+Mono
 
 **Iosevka → Alternativa a Consolas**
 [https://github.com/be5invis/Iosevka/releases](https://github.com/be5invis/Iosevka/releases)
