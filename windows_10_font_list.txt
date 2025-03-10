@@ -1,4 +1,6 @@
-
+Windows 10 font list
+06/16/2022
+https://learn.microsoft.com/en-us/typography/fonts/windows_10_font_list
 
 Arial
 Arial Black
