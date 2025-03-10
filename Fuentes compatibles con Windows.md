@@ -111,10 +111,13 @@ https://fonts.google.com/specimen/EB+Garamond
 **Lato → Alternativa a Calibri**
 [https://fonts.google.com/specimen/Lato](https://fonts.google.com/specimen/Lato)
 
-Victor Mono
+Red Hat Text → Alternativa a Verdana
+https://fonts.google.com/specimen/Red+Hat+Text?
+
+Victor Mono → Alternativa a Consolas
 https://fonts.google.com/specimen/Victor+Mono
 
-Fragment Mono
+Fragment Mono → Alternativa a Consolas
 https://fonts.google.com/specimen/Fragment+Mono
 
 **Iosevka → Alternativa a Consolas**
