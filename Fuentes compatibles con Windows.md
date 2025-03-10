@@ -1,4 +1,3 @@
-
 # Alternativa a fuentes tipográficas privativas de microsoft
 La siguiente es una tabla donde están indicandos los usos típicos en documentos de fuentes tipográficas alternativas a las privativas de microsoft:
 
@@ -29,7 +28,7 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 
 **Notas Adicionales**: En Windows, Garamond no es una fuente nativa estándar (a menos que la instale manualmente), Book Antiqua es su equivalente más cercano en Office. Si en Windows tiene Usted instalada la fuente Garamond (por ejemplo, desde Adobe Fonts), EB Garamond es la mejor alternativa libre.
 
-### **Consejos de uso:**
+## Resumen de consejos de uso de fuentes en documentos:
 
 Uso de fuentes tipográficas no privativas en Documentos:
 
@@ -53,16 +52,16 @@ Estas fuentes vienen preinstaladas en Windows y se usan ampliamente en documento
 
 ---
 
-### **📌 Instalación de las fuentes libres en Linux (Debian/MX Linux/Ubuntu)**
+## 📌 Instalación de las fuentes libres desde repositorios Linux (Debian/MX Linux/Ubuntu, etc)
 Instala las fuentes libres directamente desde los repositorios con este comando:  
 
 ```bash
 sudo apt install fonts-liberation fonts-freefont-ttf fonts-crosextra-carlito \
     fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode \
     fonts-jetbrains-mono fonts-texgyre fonts-texgyre-math fonts-ebgaramond \
-    fonts-ibm-plex fonts-hack fonts-inconsolata fonts-uralic \
+    fonts-ebgaramond-extra fonts-hack fonts-inconsolata fonts-uralic \
     fonts-urw-base35 fonts-bpg-georgian fonts-comic-neue \
-    fonts-goudybookletter fonts-ebgaramond-extra
+    fonts-goudybookletter fonts-ibm-plex 
 ```
 
 Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con diferentes tipos y diferentes nombres:
@@ -76,7 +75,7 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-texgyre =** TeXGyrePagella, TeXGyreHeros, TeXGyreTermes 
 fonts-texgyre-math
 **fonts-ebgaramond =** EB Garamond (08, 12) 
-**fonts-ebgaramond-extra =** EB Garamond SC (08, 12), EB Garamond 12 All SC, EB Garamond Initials (Fill1 Fill2)
+**fonts-ebgaramond-extra =** EB Garamond SC (08, 12), EB Garamond 12 All SC, EB Garamond Initials (Fill1 Fill2) [Estas fuentes uselas si va a escribir fórmulas matemáticas]
 **fonts-ibm-plex =** IBM Plex Sans, IBM plex Serif 
 **fonts-hack =** Hack
 **fonts-inconsolata =** Inconsolata
@@ -88,8 +87,8 @@ fonts-texgyre-math
 
 ---
 
-### **📌 Instalación manual desde Google Fonts**
-Algunas fuentes como no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
+## 📌 Instalación manual desde Google Fonts
+Algunas fuentes no están en los repositorios, pero puedes descargarlas desde [Google Fonts](https://fonts.google.com/):  
 1. Busca la fuente y descárgala (`.zip` con archivos `.ttf` o `.otf`).  
 
 **Slavo 27px → Alternativa a Rockwell**
@@ -114,26 +113,95 @@ https://fonts.google.com/specimen/EB+Garamond
 [https://fonts.google.com/specimen/Source+Serif+4](https://fonts.google.com/specimen/Source+Serif+4)
 
 **Iosevka → Alternativa a Consolas**
-https://github.com/be5invis/Iosevka/releases
-Ejemplo:
-https://github.com/be5invis/Iosevka/releases/download/v32.5.0/PkgTTF-Iosevka-32.5.0.zip
+[https://github.com/be5invis/Iosevka/releases](https://github.com/be5invis/Iosevka/releases)
+Ejemplo de archivo zip descargado en Febrero 2025:
+[https://github.com/be5invis/Iosevka/releases/download/v32.5.0/PkgTTF-Iosevka-32.5.0.zip](https://github.com/be5invis/Iosevka/releases/download/v32.5.0/PkgTTF-Iosevka-32.5.0.zip)
 
+### Cómo instalar las fuentes de Fonts Google en Linux
 2. Extrae los archivos en `~/.fonts/` (para usuario actual) o en `/usr/share/fonts/` (para todos los usuarios).  
-3. Refresca la caché de fuentes con:  
+3. Para que el programa en el que está usando las fuentes pueda reconocer las nuevas instaladas, debe cerrar el programa y volverlo a abrir.
+
+Además también si desea puede refresca la caché de fuentes con:  
 ```bash
 fc-cache -fv
 ```
 ---
 
-3. **Fuentes TrueType de Windows** (Si tienes una copia de Windows)
-   - Copia los archivos de fuentes (`.ttf`) desde `C:\Windows\Fonts` a `~/.local/share/fonts/` o `/usr/share/fonts/` en Linux.
+## Cómo instalar Fuentes TrueType de Windows en Linux
+
+Si tienes una copia de Windows puedes entrar en la sesión de Windows y copiar las fuentes ubicadas en:
+
+ `C:\Windows\Fonts`
+
+y pegarlas en un pendrive una carpeta creada con tal fin.
+
+También si tienes Dual Boot o si usas un Pendrive con Linux portable puedes Inicia sesión en Linux y Copia los archivos de fuentes (`.ttf`) desde `C:\Windows\Fonts` a `~/.local/share/fonts/` o `/usr/share/fonts/` en Linux.
+
+La mayoría de las fuentes que has copiado desde Windows 10 **funcionarán en Linux Debian**, pero hay algunas consideraciones importantes según el formato de los archivos:
+
+---
+
+### 1. Formatos compatibles en Linux:
+   - **TTF (TrueType Font)**: Sí, son totalmente compatibles.
+   - **OTF (OpenType Font)**: También son compatibles.
+   - **TTC (TrueType Collection)**: Son archivos que contienen múltiples fuentes en un solo archivo. Linux puede manejarlos, pero a veces requieren herramientas como `fontforge` para extraer las fuentes individuales y que funcionen.
+   - **FON (Windows Bitmap Font)**: **No son compatibles directamente**. Son fuentes bitmap antiguas de Windows y no funcionarán bien en Linux (ej: `app850.fon`, `coure.fon`, `modern.fon`, `roman.fon`, `script.fon`, `smalle.fon`, `sserife.fon`, `vga850.fon`, `vgafix.fon`, `vgasys.fon`).
+
+---
+
+### 2. Fuentes que NO funcionarán bien o requieren conversión:
+   - Los archivos `.fon` (como `app850.fon`, `coure.fon`, etc.) **no son útiles en Linux**. Estas fuentes son específicas de Windows y no se renderizan correctamente en entornos Linux modernos.
+   - Algunos archivos `.ttc` (como `cambria.ttc`, `mingliub.ttc`, etc.) pueden requerir extracción de sus componentes con herramientas como `fontforge` para usarlos individualmente.
+
+---
+
+### 3. Pasos para instalar las fuentes en Debian:
+   - **Crea un directorio para las fuentes** (por ejemplo, en tu home) Para ver los archivos ocultos usa Ctrl + H para ver los archivos ocultos:
+
+.fonts/windows_fonts
+ 
+   - **Copia todos los archivos TTF, OTF y TTC** a este directorio:
+
+puedes hacerlo con tu administrador de archivos favorito
+
+   - **Ignora los archivos `.fon`**, ya que no funcionarán, o borralos después.
+  
+   - **Actualiza la caché de fuentes (opcional)**:
+     ```bash
+     fc-cache -fv
+     ```
+Es opcional pues los programas después de cerrarlos y abrirlos otra vez reconocerán las fuentes nuevas.
+
+---
+
+### 4. Verificación:
+   - Usa herramientas como `gnome-font-viewer`,  `fontmatrix` o `font-manager` para confirmar que las fuentes se reconocen.
+  
+---
+
+### 5. Notas adicionales:
+   - **Licencias**: Algunas fuentes de Windows (como Calibri, Cambria, Segoe UI) son propiedad de Microsoft.
+   - **Fuentes TTC**: Si necesitas extraer fuentes individuales de un archivo `.ttc`, instala `fontforge`:
+     ```bash
+     sudo apt install fontforge
+     ```
+     Luego ábrelo, carga el `.ttc` y guárdalas como archivos `.ttf` separados.
+
+---
+
+### Resumen:
+- **Funcionarán**: Todos los archivos `.ttf`, `.otf` y algunos `.ttc` (con herramientas).
+- **No funcionarán**: Los archivos `.fon`
+- **Recomendación**: Elimina los archivos `.fon` y usa las fuentes TTF/OTF restantes.
+
+
    - Luego actualiza la caché de fuentes con:
     ```bash
     fc-cache -fv
     ```
 ---
 
-### **📌 Verificar que las fuentes están instaladas**
+### 📌 Verificar que las fuentes están instaladas
 Después de instalar, puedes comprobar si una fuente está disponible con:  
 ```bash
 fc-list | grep "NombreFuente"
@@ -144,7 +212,7 @@ fc-list | grep "Carlito"
 ```
 ---
 
-### **📌 Opcional: Instalar una GUI para gestionar fuentes**
+### 📌 Opcional: Instalar una GUI para gestionar fuentes
 Si quieres ver, activar o desactivar fuentes fácilmente, instala **Fontmatrix**:  
 ```bash
 sudo apt install fontmatrix
@@ -155,21 +223,21 @@ Si las fuentes no se ven bien, debes configurar las fuentes visibles
 
 Da clic en:
 
-Edit > Preferences
+**Edit > Preferences**
 
 Da clic en:
 
-Display > Default font size
+**Display > Default font size**
 
 y pon ejemplo:
 
-10
+**10**
 
 este número es un ejemplo y depende de cómo se vean las fuentes en tu monitor. Dda clic en Close y además cierra Fontmatrix y vuelvelo a abrir y se verá el cambio:
 
-https://facilitarelsoftwarelibre.blogspot.com/2025/02/instalar-fontmatrix-y-configurarlo-en-debian-12.html
+[https://facilitarelsoftwarelibre.blogspot.com/2025/02/instalar-fontmatrix-y-configurarlo-en-debian-12.html](https://facilitarelsoftwarelibre.blogspot.com/2025/02/instalar-fontmatrix-y-configurarlo-en-debian-12.html)
 
 ---
 
 ### Consejos adicionales:
-- **Evita usar fuentes que no son de Windows en documentos para Windows** Si compartes documentos con usuarios de Windows sólo usa fuentes de Windows.
+- Si compartes documentos con usuarios de Windows sólo usa fuentes de Windows para asegurarte que se abran en otro ordenador, ejemplo cuando una persona está haciendo una tesis y debe compartir archivos con otros estudiantes, o cuando vas a hacer imprimir algún archivo de diseño gráfico como puede ser un .svg convertido en pdf y lo lleves a hacer imprimir a una imprenta. O cualquier archivo que lo vayas a habrir en otro ordenador cerciorate que la fuente esté allí también o llevala en un pendrive e instalalas en ese ordenador para que se puedan visualizar.
