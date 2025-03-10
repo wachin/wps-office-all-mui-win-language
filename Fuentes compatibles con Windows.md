@@ -1,4 +1,13 @@
 # Alternativa a fuentes tipográficas privativas de microsoft
+Microsoft tiene una lista de las fuentes tipográficas en su Sistema Operativo, en:
+
+**Windows 10 font list**
+[https://learn.microsoft.com/en-us/typography/fonts/windows_10_font_list](https://learn.microsoft.com/en-us/typography/fonts/windows_10_font_list)
+
+Para Windows 10 están:
+
+
+
 La siguiente es una tabla donde están indicandos los usos típicos en documentos de fuentes tipográficas alternativas a las privativas de microsoft:
 
 
