@@ -111,11 +111,11 @@ https://fonts.google.com/specimen/EB+Garamond
 **Lato → Alternativa a Calibri**
 [https://fonts.google.com/specimen/Lato](https://fonts.google.com/specimen/Lato)
 
+Victor Mono
 https://fonts.google.com/specimen/Victor+Mono
 
+Fragment Mono
 https://fonts.google.com/specimen/Fragment+Mono
-
-https://fonts.google.com/specimen/Geist+Mono
 
 **Iosevka → Alternativa a Consolas**
 [https://github.com/be5invis/Iosevka/releases](https://github.com/be5invis/Iosevka/releases)
