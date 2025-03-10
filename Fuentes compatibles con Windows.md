@@ -114,14 +114,14 @@ https://fonts.google.com/specimen/EB+Garamond
 
 **Iosevka → Alternativa a Consolas**
 [https://github.com/be5invis/Iosevka/releases](https://github.com/be5invis/Iosevka/releases)
-Ejemplo de archivo zip descargado en Febrero 2025:
+Ejemplo de archivo zip que contiene las fuentes en .ttf:
 [https://github.com/be5invis/Iosevka/releases/download/v32.5.0/PkgTTF-Iosevka-32.5.0.zip](https://github.com/be5invis/Iosevka/releases/download/v32.5.0/PkgTTF-Iosevka-32.5.0.zip)
 
-### Cómo instalar las fuentes de Fonts Google en Linux
+### Cómo instalar las fuentes de Fonts Google u otros en Linux
 2. Extrae los archivos en `~/.fonts/` (para usuario actual) o en `/usr/share/fonts/` (para todos los usuarios).  
-3. Para que el programa en el que está usando las fuentes pueda reconocer las nuevas instaladas, debe cerrar el programa y volverlo a abrir.
+3. Para que el programa en el que está usando las fuentes pueda reconocer las nuevas instaladas, debe cerrar el programa y volverlo a abrir si lo tenía abierto, ejemplo WPS Office, LibreOffice, Inkscape, Gimp, etc
 
-Además también si desea puede refresca la caché de fuentes con:  
+Además también si desea puede refrescar la caché de fuentes con:  
 ```bash
 fc-cache -fv
 ```
@@ -135,7 +135,33 @@ Si tienes una copia de Windows puedes entrar en la sesión de Windows y copiar l
 
 y pegarlas en un pendrive una carpeta creada con tal fin.
 
-También si tienes Dual Boot o si usas un Pendrive con Linux portable puedes Inicia sesión en Linux y Copia los archivos de fuentes (`.ttf`) desde `C:\Windows\Fonts` a `~/.local/share/fonts/` o `/usr/share/fonts/` en Linux.
+También si tienes Dual Boot o si usas un Pendrive con Linux portable puedes Inicia sesión en Linux y Copia los archivos de fuentes (`.ttf`) desde `C:\Windows\Fonts` 
+
+- Luego **Crea un directorio para las fuentes** (por ejemplo, en tu home) Para ver los archivos ocultos usa Ctrl + H para ver los archivos ocultos:
+
+.fonts/windows_fonts
+
+esto para el usuario actual
+
+o
+
+`/usr/share/fonts/windows_fonts`
+
+para todos los usuarios, pero deberás hacer esto como superusuario
+
+   - **Copia todos los archivos TTF, OTF y TTC**
+
+puedes hacerlo con tu administrador de archivos favorito como Thunar, Nemo, Nautilus, Dolphin, etc
+
+   - **Ignora los archivos `.fon`**, ya que no funcionarán, o borralos después.
+  
+   - **Actualiza la caché de fuentes (opcional)**:
+     ```bash
+     fc-cache -fv
+     ```
+Actualizar la cache es opcional pues los programas después de cerrarlos y abrirlos otra vez reconocerán las fuentes nuevas.
+
+---
 
 La mayoría de las fuentes que has copiado desde Windows 10 **funcionarán en Linux Debian**, pero hay algunas consideraciones importantes según el formato de los archivos:
 
@@ -155,24 +181,7 @@ La mayoría de las fuentes que has copiado desde Windows 10 **funcionarán en Li
 
 ---
 
-### 3. Pasos para instalar las fuentes en Debian:
-   - **Crea un directorio para las fuentes** (por ejemplo, en tu home) Para ver los archivos ocultos usa Ctrl + H para ver los archivos ocultos:
 
-.fonts/windows_fonts
- 
-   - **Copia todos los archivos TTF, OTF y TTC** a este directorio:
-
-puedes hacerlo con tu administrador de archivos favorito
-
-   - **Ignora los archivos `.fon`**, ya que no funcionarán, o borralos después.
-  
-   - **Actualiza la caché de fuentes (opcional)**:
-     ```bash
-     fc-cache -fv
-     ```
-Es opcional pues los programas después de cerrarlos y abrirlos otra vez reconocerán las fuentes nuevas.
-
----
 
 ### 4. Verificación:
    - Usa herramientas como `gnome-font-viewer`,  `fontmatrix` o `font-manager` para confirmar que las fuentes se reconocen.
