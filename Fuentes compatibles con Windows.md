@@ -5,10 +5,10 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 |  **Fuente de Windows**   |                                            **Alternativa de Software Libre**                                            |                    **Uso Común en Documentos**                     |                                      **Notas**                                       |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | **Arial**                | **Free Sans** / **Liberation Sans** / **Nimbus Sans** / **IBM plex Sans** / **Ubuntu Sans**                             | Cuerpo de texto, títulos, subtítulos                               | Fuente sans-serif estándar y versátil.                                               |
-| **Times New Roman**      | **Liberation Serif** / **Nimbus Roman** / **IBM plex serif** / **DejaVu Serif** / **URW Bookman** / **C059** / **P052** | Cuerpo de texto, informes formales, libros                         | Fuente serif clásica para documentos profesionales.                                  |
-| **Courier New**          | **FreeMono** / **DejaVu Sans Mono** / **Liberation Mono** / **Inconsolata**                                             | Código, documentos técnicos, textos monoespaciados                 | Fuente monoespaciada usada en programación y tabulación.                             |
+| **Times New Roman**      | **Free Serif / Liberation Serif / Nimbus Roman / P052 / C059  / IBM plex serif / URW Bookman**                          | Cuerpo de texto, informes formales, libros                         | Fuente serif clásica para documentos profesionales.                                  |
+| **Courier New**          | **FreeMono / Noto Mono / Liberation Mono / Inconsolata**                                                                | Código, documentos técnicos, textos monoespaciados                 | Fuente monoespaciada usada en programación y tabulación.                             |
 | **Calibri**              | **Carlito** / **Lato**                                                                                                  | Cuerpo de texto, presentaciones                                    | Fuente moderna y legible.                                                            |
-| **Cambria**              | **Caladea**                                                                                                             | Cuerpo de texto, informes formales                                 | Similar a Times New Roman, con mejor legibilidad en pantalla.                        |
+| **Cambria**              | **Caladea / Cambo**                                                                                                             | Cuerpo de texto, informes formales                                 | Similar a Times New Roman, con mejor legibilidad en pantalla.                        |
 | **Comic Sans MS**        | **Comic Neue** /                                                                                                        | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada.                                                          |
 | **Verdana**              | **Red Hat Text** / **Noto Sans** / **Cantarell**                                                                        | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
 | **Georgia**              | **Source Serif 4** / **TeX Gyre Termes**                                                                                | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
@@ -87,7 +87,10 @@ https://fonts.google.com/specimen/EB+Garamond
 **Lato → Alternativa a Calibri**
 [https://fonts.google.com/specimen/Lato](https://fonts.google.com/specimen/Lato)
 
-**Fira SAns**
+**Cambo**
+https://fonts.google.com/specimen/Cambo
+
+**Fira Sans**
 https://fonts.google.com/specimen/Fira+Sans
 
 **Red Hat Text → Alternativa a Verdana**
