@@ -4,7 +4,7 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 
 |  **Fuente de Windows**   |                                            **Alternativa de Software Libre**                                            |                    **Uso Común en Documentos**                     |                                      **Notas**                                       |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| **Arial**                | **Liberation Sans** / **Nimbus Sans** / **IBM plex Sans** /  **Dejavu Sans**                                            | Cuerpo de texto, títulos, subtítulos                               | Fuente sans-serif estándar y versátil.                                               |
+| **Arial**                | **Free Sans** / **Liberation Sans** / **Nimbus Sans** / **IBM plex Sans** / **Ubuntu Sans**                             | Cuerpo de texto, títulos, subtítulos                               | Fuente sans-serif estándar y versátil.                                               |
 | **Times New Roman**      | **Liberation Serif** / **Nimbus Roman** / **IBM plex serif** / **DejaVu Serif** / **URW Bookman** / **C059** / **P052** | Cuerpo de texto, informes formales, libros                         | Fuente serif clásica para documentos profesionales.                                  |
 | **Courier New**          | **FreeMono** / **DejaVu Sans Mono** / **Liberation Mono** / **Inconsolata**                                             | Código, documentos técnicos, textos monoespaciados                 | Fuente monoespaciada usada en programación y tabulación.                             |
 | **Calibri**              | **Carlito** / **Lato**                                                                                                  | Cuerpo de texto, presentaciones                                    | Fuente moderna y legible.                                                            |
@@ -12,10 +12,10 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Comic Sans MS**        | **Comic Neue** /                                                                                                        | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada.                                                          |
 | **Verdana**              | **Red Hat Text** / **Noto Sans** / **Cantarell**                                                                        | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
 | **Georgia**              | **Source Serif 4** / **TeX Gyre Termes**                                                                                | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
-| **Trebuchet MS**         | **Fira Code**                                                                                                  | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
+| **Trebuchet MS**         | **Fira Code**                                                                                                           | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
 | **Impact**               | **Anton** / **Oswald**                                                                                                  | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
 | **Tahoma**               | **TeX Gyre Heros**                                                                                                      | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
-| **Palatino Linotype**    | **TeX Gyre Pagella**                                                                          | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
+| **Palatino Linotype**    | **TeX Gyre Pagella**                                                                                                    | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
 | **Book Antiqua**         | **EB Garamond (08, 12, SC)** / **EB Garamond**                                                                          | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
 | **Franklin Gothic Book** | **Libre Franklin**                                                                                                      | Títulos, carteles, encabezados                                     | Fuente sans-serif gruesa con estilo fuerte.                                          |
 | **Century Gothic**       | **URW Gothic**                                                                                                          | Títulos modernos, diseño gráfico                                   | Diseño limpio y futurista.                                                           |
@@ -25,28 +25,6 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 
 
 **Notas Adicionales**: En Windows, Garamond no es una fuente nativa estándar (a menos que la instale manualmente), Book Antiqua es su equivalente más cercano en Office. Si en Windows tiene Usted instalada la fuente Garamond (por ejemplo, desde Adobe Fonts), EB Garamond es la mejor alternativa libre.
-
-## Resumen de uso de fuentes no privativas en documentos:
-
-- **Títulos:** Oswald, Anton, Libre Franklin, URW Gothic, Slabo 27px  
-- **Cuerpo de texto:** Carlito, Caladea, Liberation Serif, EB Garamond, Source Serif Pro  
-- **Código de programación:** Fira Code, JetBrains Mono, Source Code Pro, Liberation Mono  
-- **Documentos formales:** Libre Baskerville, TeX Gyre Pagella, EB Garamond, Noto Serif  
-- **Diseño gráfico y presentaciones:** Cantarell, DejaVu Sans, Noto Sans, TeX Gyre Adventor  
-
-Estas fuentes cubren casi todos los usos y garantizan compatibilidad sin depender de las de Windows.
-
-Y aquí tienes la lista solo con las **fuentes de Windows** más usadas en documentos de Microsoft Office:  
-
-- **Títulos:** Franklin Gothic, Trebuchet MS, Impact, Century Gothic  
-- **Cuerpo de texto:** Calibri, Cambria, Arial, Times New Roman, Verdana  
-- **Código de programación:** Consolas, Courier New  
-- **Documentos formales:** Times New Roman, Cambria, Georgia, Palatino Linotype, Book Antiqua  
-- **Diseño gráfico y presentaciones:** Century Gothic, Tahoma, Comic Sans MS  
-
-Estas fuentes vienen preinstaladas en Windows y se usan ampliamente en documentos de Word, Excel y PowerPoint.
-
----
 
 ## 📌 Instalación de las fuentes libres desde repositorios Linux (Debian/MX Linux/Ubuntu, etc)
 Instala las fuentes libres directamente desde los repositorios con este comando:  
@@ -72,7 +50,7 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-texgyre-math =** Estas fuentes uselas si va a escribir fórmulas matemáticas con fonts-texgyre
 **fonts-ebgaramond =** EB Garamond (08, 12) 
 **fonts-ebgaramond-extra =** EB Garamond SC (08, 12), EB Garamond 12 All SC, EB Garamond Initials (Fill1 Fill2) 
-**fonts-ibm-plex =** IBM Plex Sans, IBM plex Serif 
+**fonts-ibm-plex =** IBM Plex Sans, IBM plex Serif, IBM plex Mono
 **fonts-hack =** Hack
 **fonts-inconsolata =** Inconsolata
 **fonts-urw-base35 =** Nimbus Roman, Nimbus Sans, URW Gothic, URW Bookman, C059, P052
