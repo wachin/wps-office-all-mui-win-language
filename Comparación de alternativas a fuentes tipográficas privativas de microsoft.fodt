@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2025-02-17T07:06:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:date>2025-03-11T17:10:18.338886463</dc:date><meta:editing-cycles>66</meta:editing-cycles><meta:editing-duration>PT18H40M</meta:editing-duration><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="412" meta:word-count="3667" meta:character-count="32451" meta:non-whitespace-character-count="19441"/><meta:user-defined meta:name="KSOProductBuildVer">1033-11.1.0.11723</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><meta:creation-date>2025-02-17T07:06:00</meta:creation-date><meta:initial-creator>wachin</meta:initial-creator><dc:date>2025-03-11T17:20:30.062198862</dc:date><meta:editing-cycles>67</meta:editing-cycles><meta:editing-duration>PT18H50M11S</meta:editing-duration><meta:generator>LibreOffice/7.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="412" meta:word-count="3667" meta:character-count="32534" meta:non-whitespace-character-count="19441"/><meta:user-defined meta:name="KSOProductBuildVer">1033-11.1.0.11723</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">48870</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">11</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">28644</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">11643</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">12460</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">7945</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">55921</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16288</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">5674</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">48870</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">11</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">28642</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">60512</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">12469</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -2158,77 +2158,88 @@
   </style:style>
   <style:style style:name="P452" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
-   <style:text-properties style:font-name="FreeSans" fo:font-size="11pt" officeooo:paragraph-rsid="002f8902" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P453" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
    <style:text-properties style:font-name="FreeSans" fo:font-size="11pt" officeooo:paragraph-rsid="00362b16" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P454" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P453" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="FreeSans" fo:font-size="11pt" officeooo:paragraph-rsid="00362b16" style:font-size-asian="11pt" style:font-name-complex="Arial3" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P455" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
-   <style:text-properties style:font-name="FreeSans" officeooo:paragraph-rsid="002f8902"/>
-  </style:style>
-  <style:style style:name="P456" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P454" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
    <style:text-properties style:font-name="FreeSans" officeooo:paragraph-rsid="00362b16"/>
   </style:style>
-  <style:style style:name="P457" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P455" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Ubuntu Sans" officeooo:paragraph-rsid="0033d805"/>
   </style:style>
-  <style:style style:name="P458" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P456" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Ubuntu Sans" officeooo:paragraph-rsid="00362b16"/>
   </style:style>
-  <style:style style:name="P459" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P457" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
    <style:text-properties style:font-name="Nimbus Sans1" officeooo:paragraph-rsid="00362b16"/>
   </style:style>
-  <style:style style:name="P460" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P458" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="11pt" officeooo:paragraph-rsid="00362b16" style:font-size-asian="11pt" style:font-name-complex="DejaVu Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P461" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P459" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="11pt" officeooo:paragraph-rsid="00362b16" style:font-size-asian="11pt" style:font-name-complex="Arial3" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P462" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P460" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Nimbus Sans1" officeooo:paragraph-rsid="00362b16"/>
   </style:style>
-  <style:style style:name="P463" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P461" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="DejaVu Sans1" officeooo:paragraph-rsid="00362b16"/>
   </style:style>
-  <style:style style:name="P464" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P462" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
    <style:text-properties style:font-name="FreeSerif" fo:font-size="11pt" officeooo:paragraph-rsid="00362b16" style:font-size-asian="11pt" style:font-name-complex="Liberation Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P465" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+  <style:style style:name="P463" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="FreeSerif" fo:font-size="11pt" officeooo:paragraph-rsid="00362b16" style:font-size-asian="11pt" style:font-name-complex="Arial3" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P466" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Palatino Linotype" fo:font-size="12pt" officeooo:rsid="00225804" officeooo:paragraph-rsid="00225804" style:font-size-asian="12pt" style:font-name-complex="Palatino Linotype1" style:font-size-complex="12pt"/>
+  <style:style style:name="P464" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Nimbus Sans2" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P467" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="002ea87a"/>
+  <style:style style:name="P465" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-size="11pt" style:font-size-asian="11pt" style:font-name-complex="Nimbus Sans2" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P466" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-size="11pt" officeooo:paragraph-rsid="003386f0" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P467" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:keep-with-next="auto"/>
+   <style:text-properties fo:font-size="11pt" officeooo:paragraph-rsid="003386f0" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P468" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0030fe93"/>
+   <style:text-properties style:font-name="Palatino Linotype" fo:font-size="12pt" officeooo:rsid="00225804" officeooo:paragraph-rsid="00225804" style:font-size-asian="12pt" style:font-name-complex="Palatino Linotype1" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="P469" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0023912e"/>
+   <style:text-properties officeooo:paragraph-rsid="002ea87a"/>
   </style:style>
   <style:style style:name="P470" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="002bf8eb"/>
+   <style:text-properties officeooo:paragraph-rsid="0030fe93"/>
   </style:style>
   <style:style style:name="P471" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0023912e"/>
+  </style:style>
+  <style:style style:name="P472" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002bf8eb"/>
+  </style:style>
+  <style:style style:name="P473" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="FreeSerif" officeooo:paragraph-rsid="00362b16"/>
+  </style:style>
+  <style:style style:name="P474" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00362b16"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties style:font-name="Iosevka Extrabold Extended" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Iosevka Extrabold Extended1" style:font-size-complex="12pt"/>
@@ -4494,11 +4505,11 @@
    <text:p text:style-name="P57"><text:s text:c="29"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P57"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="28"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P5"><text:span text:style-name="T229"><text:s text:c="29"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T229">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
-   <text:p text:style-name="P456"><text:span text:style-name="T22">&gt; </text:span><text:span text:style-name="T28">FreeSans</text:span><text:span text:style-name="T23"> <text:s text:c="11"/>abcdefghijklmnopqrstuvwxyz </text:span></text:p>
-   <text:p text:style-name="P453"><text:s text:c="32"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
-   <text:p text:style-name="P456"><text:span text:style-name="T23"><text:s text:c="32"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span></text:p>
-   <text:p text:style-name="P454"><text:s text:c="32"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P454"><text:s text:c="32"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="31"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P454"><text:span text:style-name="T22">&gt; </text:span><text:span text:style-name="T28">FreeSans</text:span><text:span text:style-name="T23"> <text:s text:c="11"/>abcdefghijklmnopqrstuvwxyz </text:span></text:p>
+   <text:p text:style-name="P452"><text:s text:c="32"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
+   <text:p text:style-name="P454"><text:span text:style-name="T23"><text:s text:c="32"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span></text:p>
+   <text:p text:style-name="P453"><text:s text:c="32"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
+   <text:p text:style-name="P453"><text:s text:c="32"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="31"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P445"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T678"><text:s text:c="26"/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T679"><text:s text:c="3"/>y de los hombres.&quot; <text:s text:c="5"/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T678"><text:s text:c="2"/>Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T441"> </text:span></text:span></text:p>
    <text:p text:style-name="P29"><text:span text:style-name="T21">&gt;</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T23">Liberation Sans abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P32"><text:s text:c="29"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
@@ -4506,12 +4517,12 @@
    <text:p text:style-name="P33"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P33"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P5"><text:span text:style-name="T434"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T434">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
-   <text:p text:style-name="P459"><text:span text:style-name="T27">&gt; </text:span><text:span text:style-name="T30">Nimbus</text:span><text:span text:style-name="T31"> Sans <text:s text:c="3"/>abcdefghijklmnopqrstuvwxyz </text:span></text:p>
-   <text:p text:style-name="P460"><text:s text:c="29"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
-   <text:p text:style-name="P462"><text:span text:style-name="T31"><text:s text:c="29"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt;</text:span><text:span text:style-name="T23"> </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span></text:p>
-   <text:p text:style-name="P461"><text:s text:c="29"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P461"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="28"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T741"><text:s text:c="29"/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T744">y de los hombres.&quot; <text:s text:c="2"/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T741"><text:s text:c="5"/>Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T742"> </text:span></text:span></text:p>
+   <text:p text:style-name="P457"><text:span text:style-name="T27">&gt; </text:span><text:span text:style-name="T30">Nimbus</text:span><text:span text:style-name="T31"> Sans <text:s text:c="3"/>abcdefghijklmnopqrstuvwxyz </text:span></text:p>
+   <text:p text:style-name="P458"><text:s text:c="29"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
+   <text:p text:style-name="P460"><text:span text:style-name="T31"><text:s text:c="29"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt;</text:span><text:span text:style-name="T23"> </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span></text:p>
+   <text:p text:style-name="P459"><text:s text:c="29"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
+   <text:p text:style-name="P459"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="28"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T741"><text:s text:c="29"/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T744">y de los hombres.&quot; <text:s text:c="2"/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T741"><text:s text:c="5"/>Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T742"> </text:span></text:span></text:p>
    <text:p text:style-name="P35"><text:span text:style-name="T22">&gt; </text:span><text:span text:style-name="T27">IBM plex Sans</text:span><text:span text:style-name="T23"> <text:s text:c="2"/>abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P39"><text:s text:c="2"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P38"><text:span text:style-name="T23"><text:s text:c="2"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span></text:p>
@@ -4524,35 +4535,35 @@
    <text:p text:style-name="P425"><text:s text:c="33"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P425"><text:s text:c="34"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="33"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P427"><text:span text:style-name="T96"><text:s text:c="34"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T96">Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="T31"> <text:s text:c="2"/></text:span></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"><text:s text:c="2"/></text:span></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P458"><text:span text:style-name="T743"/></text:p>
-   <text:p text:style-name="P463"/>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"><text:s text:c="2"/></text:span></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P456"><text:span text:style-name="T743"/></text:p>
+   <text:p text:style-name="P461"/>
    <text:p text:style-name="P66"><text:soft-page-break/><text:span text:style-name="T74">Times New Roma</text:span><text:bookmark text:name="_GoBack"/><text:span text:style-name="T74">n </text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P67"><text:s text:c="32"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P69"><text:span text:style-name="T23"><text:s text:c="32"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; <text:s/></text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T14"> <text:s text:c="2"/></text:span></text:p>
    <text:p text:style-name="P68"><text:s text:c="31"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P68"><text:s text:c="32"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="31"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P5"><text:span text:style-name="T240"><text:s text:c="32"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T240">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
-   <text:p text:style-name="P471"><text:span text:style-name="T97">&gt; <text:s/></text:span><text:span text:style-name="T100">FreeSerif</text:span><text:span text:style-name="T41"> <text:s text:c="11"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
-   <text:p text:style-name="P464"><text:s text:c="31"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
-   <text:p text:style-name="P471"><text:span text:style-name="T94"><text:s text:c="31"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; +-ºª÷©°®</text:span><text:span text:style-name="T95"> <text:s/></text:span></text:p>
-   <text:p text:style-name="P465"><text:s text:c="30"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P465"><text:s text:c="31"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="30"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P473"><text:span text:style-name="T97">&gt; <text:s/></text:span><text:span text:style-name="T100">FreeSerif</text:span><text:span text:style-name="T41"> <text:s text:c="11"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
+   <text:p text:style-name="P462"><text:s text:c="31"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
+   <text:p text:style-name="P473"><text:span text:style-name="T94"><text:s text:c="31"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; +-ºª÷©°®</text:span><text:span text:style-name="T95"> <text:s/></text:span></text:p>
+   <text:p text:style-name="P463"><text:s text:c="30"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
+   <text:p text:style-name="P463"><text:s text:c="31"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="30"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P445"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T676"><text:s text:c="30"/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T677"><text:s/>y de los hombres.&quot; <text:s text:c="2"/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T676"><text:s text:c="5"/>Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P71"><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T33">Liberation Serif <text:s text:c="2"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P75"><text:s text:c="32"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P73"><text:span text:style-name="T23"><text:s text:c="32"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt;</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T23"><text:s/></text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span></text:p>
-   <text:p text:style-name="P76"><text:s text:c="29"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P76"><text:s text:c="30"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="30"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P76"><text:s text:c="31"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
+   <text:p text:style-name="P76"><text:s text:c="31"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="30"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P5"><text:span text:style-name="T123"><text:s text:c="31"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T123">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P77"><text:span text:style-name="T33">&gt; </text:span><text:span text:style-name="T34">Nimbus Roman <text:s text:c="2"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P81"><text:s text:c="31"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
@@ -4583,7 +4594,7 @@
    <text:p text:style-name="P347"><text:span text:style-name="T94"><text:s text:c="23"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; +-ºª÷©°®</text:span><text:span text:style-name="T95"> <text:s/></text:span></text:p>
    <text:p text:style-name="P344"><text:s text:c="23"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P344"><text:s text:c="23"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="22"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T667"><text:s text:c="23"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T667">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T667"><text:s text:c="23"/>y de los hombres.&quot; <text:s text:c="5"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T667">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P346"/>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P91"><text:soft-page-break/><text:span text:style-name="T75">Courier New </text:span><text:span text:style-name="T24">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
@@ -4628,30 +4639,35 @@
    <text:p text:style-name="P125"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P7"><text:span text:style-name="T469"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T469">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P373"><text:span text:style-name="T14"><text:s/>&gt; </text:span><text:span text:style-name="T15">Lato</text:span><text:span text:style-name="T39"> <text:s text:c="4"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
-   <text:p text:style-name="P374"><text:s text:c="22"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
-   <text:p text:style-name="P376"><text:s text:c="22"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; <text:s/>+-ºª÷©°®</text:p>
-   <text:p text:style-name="P375"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P375"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T686"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T686">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
+   <text:p text:style-name="P374"><text:s text:c="20"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
+   <text:p text:style-name="P376"><text:s text:c="20"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; <text:s/>+-ºª÷©°®</text:p>
+   <text:p text:style-name="P375"><text:s text:c="33"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
+   <text:p text:style-name="P375"><text:s text:c="34"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="33"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T686"><text:s text:c="31"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T686">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P18"/>
-   <text:p text:style-name="P14"><text:span text:style-name="T147">Cambria <text:s/></text:span><text:span text:style-name="T144"><text:s/></text:span><text:span text:style-name="T145">abcdefghijklmnopqrstuvwxyz </text:span><text:span text:style-name="T144"/></text:p>
-   <text:p text:style-name="P280"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T145"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T146">+-</text:span><text:span text:style-name="T148">ºª÷©°®</text:span><text:span text:style-name="T144"> <text:s/></text:span><text:span text:style-name="T269"><text:s text:c="2"/></text:span><text:span text:style-name="T131"><text:s text:c="2"/></text:span><text:span text:style-name="T144"><text:s text:c="8"/></text:span><text:span text:style-name="T144"/></text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P14"><text:soft-page-break/><text:span text:style-name="T147">Cambria <text:s text:c="3"/></text:span><text:span text:style-name="T144"><text:s text:c="7"/></text:span><text:span text:style-name="T145">abcdefghijklmnopqrstuvwxyz </text:span><text:span text:style-name="T144"/></text:p>
+   <text:p text:style-name="P280"><text:s text:c="28"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T145"><text:s text:c="29"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T146">+-</text:span><text:span text:style-name="T148">ºª÷©°®</text:span><text:span text:style-name="T144"> <text:s/></text:span><text:span text:style-name="T269"><text:s text:c="2"/></text:span><text:span text:style-name="T131"><text:s text:c="2"/></text:span><text:span text:style-name="T144"><text:s text:c="8"/></text:span><text:span text:style-name="T144"/></text:p>
    <text:p text:style-name="P281"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P281"><text:soft-page-break/><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P281"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P7"><text:span text:style-name="T149"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T149">Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="T144"> <text:s text:c="12"/></text:span><text:span text:style-name="T144"/></text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T150">Caladea </text:span><text:span text:style-name="T151">abcdefghijklmnopqrstuvwxyz </text:span><text:span text:style-name="T150"/></text:p>
-   <text:p text:style-name="P20"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="T23"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T49"> </text:span></text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T150">Caladea <text:s text:c="10"/></text:span><text:span text:style-name="T151">abcdefghijklmnopqrstuvwxyz </text:span><text:span text:style-name="T150"/></text:p>
+   <text:p text:style-name="P20"><text:s text:c="29"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T23"><text:s text:c="29"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T49"> </text:span></text:p>
    <text:p text:style-name="P22"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P22"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P7"><text:span text:style-name="T152"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T152">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
-   <text:p text:style-name="P378"><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T15">Cambo</text:span><text:span text:style-name="T49"> </text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
-   <text:p text:style-name="P379"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
-   <text:p text:style-name="P381"><text:span text:style-name="T680"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T681">+-</text:span><text:span text:style-name="T682">ºª÷©°®</text:span> </text:p>
-   <text:p text:style-name="P380"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P380"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T687"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T687">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
+   <text:p text:style-name="P378"><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T15">Cambo</text:span><text:span text:style-name="T49"> <text:s text:c="9"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
+   <text:p text:style-name="P379"><text:s text:c="25"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
+   <text:p text:style-name="P381"><text:span text:style-name="T680"><text:s text:c="23"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T681">+-</text:span><text:span text:style-name="T682">ºª÷©°®</text:span> </text:p>
+   <text:p text:style-name="P380"><text:s text:c="25"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
+   <text:p text:style-name="P380"><text:s text:c="25"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="24"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T687"><text:s text:c="25"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T687">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P24"/>
    <text:p text:style-name="P284"><text:span text:style-name="T60">Comic Sans MS <text:s text:c="3"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P282"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
@@ -4662,9 +4678,9 @@
    <text:p text:style-name="P14"><text:span text:style-name="T14"><text:s/>&gt; </text:span><text:span text:style-name="T154">Comic Neue</text:span><text:span text:style-name="T588"> <text:s text:c="2"/></text:span><text:span text:style-name="T589">abcdefghijklmnopqrstuvwxyz </text:span><text:span text:style-name="T14"/></text:p>
    <text:p text:style-name="P286"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P288"><text:span text:style-name="T23"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T14"> <text:s text:c="2"/></text:span></text:p>
-   <text:p text:style-name="P287"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P287"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T592"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T592">Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="T588"> <text:s text:c="2"/></text:span></text:p>
+   <text:p text:style-name="P287"><text:s text:c="27"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
+   <text:p text:style-name="P287"><text:s text:c="28"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="27"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T592"><text:s text:c="28"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T592">Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="T588"> <text:s text:c="2"/></text:span></text:p>
    <text:p text:style-name="P25"/>
    <text:p text:style-name="P14"><text:span text:style-name="T156">Verdan</text:span><text:span text:style-name="T593">a </text:span><text:span text:style-name="T594"><text:s text:c="5"/></text:span><text:span text:style-name="T595">abcdefghijklmnopqrstuvwxyz </text:span><text:span text:style-name="T155"/></text:p>
    <text:p text:style-name="P289"><text:s text:c="19"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
@@ -4679,16 +4695,22 @@
    <text:p text:style-name="P435"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P10"><text:span text:style-name="T735"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T735">Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="T736"> <text:s text:c="2"/></text:span><text:span text:style-name="T155"><text:s text:c="2"/></text:span><text:span text:style-name="T155"/></text:p>
    <text:p text:style-name="P26"/>
-   <text:p text:style-name="P359"><text:span text:style-name="T160">Georgia <text:s/></text:span><text:span text:style-name="T165">abcdefghijklmnopqrstuvwxyz </text:span><text:span text:style-name="T159"/></text:p>
+   <text:p text:style-name="P466"/>
+   <text:p text:style-name="P466"/>
+   <text:p text:style-name="P466"/>
+   <text:p text:style-name="P466"/>
+   <text:p text:style-name="P466"/>
+   <text:p text:style-name="P466"/>
+   <text:p text:style-name="P359"><text:soft-page-break/><text:span text:style-name="T160">Georgia <text:s/></text:span><text:span text:style-name="T165">abcdefghijklmnopqrstuvwxyz </text:span><text:span text:style-name="T159"/></text:p>
    <text:p text:style-name="P301"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P303"><text:span text:style-name="T83"><text:s text:c="16"/></text:span><text:span text:style-name="T101">0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T102">+-</text:span><text:span text:style-name="T112">ºª÷©°®</text:span><text:span text:style-name="T111"> <text:s text:c="6"/></text:span><text:span text:style-name="T62"><text:s text:c="2"/></text:span></text:p>
    <text:p text:style-name="P302"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P302"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
-   <text:p text:style-name="P382"><text:span text:style-name="T164"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T164">Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="T159"> <text:s/></text:span><text:span text:style-name="T159"><text:s text:c="16"/></text:span><text:span text:style-name="T159"/></text:p>
+   <text:p text:style-name="P474"><text:span text:style-name="T164"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T164">Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="T159"> <text:s text:c="17"/></text:span><text:span text:style-name="T159"/></text:p>
    <text:p text:style-name="P223"><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T50">Source Serif 4 </text:span><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P221"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P223"><text:span text:style-name="T23"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T14"> <text:s text:c="5"/></text:span></text:p>
-   <text:p text:style-name="P222"><text:soft-page-break/><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
+   <text:p text:style-name="P222"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P222"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P7"><text:span text:style-name="T609"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T609">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P259"><text:span text:style-name="T14">&gt; <text:s/></text:span><text:span text:style-name="T51">TeX Gyre Termes <text:s/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
@@ -4726,7 +4748,7 @@
    <text:p text:style-name="P7"><text:span text:style-name="T701"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T701">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P321"><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T57">Oswald <text:s text:c="3"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P322"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
-   <text:p text:style-name="P325"><text:span text:style-name="T23"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T57"> </text:span></text:p>
+   <text:p text:style-name="P325"><text:soft-page-break/><text:span text:style-name="T23"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T57"> </text:span></text:p>
    <text:p text:style-name="P323"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P323"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P325"><text:span text:style-name="T96"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T96">Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="T57"> <text:s text:c="4"/></text:span></text:p>
@@ -4734,7 +4756,7 @@
    <text:p text:style-name="P326"><text:span text:style-name="T82">Tahoma</text:span><text:span text:style-name="T74"> </text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P327"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P329"><text:span text:style-name="T23"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T14"> <text:s text:c="2"/></text:span></text:p>
-   <text:p text:style-name="P328"><text:soft-page-break/><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
+   <text:p text:style-name="P328"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P328"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P7"><text:span text:style-name="T634"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T634">Proverbios 3:3-4 (RVR1960)</text:span></text:span><text:span text:style-name="T632"> <text:s text:c="3"/></text:span><text:span text:style-name="T14"><text:s text:c="17"/></text:span><text:span text:style-name="T14"/></text:p>
    <text:p text:style-name="P249"><text:span text:style-name="T14">&gt; <text:s/></text:span><text:span text:style-name="T58">TeX Gyre Heros <text:s/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
@@ -4776,7 +4798,7 @@
    <text:p text:style-name="P216"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P7"><text:span text:style-name="T307"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T307">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P409"><text:span text:style-name="T67">&gt; </text:span><text:span text:style-name="T68">EB Garamond </text:span><text:span text:style-name="T69">12</text:span><text:span text:style-name="T68"> ALL SC <text:s text:c="3"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
-   <text:p text:style-name="P410"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
+   <text:p text:style-name="P410"><text:soft-page-break/><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P412"><text:span text:style-name="T23"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T59"> <text:s text:c="2"/></text:span></text:p>
    <text:p text:style-name="P411"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P411"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
@@ -4786,7 +4808,7 @@
    <text:p text:style-name="P332"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P334"><text:span text:style-name="T23"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T59"> <text:s text:c="2"/></text:span></text:p>
    <text:p text:style-name="P333"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P333"><text:soft-page-break/><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P333"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P7"><text:span text:style-name="T653"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T653">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P338"><text:span text:style-name="T14">&gt; </text:span><text:span text:style-name="T71">Libre Franklin Medium</text:span><text:span text:style-name="T14"> <text:s text:c="3"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P336"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
@@ -4826,7 +4848,7 @@
    <text:p text:style-name="P421"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
    <text:p text:style-name="P421"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P7"><text:span text:style-name="T712"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T713">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
-   <text:p text:style-name="P180"/>
+   <text:p text:style-name="P180"><text:soft-page-break/></text:p>
    <text:p text:style-name="P205"><text:span text:style-name="T89">Baskerville Old Face</text:span><text:span text:style-name="T72"> <text:s text:c="6"/></text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
    <text:p text:style-name="P203"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P205"><text:span text:style-name="T23"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T25">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T59"> <text:s text:c="2"/></text:span><text:span text:style-name="T72"><text:s text:c="3"/></text:span></text:p>
@@ -4837,7 +4859,7 @@
    <text:p text:style-name="P210"><text:s text:c="16"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P212"><text:span text:style-name="T115"><text:s text:c="16"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?&lt;&gt; </text:span><text:span text:style-name="T116">+-</text:span><text:span text:style-name="T94">ºª÷©°®</text:span><text:span text:style-name="T117"> <text:s text:c="2"/></text:span></text:p>
    <text:p text:style-name="P211"><text:s text:c="28"/>&quot;Nunca se aparten de ti la misericordia y la verdad;</text:p>
-   <text:p text:style-name="P211"><text:soft-page-break/><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
+   <text:p text:style-name="P211"><text:s text:c="29"/>átalas a tu cuello, escríbelas en la tabla de tu corazón;<text:line-break/> <text:s text:c="29"/>y hallarás gracia y buena opinión ante los ojos de Dios </text:p>
    <text:p text:style-name="P7"><text:span text:style-name="T389"><text:s text:c="30"/>y de los hombres.&quot; <text:s text:c="7"/></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T389">Proverbios 3:3-4 (RVR1960)</text:span></text:span></text:p>
    <text:p text:style-name="P182"/>
    <text:p text:style-name="P184">Fuentes Monoespaciadas con ligaduras</text:p>
@@ -4879,7 +4901,7 @@
    <text:p text:style-name="P384"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
    <text:p text:style-name="P148"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">||</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">|&gt; &lt;|</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">?.</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">??</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">+=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">-=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">*=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">/=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">%=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">&amp;=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">|=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">^=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">::</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">..</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T690"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T689">//</text:span></text:span></text:p>
    <text:p text:style-name="P388"><text:span text:style-name="T47"><text:s/></text:span><text:span text:style-name="T79">Fragment Mono</text:span><text:span text:style-name="T45"> </text:span><text:span text:style-name="T23">abcdefghijklmnopqrstuvwxyz </text:span></text:p>
-   <text:p text:style-name="P386"><text:s text:c="15"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
+   <text:p text:style-name="P386"><text:soft-page-break/><text:s text:c="15"/>ABCDEFGHIJKLMNOPQRSTUVWXYZ </text:p>
    <text:p text:style-name="P387"><text:s text:c="15"/>0123456789 áéíóú üñ |@#~½{[]}¡!&quot;&apos;$%&amp;\ /()=¿?</text:p>
    <text:p text:style-name="P387"><text:s text:c="3"/>&lt;&lt; &gt;&gt; &lt;= &gt;= != === &lt;&gt; =&gt; ++ --&gt; -&gt; &lt;-- &lt;- &lt;!-- ~~&gt; -&gt;&gt; &lt;&lt;- /= &lt;= ###</text:p>
    <text:p text:style-name="P148"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691"><text:s text:c="3"/>&amp;&amp;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">||</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">|&gt; &lt;|</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">&gt;&gt;&gt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">&lt;&lt;&lt;</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">?.</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">??</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">+=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">-=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">*=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">/=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">%=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">&amp;=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">|=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">^=</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">::</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">..</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">...</text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T692"> </text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T691">//</text:span></text:span></text:p>
@@ -4891,7 +4913,7 @@
    <text:p text:style-name="P207"><text:span text:style-name="Strong_20_Emphasis"/></text:p>
    <text:p text:style-name="P201"><text:span text:style-name="T569">Baskerville Old Face</text:span><text:span text:style-name="T566"> </text:span><text:span text:style-name="T567"><text:s/>“</text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T575">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
    <text:p text:style-name="P201"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T575"><text:s text:c="36"/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>
-   <text:p text:style-name="P201"><text:soft-page-break/><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T575"><text:s text:c="36"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
+   <text:p text:style-name="P201"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T575"><text:s text:c="36"/>“Sécase la hierba, marchítase la flor; mas la palabra del Dios </text:span></text:span></text:p>
    <text:p text:style-name="P201"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T575"><text:s text:c="36"/>nuestro permanece para siempre.” Isaías 40:8 </text:span></text:span></text:p>
    <text:p text:style-name="P190"><text:span text:style-name="T484">EB Garamond 12 </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T484"><text:s/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T486"><text:s text:c="11"/></text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T488">“</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T487">No fiéis en palabras de mentira, diciendo: Templo de Jehová, </text:span></text:span></text:p>
    <text:p text:style-name="P190"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T487"><text:tab/><text:tab/> <text:s text:c="8"/>templo de Jehová, templo de Jehová es este.” Jeremías 7:4 </text:span></text:span></text:p>

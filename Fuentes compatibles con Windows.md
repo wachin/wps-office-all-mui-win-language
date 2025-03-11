@@ -45,7 +45,7 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-crosextra-carlito** = carlito
 **fonts-crosextra-caladea** = caladea
 **fonts-dejavu =** DejaVu Sans, DejaVu Sans Mono
-**fonts-cantarell =** Canatarell
+**fonts-cantarell =** Cantarell
 **fonts-texgyre =** TeX Gyre Pagella, TeX Gyre Heros, TeX Gyre Termes 
 **fonts-texgyre-math =** Estas fuentes uselas si va a escribir fórmulas matemáticas con fonts-texgyre
 **fonts-ebgaramond =** EB Garamond (08, 12) 
