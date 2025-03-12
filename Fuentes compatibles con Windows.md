@@ -11,10 +11,10 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Cambria**              | **Caladea / Cambo**                                                                                                     | Cuerpo de texto, informes formales                                 | Similar a Times New Roman, con mejor legibilidad en pantalla.                        |
 | **Comic Sans MS**        | **Comic Neue** /                                                                                                        | Usada en textos informales, educativos y presentaciones infantiles | Comic Neue es más refinada.                                                          |
 | **Verdana**              | **DejaVu Sans**                                                                                                         | Cuerpo de texto, páginas web, interfaces gráficas                  | Excelente legibilidad en pantallas.                                                  |
-| **Georgia**              | **Source Serif 4** / **TeX Gyre Termes**                                                                                | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
+| **Georgia**              | **Gelasio**                                                                                                             | Cuerpo de texto, títulos de documentos                             | Fuente serif con buena legibilidad en pantalla.                                      |
 | **Trebuchet MS**         | **Fira Code**                                                                                                           | Títulos, subtítulos, presentaciones                                | Alternativa con un diseño limpio y moderno.                                          |
 | **Impact**               | **Anton** / **Oswald**                                                                                                  | Títulos llamativos                                                 | Anton es una alternativa con un impacto visual fuerte.                               |
-| **Tahoma**               | **TeX Gyre Heros**                                                                                                      | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
+| **Tahoma**               | **Signika**                                                                                                             | Cuerpo de texto en interfaces gráficas y documentos empresariales  | Similar en espaciado y claridad.                                                     |
 | **Palatino Linotype**    | **TeX Gyre Pagella**                                                                                                    | Libros, ensayos, textos académicos                                 | Basado en el diseño de Palatino.                                                     |
 | **Book Antiqua**         | **EB Garamond (08, 12, SC)** / **EB Garamond**                                                                          | Cuerpo de texto en documentos elegantes o clásicos                 | Alternativas clásicas con estilo refinado.                                           |
 | **Franklin Gothic Book** | **Libre Franklin**                                                                                                      | Títulos, carteles, encabezados                                     | Fuente sans-serif gruesa con estilo fuerte.                                          |
@@ -93,14 +93,17 @@ https://fonts.google.com/specimen/Cambo
 **Fira Sans**
 https://fonts.google.com/specimen/Fira+Sans
 
-**Red Hat Text → Alternativa a Verdana**
-https://fonts.google.com/specimen/Red+Hat+Text?
-
 **Victor Mono → Alternativa a Consolas**
 https://fonts.google.com/specimen/Victor+Mono
 
 **Fragment Mono → Alternativa a Consolas**
 https://fonts.google.com/specimen/Fragment+Mono
+
+**Gelasio → Alternativa a Georgia**
+https://fonts.google.com/specimen/Gelasio
+
+**Signika**
+https://fonts.google.com/specimen/Signika
 
 **Iosevka → Alternativa a Consolas**
 [https://github.com/be5invis/Iosevka/releases](https://github.com/be5invis/Iosevka/releases)
