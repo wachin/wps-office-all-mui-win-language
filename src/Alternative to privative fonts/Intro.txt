@@ -1,0 +1,17 @@
+Alternativas a fuentes tipográficas privativas de microsoft
+Fuentes tamaño 10
+He realiado una pequeña lista de fuentes tipográficas privativas y sus alternativas gratuitas basandome en las fuentes que Microsoft usa en su Sistema Operativo y Office, según:
+
+Windows 10 font list
+https://learn.microsoft.com/en-us/typography/fonts/windows_10_font_list
+
+List of typefaces included with Microsoft Windows
+https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows
+
+Font Library 
+https://learn.microsoft.com/en-us/typography/font-list/
+
+Microsoft 365 Copilot
+www.office.com
+
+En el futuro puede que yo añada más fuentes. Si usted tiene alguna que desee que yo añada, por favor escribame a mi correo 
