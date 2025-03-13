@@ -24,16 +24,14 @@ La siguiente es una tabla donde están indicandos los usos típicos en documento
 | **Consolas**             | **JetBrains Mono** / **DejaVu Sans Mono** / **Fira Code** / **Hack** / **Iosevka** / **Victor Mono** /**Fragment Mono** | Código de programación, terminales, documentos técnicos            | Consolas es monoespaciada, sus alternativas tienen soporte para ligaduras de código. |
 
 
-**Notas Adicionales**: En Windows, Garamond no es una fuente nativa estándar (a menos que la instale manualmente), Book Antiqua es su equivalente más cercano en Office. Si en Windows tiene Usted instalada la fuente Garamond (por ejemplo, desde Adobe Fonts), EB Garamond es la mejor alternativa libre.
-
 ## 📌 Instalación de las fuentes libres desde repositorios Linux (Debian/MX Linux/Ubuntu, etc)
 Instala las fuentes libres directamente desde los repositorios con este comando:  
 
 ```bash
 sudo apt install fonts-liberation fonts-freefont-ttf fonts-crosextra-carlito \
     fonts-crosextra-caladea fonts-dejavu fonts-cantarell fonts-firacode \
-    fonts-jetbrains-mono fonts-texgyre fonts-texgyre-math fonts-ebgaramond \
-    fonts-ebgaramond-extra fonts-hack fonts-inconsolata fonts-uralic \
+    fonts-jetbrains-mono fonts-ebgaramond fonts-ebgaramond-extra \
+    fonts-hack fonts-inconsolata fonts-uralic \
     fonts-urw-base35 fonts-bpg-georgian fonts-comic-neue \
     fonts-goudybookletter fonts-ibm-plex 
 ```
@@ -46,8 +44,6 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-crosextra-caladea** = caladea
 **fonts-dejavu =** DejaVu Sans, DejaVu Sans Mono
 **fonts-cantarell =** Cantarell
-**fonts-texgyre =** TeX Gyre Pagella, TeX Gyre Heros, TeX Gyre Termes 
-**fonts-texgyre-math =** Estas fuentes uselas si va a escribir fórmulas matemáticas con fonts-texgyre
 **fonts-ebgaramond =** EB Garamond (08, 12) 
 **fonts-ebgaramond-extra =** EB Garamond SC (08, 12), EB Garamond 12 All SC, EB Garamond Initials (Fill1 Fill2) 
 **fonts-ibm-plex =** IBM Plex Sans, IBM plex Serif, IBM plex Mono
