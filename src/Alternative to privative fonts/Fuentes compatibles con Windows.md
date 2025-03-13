@@ -45,7 +45,7 @@ Entre las que se intalan, hay algunos paquetes que instalan varias fuentes con d
 **fonts-dejavu =** DejaVu Sans, DejaVu Sans Mono
 **fonts-cantarell =** Cantarell
 **fonts-ebgaramond =** EB Garamond (08, 12) 
-**fonts-ebgaramond-extra =** EB Garamond SC (08, 12), EB Garamond 12 All SC, EB Garamond Initials (Fill1 Fill2) 
+**fonts-ebgaramond-extra =** EB Garamond SC (08, 12), EB Garamond 12 All SC
 **fonts-ibm-plex =** IBM Plex Sans, IBM plex Serif, IBM plex Mono
 **fonts-hack =** Hack
 **fonts-inconsolata =** Inconsolata
