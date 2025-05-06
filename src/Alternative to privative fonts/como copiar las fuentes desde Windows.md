@@ -1,5 +1,5 @@
 
-# 🖋️ Cómo Instalar Fuentes Tipográficas de Windows en Linux
+# 🖋️ Cómo copiar las Fuentes Tipográficas de Windows a Linux
 
 Este tutorial explica cómo **copiar e instalar las fuentes tipográficas (TrueType, OpenType, etc.) desde Windows a un sistema Linux**, ya sea Debian, Ubuntu o cualquier distribución basada en GNU/Linux. Ideal si vienes de Windows y no quieres perder tus fuentes favoritas.
 
@@ -90,6 +90,10 @@ sudo mkdir -p /usr/share/fonts/windows_fonts
 
 Una vez tengas los archivos `.ttf`, `.otf` o `.ttc` en tu equipo Linux, cópialos al directorio creado.
 
+Puedes usar tu administrador de archivos como **Nautilus**, **Dolphin**, **Thunar** o **Nemo** para arrastrar y soltar los archivos
+
+o:
+
 Ejemplo usando el terminal:
 ```bash
 cp ~/Descargas/fuentes_windows/*.ttf ~/.fonts/windows_fonts/
@@ -98,21 +102,19 @@ cp ~/Descargas/fuentes_windows/*.otf ~/.fonts/windows_fonts/
 
 > ❌ Ignora los archivos `.fon`: No son compatibles con Linux moderno.
 
-También puedes usar un administrador de archivos como **Nautilus**, **Dolphin**, **Thunar** o **Nemo** para arrastrar y soltar los archivos.
-
 ---
 
 ## ♻️ Paso 5: Actualizar la caché de fuentes
 
-Es recomendable actualizar la caché de fuentes para que las nuevas fuentes aparezcan inmediatamente en aplicaciones como LibreOffice, GIMP, Inkscape, etc.
+Puedes cerrar el programa que estés usando como LibreOffice, GIMP, Inkscape, etc y volverlo a abrir para que reconozca la fuentes tipográficas instaladas
+
+y además se puede hacer desde la terminal:
 
 ```bash
 fc-cache -fv
 ```
 
-Este comando forzará la reconstrucción de la caché de fuentes.
-
-> ✅ Si no lo ejecutas, las fuentes aparecerán después de reiniciar las aplicaciones o el sistema.
+Este comando forzará la reconstrucción de la caché de fuentes. Si no lo ejecutas, las fuentes aparecerán después de reiniciar las aplicaciones o el sistema.
 
 ---
 
