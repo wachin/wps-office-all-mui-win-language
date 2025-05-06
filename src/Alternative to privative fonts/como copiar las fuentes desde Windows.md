@@ -62,7 +62,7 @@ Esta carpeta contiene principalmente archivos `.ttf`, `.otf`, `.fon` y algunos `
 Puedes crear una carpeta para organizar tus fuentes copiadas:
 
 ### Puedes hacerlo con un administrador de archivos
-Has visibles los archivos y directorios ocultos con `Ctrl + H`. Luego **Crea un directorio para las fuentes** (en tu home):
+Has visibles los archivos y directorios ocultos con `Ctrl + H`. Luego **Crea un directorio para las fuentes** con el nombre `.fonts` y luego dentro de ella `windows_fonts` (en tu home), así debe de quedar:
 
 .fonts/windows_fonts
 
@@ -74,7 +74,7 @@ o
 
 para todos los usuarios, pero deberás hacer esto como superusuario (en este caso lo mejor será hacerlo desde la terminal).
 
-### También puedes si deseas hacerlo desde la terminal, para el usuario actual:
+### Para crear los directorios desde la terminal, para el usuario actual:
 ```bash
 mkdir -p ~/.fonts/windows_fonts
 ```
